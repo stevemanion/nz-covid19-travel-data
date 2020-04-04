@@ -1,0 +1,27 @@
+caseId,cruiseShip,departureDate,arrivalDate,origin,destination
+41,Celebrity Solstice,10/03/20,11/03/20,Auckland,Tauranga
+41,Celebrity Solstice,11/03/20,13/03/20,Tauranga,Picton
+41,Celebrity Solstice,13/03/20,14/03/20,Picton,Akaroa
+41,Celebrity Solstice,14/03/20,15/03/20,Akaroa,Port Chalmers
+41,Celebrity Solstice,15/03/20,16/03/20,Port Chalmers,Fiordland
+41,Celebrity Solstice,16/03/20,20/03/20,Fiordland,Sydney
+134,Ruby Princess,11/03/20,12/03/20,Fiordland,Dunedin
+134,Ruby Princess,12/03/20,13/03/20,Dunedin,Akaroa
+134,Ruby Princess,13/03/20,14/03/20,Akaroa,Wellington
+134,Ruby Princess,14/03/20,15/03/20,Wellington,Napier
+134,Ruby Princess,15/03/20,18/03/20,Napier,Sydney
+135,Ruby Princess,11/03/20,12/03/20,Fiordland,Dunedin
+135,Ruby Princess,12/03/20,13/03/20,Dunedin,Akaroa
+135,Ruby Princess,13/03/20,14/03/20,Akaroa,Wellington
+135,Ruby Princess,14/03/20,15/03/20,Wellington,Napier
+135,Ruby Princess,15/03/20,18/03/20,Napier,Sydney
+203,Ruby Princess,11/03/20,12/03/20,Fiordland,Dunedin
+203,Ruby Princess,12/03/20,13/03/20,Dunedin,Akaroa
+203,Ruby Princess,13/03/20,14/03/20,Akaroa,Wellington
+203,Ruby Princess,14/03/20,15/03/20,Wellington,Napier
+203,Ruby Princess,15/03/20,18/03/20,Napier,Sydney
+226,Ruby Princess,11/03/20,12/03/20,Fiordland,Dunedin
+226,Ruby Princess,12/03/20,13/03/20,Dunedin,Akaroa
+226,Ruby Princess,13/03/20,14/03/20,Akaroa,Wellington
+226,Ruby Princess,14/03/20,15/03/20,Wellington,Napier
+226,Ruby Princess,15/03/20,18/03/20,Napier,Sydney
