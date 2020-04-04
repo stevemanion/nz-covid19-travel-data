@@ -1,0 +1,5 @@
+airportId,change,reason
+1960,Nandi -> Nadi,Incorrect city name
+2030,Queenstown International -> Queenstown,Incorrect city name
+2037,Woodbourne -> Blenheim,Blenheim is the main city for this port
+4095,NAPIER -> Napier,No need for all caps
