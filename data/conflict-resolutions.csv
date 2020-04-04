@@ -1,0 +1,7 @@
+caseId,change,reason
+26,QF13 -> QF153,flight number does not match the ports departed/arrived at
+30,dates,departure and arrival date reversed as they go back in time
+40,EK5047 -> EK412,flight number does not match the ports departed/arrived at
+42,13th March -> 14th March,all fields match except date which is one day out
+48,NZ5181 -> NZ5180,flight number does not match the ports departed/arrived at
+214,JQ27 -> JQ287,flight number does not match the ports departed/arrived at

@@ -1,0 +1,208 @@
+caseId,flight,date,origin,destination
+1,UNK,26/02/20,Unknown-Iran,Dubai
+1,EK450,26/02/20,Dubai,Denpasar
+1,EK450,26/02/20,Denpasar,Auckland
+2,NZ283,25/02/20,Singapore,Auckland
+3,QR920,23/02/20,Doha,Auckland
+4,NZ283,25/02/20,Singapore,Auckland
+5,QR920,23/02/20,Doha,Auckland
+6,NZ29,06/03/20,Houston,Auckland
+7,QR920,10/03/20,Doha,Auckland
+7,JQ225,10/03/20,Auckland,Christchurch
+8,NZ828,14/03/20,Brisbane,Wellington
+9,AA83,14/03/20,Los Angeles,Auckland
+9,NZ419,14/03/20,Auckland,Wellington
+10,AA83,14/03/20,Los Angeles,Auckland
+10,NZ419,14/03/20,Auckland,Wellington
+11,NZ283,07/03/20,Singapore,Auckland
+11,NZ675,08/03/20,Auckland,Dunedin
+13,EK448,14/03/20,Dubai,Auckland
+15,NZ7,13/03/20,San Francisco,Auckland
+16,UNK,12/03/20,Unknown-Canada,Unknown-NZ
+17,NZ102,10/03/20,Sydney,Auckland
+18,SQ297,16/03/20,Singapore,Christchurch
+19,NZ112,08/03/20,Sydney,Auckland
+20,SQ285,15/03/20,Singapore,Auckland
+21,EK448,09/03/20,Dubai,Auckland
+21,NZ8041,09/03/20,Auckland,New Plymouth
+22,NZ23,15/03/20,Vancouver,Auckland
+22,NZ8035,15/03/20,Auckland,New Plymouth
+23,VA141,16/03/20,Sydney,Auckland
+24,SQ285,13/03/20,Singapore,Auckland
+25,NZ5,13/03/20,Los Angeles,Auckland
+26,QF153,15/03/20,Melbourne,Auckland
+27,NZ1,17/03/20,London,Auckland
+27,NZ525,17/03/20,Auckland,Christchurch
+27,NZ5749,17/03/20,Christchurch,Dunedin
+28,EK412,13/03/20,Sydney,Christchurch
+29,UNK,11/03/20,Singapore,Auckland
+30,AA83,14/03/20,Los Angeles,Auckland
+30,NZ535,15/03/20,Auckland,Christchurch
+31,SQ247,14/03/20,Melbourne,Wellington
+32,QR920,16/03/20,Doha,Auckland
+32,NZ5021,17/03/20,Auckland,Napier
+33,EK450,16/03/20,Dubai,Auckland
+34,EK450,16/03/20,Dubai,Auckland
+35,UNK,,Los Angeles,Auckland
+36,UNK,,Los Angeles,Auckland
+37,UNK,15/03/20,London,Doha
+37,UNK,15/03/20,Doha,Auckland
+39,NZ5,18/03/20,Los Angeles,Auckland
+39,NZ615,18/03/20,Auckland,Queenstown
+40,EK412,14/03/20,Sydney,Wellington
+41,NZ670,15/03/20,Dunedin,Auckland
+42,SQ285,13/03/20,Singapore,Auckland
+43,QF161,14/03/20,Sydney,Wellington
+44,NZ449,08/03/20,Auckland,Wellington
+44,NZ5810,12/03/20,Wellington,Hamilton
+44,NZ5823,13/03/20,Hamilton,Wellington
+45,EK448,12/03/20,Dubai,Auckland
+45,NZ433,12/03/20,Auckland,Wellington
+46,NZ674,16/03/20,Dunedin,Auckland
+47,EK448,10/03/20,Dubai,Auckland
+48,NZ642,13/03/20,Queenstown,Christchurch
+48,NZ5181,13/03/20,Christchurch,Palmerston North
+49,QR920,14/03/20,Doha,Auckland
+49,NZ5107,16/03/20,Auckland,Palmerston North
+51,NZ5065,16/03/20,Auckland,Nelson
+53,NZ1,14/03/20,Los Angeles,Auckland
+53,NZ615,14/03/20,Auckland,Queenstown
+55,HA445,14/03/20,Honolulu,Auckland
+56,NZ5,17/03/20,Los Angeles,Auckland
+58,NZ674,15/03/20,Queenstown,Auckland
+60,EK448,16/03/20,Dubai,Auckland
+62,TG491,15/03/20,Bangkok,Auckland
+62,NZ8041,16/03/20,Auckland,New Plymouth
+63,EK448,17/03/20,Dubai,Auckland
+63,NZ8041,18/03/20,Auckland,New Plymouth
+64,NZ7,16/03/20,San Francisco,Auckland
+64,NZ523,17/03/20,Auckland,Christchurch
+65,JQ217,15/03/20,Melbourne,Auckland
+66,EK448,15/03/20,Dubai,Auckland
+67,JQ256,15/03/20,Wellington,Auckland
+68,NZ7,17/03/20,San Francisco,Auckland
+68,JQ285,19/03/20,Auckland,Dunedin
+69,EK448,15/03/20,Dubai,Auckland
+71,NZ5,18/03/20,Los Angeles,Auckland
+72,SQ297,18/03/20,Singapore,Christchurch
+74,QF143,18/03/20,Sydney,Auckland
+76,CX2191,13/03/20,Hong Kong,Auckland
+77,MH133,19/03/20,Kuala Lumpur,Auckland
+78,NZ842,19/03/20,Sydney,Wellington
+80,QF143,18/03/20,Sydney,Auckland
+80,NZ8205,18/03/20,Auckland,Blenheim
+81,EK448,18/03/20,Dubai,Auckland
+83,QR920,18/03/20,Doha,Auckland
+84,QR920,18/03/20,Doha,Auckland
+86,QF2,13/03/20,London,Sydney
+86,QF161,15/03/20,Sydney,Wellington
+90,NZ1,15/03/20,Los Angeles,Auckland
+91,NZ1,15/03/20,Los Angeles,Auckland
+92,QR920,22/03/20,Doha,Auckland
+94,EK448,19/03/20,Dubai,Auckland
+102,UNK,18/03/20,Unknown-USA,Auckland
+103,UNK,18/03/20,Unknown-USA,Auckland
+105,EY52,16/03/20,Geneva,Abu Dhabi
+105,UNK,16/03/20,Abu Dhabi,Auckland
+108,EK448,18/03/20,Dubai,Auckland
+108,EK7563,18/03/20,Auckland,Queenstown
+111,EK448,16/03/20,Dubai,Auckland
+113,UNK,18/03/20,Unknown-International,Auckland
+116,UNK,20/03/20,Unknown-International,Auckland
+117,UNK,18/03/20,Unknown-International,Auckland
+120,UNK,14/03/20,London,Los Angeles
+120,NZ5,14/03/20,Los Angeles,Auckland
+120,NZ671,16/03/20,Auckland,Dunedin
+121,EK448,19/03/20,Dubai,Auckland
+121,JQ285,19/03/20,Auckland,Dunedin
+124,UNK,19/03/20,Unknown-USA,Auckland
+125,UNK,19/03/20,Unknown-USA,Auckland
+126,NZ5,17/03/20,Los Angeles,Auckland
+126,NZ409,19/03/20,Auckland,Wellington
+127,NZ5,17/03/20,Los Angeles,Auckland
+127,NZ409,19/03/20,Auckland,Wellington
+128,EK2,17/03/20,London,Dubai
+128,EK450,18/03/20,Dubai,Denpasar
+128,EK450,18/03/20,Denpasar,Auckland
+128,NZ409,19/03/20,Auckland,Wellington
+129,QF161,20/03/20,Sydney,Wellington
+130,NZ409,19/03/20,Los Angeles,Auckland
+131,UNK,18/03/20,Barcelona,Dubai
+131,EK448,18/03/20,Dubai,Auckland
+131,NZ5021,19/03/20,Auckland,Napier
+132,UNK,18/03/20,Barcelona,Dubai
+132,EK448,18/03/20,Dubai,Auckland
+132,NZ5021,19/03/20,Auckland,Napier
+134,UNK,18/03/20,Sydney,Wellington
+135,UNK,18/03/20,Sydney,Wellington
+142,AA83,14/03/20,Los Angeles,Auckland
+143,NZ7,21/03/20,San Francisco,Auckland
+143,NZ527,21/03/20,Auckland,Christchurch
+146,EK6,13/03/20,London,Dubai
+146,UNK,13/03/20,Dubai,Sydney
+146,UNK,13/03/20,Sydney,Christchurch
+148,EK412,13/03/20,Sydney,Christchurch
+150,EK448,22/03/20,Dubai,Auckland
+150,NZ8155,23/03/20,Auckland,Rotorua
+151,NZ29,20/03/20,Houston,Auckland
+151,NZ407,20/03/20,Auckland,Wellington
+152,UNK,23/03/20,London,Dubai
+152,EK448,23/03/20,Dubai,Auckland
+152,NZ677,23/03/20,Auckland,Dunedin
+158,EK90,21/03/20,Geneva,Dubai
+158,EK450,22/03/20,Dubai,Auckland
+158,NZ671,23/03/20,Auckland,Dunedin
+173,EY26,15/03/20,London,Abu Dhabi
+173,EY450,15/03/20,Abu Dhabi,Sydney
+173,NZ102,17/03/20,Sydney,Auckland
+180,EK10,19/03/20,London,Dubai
+180,EK412,20/03/20,Dubai,Sydney
+180,QF161,21/03/20,Sydney,Wellington
+181,NZ29,18/03/20,Houston,Auckland
+181,NZ407,18/03/20,Auckland,Wellington
+183,EK768,16/03/20,Johannesburg,Dubai
+183,EK448,17/03/20,Dubai,Auckland
+183,EK7547,18/03/20,Auckland,Wellington
+191,UNK,17/03/20,Los Angeles,Auckland
+191,UNK,17/03/20,Auckland,Wellington
+192,UNK,22/03/20,Bangkok,Auckland
+193,EK188,15/03/20,Barcelona,Dubai
+193,EK448,16/03/20,Dubai,Auckland
+193,NZ5115,17/03/20,Auckland,Palmerston North
+194,EK38,19/03/20,Birmingham,Dubai
+194,EK448,21/03/20,Dubai,Auckland
+205,EY8,19/03/20,Frankfurt,Abu Dhabi
+205,EY462,20/03/20,Abu Dhabi,Melbourne
+205,EY6328,21/03/20,Melbourne,Auckland
+205,NZ625,21/03/20,Auckland,Queenstown
+206,SQ51,18/03/20,Manchester,Singapore
+206,SQ297,20/03/20,Singapore,Christchurch
+207,EK10,19/03/20,London,Dubai
+207,EK412,20/03/20,Dubai,Sydney
+207,EK412,20/03/20,Sydney,Christchurch
+208,EK448,18/03/20,Dubai,Auckland
+208,NZ677,19/03/20,Auckland,Dunedin
+210,EK448,19/03/20,Dubai,Auckland
+210,UNK,20/03/20,Auckland,Christchurch
+212,QR906,12/03/20,Doha,Sydney
+212,VA171,13/03/20,Sydney,Wellington
+216,EK448,,Dubai,Auckland
+216,NZ8155,,Auckland,Rotorua
+217,NZ535,,Nadi,Auckland
+218,EK448,18/03/20,Dubai,Auckland
+218,NZ677,19/03/20,Auckland,Dunedin
+219,NZ5,18/03/20,Los Angeles,Auckland
+219,NZ5107,,Auckland,Palmerston North
+237,UNK,15/03/20,Unknown-Spain,Unknown-NZ
+242,QR920,20/03/20,Doha,Auckland
+243,EK450,19/03/20,Dubai,Auckland
+244,NZ7,20/03/20,San Francisco,Auckland
+244,UNK,,Auckland,Tauranga
+246,NZ1,16/03/20,Los Angeles,Auckland
+246,NZ5065,16/03/20,Auckland,Nelson
+247,UNK,18/03/20,Unknown-USA,Unknown-NZ
+249,EK448,20/03/20,Dubai,Auckland
+249,NZ433,21/03/20,Auckland,Wellington
+256,QR920,18/03/20,Doha,Auckland
+256,NZ5035,19/03/20,Auckland,New Plymouth
+257,QR920,25/03/20,Doha,Auckland
