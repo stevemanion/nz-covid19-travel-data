@@ -106,7 +106,7 @@ caseId,flight,departureDate,arrivalDate,origin,destination
 105,EY52,16/03/2020,,Geneva,Abu Dhabi
 105,UNK,,18/03/2020,Abu Dhabi,Auckland
 108,EK448,,18/03/2020,Dubai,Auckland
-108,EK7563,,18/03/2020,Auckland,Queenstown
+108,EK7563/JQ293,,18/03/2020,Auckland,Queenstown
 111,EK448,,16/03/2020,Dubai,Auckland
 113,UNK,,18/03/2020,Unknown-International,Auckland
 116,UNK,,20/03/2020,Unknown-International,Auckland
@@ -164,7 +164,7 @@ caseId,flight,departureDate,arrivalDate,origin,destination
 181,NZ407,,20/03/2020,Auckland,Wellington
 183,EK768,,16/03/2020,Johannesburg,Dubai
 183,EK448,,17/03/2020,Dubai,Auckland
-183,EK7547,,18/03/2020,Auckland,Wellington
+183,EK7547/JQ265,,18/03/2020,Auckland,Wellington
 191,UNK,,17/03/2020,Los Angeles,Auckland
 191,UNK,,17/03/2020,Auckland,Wellington
 192,UNK,,22/03/2020,Bangkok,Auckland
@@ -188,6 +188,7 @@ caseId,flight,departureDate,arrivalDate,origin,destination
 210,UNK,,20/03/2020,Auckland,Christchurch
 212,QR906,,12/03/2020,Doha,Sydney
 212,VA171,,13/03/2020,Sydney,Wellington
+214,JQ287,,17/03/2020,Wellington,Christchurch
 216,EK448,,,Dubai,Auckland
 216,NZ8155,,,Auckland,Rotorua
 217,NZ53,,,Nadi,Auckland
