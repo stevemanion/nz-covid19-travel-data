@@ -246,9 +246,9 @@ caseNumber,reportDate,dhb,ageGroup,gender,transmission,cluster,details
 245,26/03/2020,Lakes,20-29,Female,Not Recorded,,Details to come
 246,26/03/2020,Nelson Marlborough,60-69,Male,Overseas,,"Los Angeles to Auckland, arrived 16 March – flight NZ1, Auckland to Nelson on 16 March – flight NZ5065"
 247,26/03/2020,Nelson Marlborough,30-39,Male,Overseas,,"US to New Zealand, arrived 18 March, flight details to come"
-248,26/03/2020,Capital and Coast,20-29,Male,Overseas,,"International travel, flight details to come"
-249,26/03/2020,Capital and Coast,30-39,Male,Overseas,,"Dubai to Auckland on 20 March – flight EK448, Auckland to Wellington on 21 March – flight NZ433"
-250,26/03/2020,Capital and Coast,50-59,Male,Overseas,,Linked to international travel
+248,26/03/2020,Capital & Coast,20-29,Male,Overseas,,"International travel, flight details to come"
+249,26/03/2020,Capital & Coast,30-39,Male,Overseas,,"Dubai to Auckland on 20 March – flight EK448, Auckland to Wellington on 21 March – flight NZ433"
+250,26/03/2020,Capital & Coast,50-59,Male,Overseas,,Linked to international travel
 251,26/03/2020,Hutt Valley,40-49,Male,Local Case,,Linked to a confirmed case
 252,26/03/2020,Waitemata,70+,Male,Not Recorded,,Details to come
 253,26/03/2020,Waitemata,50-59,Male,Not Recorded,,Details to come
@@ -256,7 +256,7 @@ caseNumber,reportDate,dhb,ageGroup,gender,transmission,cluster,details
 255,26/03/2020,Waikato,30-39,Female,Not Recorded,,Details to come
 256,26/03/2020,Taranaki,20-29,Female,Overseas,,"Doha to Auckland on 18 March – flight QR920, Auckland to New Plymouth on 19 March – flight NZ5035"
 257,26/03/2020,Lakes,20-29,Female,Overseas,,Doha to Auckland on 25 March – flight QR920
-258,26/03/2020,Waitemata,10-14,Male,Not Recorded,,Details to come
+258,26/03/2020,Waitemata,<1,Male,Not Recorded,,Details to come
 259,26/03/2020,Waikato,20-29,Male,Not Recorded,,Details to come
 260,26/03/2020,Waitemata,30-39,Male,Not Recorded,,Details to come
 261,26/03/2020,Waikato,20-29,Male,Not Recorded,,Details to come

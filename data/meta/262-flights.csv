@@ -31,7 +31,8 @@ caseId,flight,departureDate,arrivalDate,origin,destination
 24,SQ285,,13/03/2020,Singapore,Auckland
 25,NZ5,,13/03/2020,Los Angeles,Auckland
 26,QF153,,15/03/2020,Melbourne,Auckland
-27,NZ1,,17/03/2020,London,Auckland
+27,UNK,,17/03/2020,London,Los Angeles
+27,NZ1,,17/03/2020,Los Angeles,Auckland
 27,NZ525,,17/03/2020,Auckland,Christchurch
 27,NZ5749,,17/03/2020,Christchurch,Dunedin
 28,EK412,,13/03/2020,Sydney,Christchurch
@@ -49,7 +50,7 @@ caseId,flight,departureDate,arrivalDate,origin,destination
 37,UNK,,15/03/2020,Doha,Auckland
 39,NZ5,,18/03/2020,Los Angeles,Auckland
 39,NZ615,,18/03/2020,Auckland,Queenstown
-40,EK412,,14/03/2020,Sydney,Wellington
+40,EK5047,,14/03/2020,Sydney,Wellington
 41,NZ670,,15/03/2020,Dunedin,Auckland
 42,SQ285,,14/03/2020,Singapore,Auckland
 43,QF161,,14/03/2020,Sydney,Wellington
@@ -69,7 +70,7 @@ caseId,flight,departureDate,arrivalDate,origin,destination
 53,NZ615,,14/03/2020,Auckland,Queenstown
 55,HA445,,14/03/2020,Honolulu,Auckland
 56,NZ5,,17/03/2020,Los Angeles,Auckland
-58,NZ674,,15/03/2020,Queenstown,Auckland
+58,NZ674,,15/03/2020,Dunedin,Auckland
 60,EK448,,16/03/2020,Dubai,Auckland
 62,TG491,,15/03/2020,Bangkok,Auckland
 62,NZ8041,,16/03/2020,Auckland,New Plymouth
@@ -126,7 +127,8 @@ caseId,flight,departureDate,arrivalDate,origin,destination
 128,EK450,,18/03/2020,Denpasar,Auckland
 128,NZ409,,19/03/2020,Auckland,Wellington
 129,QF161,,20/03/2020,Sydney,Wellington
-130,NZ409,,19/03/2020,Los Angeles,Auckland
+130,UNK,,19/03/2020,Los Angeles,Auckland
+130,NZ409,,19/03/2020,Auckland,Wellington
 131,UNK,,18/03/2020,Barcelona,Dubai
 131,EK448,,18/03/2020,Dubai,Auckland
 131,NZ5021,,19/03/2020,Auckland,Napier
@@ -188,7 +190,7 @@ caseId,flight,departureDate,arrivalDate,origin,destination
 212,VA171,,13/03/2020,Sydney,Wellington
 216,EK448,,,Dubai,Auckland
 216,NZ8155,,,Auckland,Rotorua
-217,NZ535,,,Nadi,Auckland
+217,NZ53,,,Nadi,Auckland
 218,EK448,,18/03/2020,Dubai,Auckland
 218,NZ677,,19/03/2020,Auckland,Dunedin
 219,NZ5,,18/03/2020,Los Angeles,Auckland
