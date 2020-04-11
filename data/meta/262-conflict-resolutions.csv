@@ -4,5 +4,7 @@ caseId,change,reason
 40,EK412 -> EK5047,flight number does not match the ports departed/arrived at
 42,13th March -> 14th March,all fields match except date which is one day out
 48,NZ5181 -> NZ5180,flight number does not match the ports departed/arrived at
-181,18th March -> 20th March (flight NZ407), date not provided and soonest possible flight for NZ407 after arriving in Auckland on the 18th is the 20th
+108,EK7563 (JQ293),flight operated by another airline
+181,18th March -> 20th March (flight NZ407),date not provided and soonest possible flight for NZ407 after arriving in Auckland on the 18th is the 20th
+183,EK7547 (JQ265),flight operated by another airline
 214,JQ27 -> JQ287,flight number does not match the ports departed/arrived at
