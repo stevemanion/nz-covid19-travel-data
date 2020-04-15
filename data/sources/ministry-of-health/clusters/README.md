@@ -1,5 +1,5 @@
 # Source Cluster Data
-Provided here are snapshots of the cluster data taken from the Ministry of Health, whenever updates are made. Some useful things to note before playing with this data are as follows:
+Provided here are snapshots of the cluster data taken from the [Ministry of Health](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases/covid-19-significant-clusters), whenever updates are made. Some useful things to note before playing with this data are as follows:
 
 ## 1. Observed Format Changes
 Over time the format of the source cluster data has changed in terms of what is recorded. These key changes can be observed on periods:
@@ -9,7 +9,7 @@ Over time the format of the source cluster data has changed in terms of what is 
 * `Number of cases` - specifies the number of confirmed and probable cases in the cluster
 
 ### 31 March - 8th April
-* `Clusters under investigation` - descriptions are less specific, simply describing the cluster type, e.g. _event_, _workplace_, etc
+* `Clusters under investigation` - descriptions are less specific, simply describing the cluster type, e.g. `Event`, `Workplace`, etc
 * `Location` - City/region of cluster origin provided
 * `Total to date` - A count of number of cases, including both confirmed and probable
 * `New in last 24 hours` - Any change in the total number of cases attributed to the cluster
