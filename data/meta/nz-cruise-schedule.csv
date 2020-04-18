@@ -1,0 +1,1124 @@
+Ship,Port,Arrival,Arrival time,Departure,Departure time,Guests (Lower Berths),Crew
+Pacific Aria,Auckland,06/07/19,07:00:00,06/07/19,16:00:00,1260,597
+Pacific Aria,Auckland,16/07/19,07:00:00,16/07/19,16:00:00,1260,597
+Pacific Aria,Auckland,24/07/19,07:00:00,24/07/19,16:00:00,1260,597
+Pacific Aria,Auckland,02/08/19,07:00:00,02/08/19,16:00:00,1260,597
+Pacific Aria,Auckland,05/08/19,07:00:00,05/08/19,16:00:00,1260,597
+Sea Princess,Auckland,25/08/19,10:00:00,25/08/19,21:00:00,2016,839
+Sea Princess,Bay Of Islands,26/08/19,08:00:00,26/08/19,17:00:00,2016,839
+Sea Princess,Auckland,29/09/19,10:00:00,29/09/19,20:00:00,2016,839
+Sea Princess,Bay Of Islands,30/09/19,07:00:00,30/09/19,16:00:00,2016,839
+Maasdam,Fiordland (cancelled),30/09/19,08:00:00,30/09/19,17:00:00,1258,580
+Maasdam,Dunedin,01/10/19,10:00:00,01/10/19,18:00:00,1258,580
+Maasdam,Lyttelton,02/10/19,08:00:00,02/10/19,17:00:00,1258,580
+Majestic Princess,Fiordland,03/10/19,07:00:00,03/10/19,16:00:00,3560,1357
+Maasdam,Kaikoura (cancelled),03/10/19,08:00:00,03/10/19,17:00:00,1258,580
+Majestic Princess,Dunedin,04/10/19,08:00:00,04/10/19,18:00:00,3560,1357
+Maasdam,Wellington,04/10/19,08:00:00,04/10/19,17:00:00,1258,580
+Majestic Princess,Akaroa,05/10/19,08:00:00,05/10/19,18:00:00,3560,1357
+Maasdam,Napier (cancelled),05/10/19,08:00:00,05/10/19,14:00:00,1258,580
+Radiance Of The Seas,Wellington,05/10/19,08:00:00,05/10/19,17:00:00,2064,858
+Radiance Of The Seas,Picton,06/10/19,08:00:00,06/10/19,17:00:00,2064,858
+Maasdam,Tauranga,06/10/19,08:15:00,06/10/19,18:45:00,1258,580
+Majestic Princess,Wellington,06/10/19,08:00:00,06/10/19,18:00:00,3560,1357
+Celebrity Solstice,Auckland,07/10/19,10:00:00,07/10/19,20:00:00,2850,1250
+Maasdam,Auckland,07/10/19,08:00:00,07/10/19,17:00:00,1258,580
+Celebrity Solstice,Bay Of Islands,08/10/19,07:00:00,08/10/19,17:00:00,2850,1250
+Majestic Princess,Tauranga,08/10/19,05:45:00,08/10/19,17:15:00,3560,1357
+Majestic Princess,Auckland,09/10/19,07:00:00,09/10/19,18:00:00,3560,1357
+Majestic Princess,Bay Of Islands,10/10/19,07:00:00,10/10/19,17:00:00,3560,1357
+Ruby Princess,Auckland,15/10/19,07:00:00,15/10/19,18:00:00,3034,1174
+Ruby Princess,Tauranga,16/10/19,06:30:00,16/10/19,17:30:00,3034,1174
+Ovation Of The Seas,Wellington,16/10/19,08:00:00,16/10/19,17:00:00,4180,1500
+Ovation Of The Seas,Picton,17/10/19,08:00:00,17/10/19,17:00:00,4180,1500
+Ruby Princess,Akaroa,18/10/19,08:00:00,18/10/19,18:00:00,3034,1174
+Golden Princess,Auckland,19/10/19,07:00:00,19/10/19,18:00:00,2636,1073
+Ruby Princess,Dunedin,19/10/19,08:00:00,19/10/19,18:00:00,3034,1174
+Ruby Princess,Fiordland (cancelled),20/10/19,08:00:00,20/10/19,17:00:00,3034,1174
+Golden Princess,Tauranga,20/10/19,07:00:00,20/10/19,18:15:00,2636,1073
+Golden Princess,Napier (cancelled),21/10/19,12:00:00,21/10/19,19:00:00,2636,1073
+Golden Princess,Marl Sds (cancelled),22/10/19,10:00:00,22/10/19,14:00:00,2636,1073
+Ovation Of The Seas,Fiordland,23/10/19,08:00:00,23/10/19,17:00:00,4180,1500
+Ovation Of The Seas,Dunedin (cancelled),24/10/19,08:00:00,24/10/19,17:30:00,4180,1500
+Ovation Of The Seas,Wellington,25/10/19,13:00:00,25/10/19,20:00:00,4180,1500
+Ovation Of The Seas,Picton,26/10/19,08:00:00,26/10/19,17:00:00,4180,1500
+Ovation Of The Seas,Bay Of Islands,01/11/19,09:30:00,01/11/19,18:00:00,4180,1500
+Celebrity Solstice,Fiordland,01/11/19,08:00:00,01/11/19,17:00:00,2850,1250
+Ovation Of The Seas,Auckland,02/11/19,07:00:00,02/11/19,20:00:00,4180,1500
+Celebrity Solstice,Dunedin,02/11/19,09:00:00,02/11/19,19:00:00,2850,1250
+Celebrity Solstice,Akaroa,03/11/19,08:00:00,03/11/19,18:00:00,2850,1250
+Ovation Of The Seas,Tauranga,03/11/19,07:30:00,03/11/19,18:00:00,4180,1500
+Majestic Princess,Fiordland,04/11/19,07:00:00,04/11/19,16:00:00,3560,1357
+Celebrity Solstice,Picton,04/11/19,08:00:00,04/11/19,18:00:00,2850,1250
+Majestic Princess,Dunedin,05/11/19,08:00:00,05/11/19,18:00:00,3560,1357
+Ovation Of The Seas,Wellington,05/11/19,07:00:00,05/11/19,13:00:00,4180,1500
+Majestic Princess,Akaroa,06/11/19,08:00:00,06/11/19,18:00:00,3560,1357
+Ovation Of The Seas,Dunedin,06/11/19,08:00:00,06/11/19,17:00:00,4180,1500
+Celebrity Solstice,Tauranga,06/11/19,08:00:00,06/11/19,18:00:00,2850,1250
+Celebrity Solstice,Bay Of Islands,07/11/19,08:00:00,07/11/19,19:00:00,2850,1250
+Ovation Of The Seas,Fiordland,07/11/19,08:00:00,07/11/19,18:00:00,4180,1500
+Sea Princess,Fiordland,07/11/19,07:00:00,07/11/19,16:00:00,2016,839
+Majestic Princess,Wellington,07/11/19,08:00:00,07/11/19,18:00:00,3560,1357
+Celebrity Solstice,Auckland,08/11/19,06:30:00,08/11/19,18:00:00,2850,1250
+Sea Princess,Dunedin,08/11/19,08:00:00,08/11/19,18:00:00,2016,839
+Sea Princess,Akaroa,09/11/19,08:00:00,09/11/19,18:00:00,2016,839
+Celebrity Solstice,Tauranga,09/11/19,08:00:00,09/11/19,17:00:00,2850,1250
+Majestic Princess,Tauranga,09/11/19,08:00:00,09/11/19,19:00:00,3560,1357
+Majestic Princess,Auckland,10/11/19,07:00:00,10/11/19,18:00:00,3560,1357
+Sea Princess,Wellington,10/11/19,07:00:00,10/11/19,17:00:00,2016,839
+Majestic Princess,Bay Of Islands,11/11/19,07:00:00,11/11/19,16:00:00,3560,1357
+Sea Princess,Napier,11/11/19,07:00:00,11/11/19,14:00:00,2016,839
+Celebrity Solstice,Wellington,11/11/19,08:00:00,11/11/19,17:00:00,2850,1250
+Celebrity Solstice,Akaroa,12/11/19,08:00:00,12/11/19,17:00:00,2850,1250
+Sea Princess,Tauranga,12/11/19,08:00:00,12/11/19,19:15:00,2016,839
+Coral Discoverer,Whangarei - maintenance,Tues 12 Nov 19,,12/11/19,,72,20
+Sea Princess,Auckland,13/11/19,07:00:00,13/11/19,22:00:00,2016,839
+Celebrity Solstice,Dunedin,13/11/19,08:00:00,13/11/19,17:00:00,2850,1250
+Celebrity Solstice,Fiordland,14/11/19,08:00:00,14/11/19,18:00:00,2850,1250
+Caledonian Sky,Bluff,15/11/19,04:00:00,15/11/19,09:00:00,114,74
+Caledonian Sky,Stewart Island,15/11/19,11:15:00,15/11/19,18:00:00,114,74
+Caledonian Sky,Dunedin,16/11/19,07:30:00,16/11/19,18:00:00,114,74
+Noordam,Fiordland,16/11/19,08:00:00,16/11/19,17:00:00,1972,820
+Ovation Of The Seas,Fiordland,16/11/19,08:00:00,16/11/19,17:00:00,4180,1500
+Caledonian Sky,Akaroa,17/11/19,08:00:00,17/11/19,14:00:00,114,74
+Noordam,Dunedin,17/11/19,09:00:00,17/11/19,18:00:00,1972,820
+Ovation Of The Seas,Dunedin,17/11/19,08:00:00,17/11/19,17:00:00,4180,1500
+Majestic Princess,Fiordland,17/11/19,07:00:00,17/11/19,16:00:00,3560,1357
+Noordam,Akaroa,18/11/19,07:00:00,18/11/19,18:00:00,1972,820
+Majestic Princess,Dunedin,18/11/19,08:00:00,18/11/19,18:00:00,3560,1357
+Caledonian Sky,Wellington,18/11/19,07:00:00,18/11/19,23:00:00,114,74
+Ovation Of The Seas,Wellington,18/11/19,12:00:00,18/11/19,19:00:00,4180,1500
+Majestic Princess,Akaroa,19/11/19,08:00:00,19/11/19,18:00:00,3560,1357
+Ovation Of The Seas,Napier,19/11/19,08:30:00,19/11/19,17:30:00,4180,1500
+Noordam,Picton,19/11/19,10:00:00,19/11/19,20:00:00,1972,820
+Caledonian Sky,Ships Cove,19/11/19,06:00:00,19/11/19,12:00:00,114,74
+Caledonian Sky,Napier,20/11/19,08:00:00,20/11/19,19:00:00,114,74
+Ovation Of The Seas,Picton,20/11/19,08:00:00,20/11/19,17:00:00,4180,1500
+Majestic Princess,Wellington,20/11/19,08:00:00,20/11/19,18:00:00,3560,1357
+Noordam,Wellington,20/11/19,08:00:00,20/11/19,17:00:00,1972,820
+Noordam,Napier,21/11/19,07:00:00,21/11/19,14:00:00,1972,820
+Caledonian Sky,White Island,21/11/19,14:30:00,21/11/19,22:00:00,114,74
+Radiance Of The Seas,Fiordland,22/11/19,08:00:00,22/11/19,17:00:00,2064,858
+Caledonian Sky,Tauranga,22/11/19,06:00:00,22/11/19,19:00:00,114,74
+Majestic Princess,Tauranga,22/11/19,05:45:00,22/11/19,17:00:00,3560,1357
+Noordam,Tauranga,22/11/19,10:15:00,22/11/19,16:45:00,1972,820
+Caledonian Sky,Auckland,23/11/19,07:00:00,23/11/19,19:00:00,114,74
+Majestic Princess,Auckland,23/11/19,07:00:00,23/11/19,18:00:00,3560,1357
+Noordam,Auckland,23/11/19,07:00:00,23/11/19,17:00:00,1972,820
+Radiance Of The Seas,Dunedin,23/11/19,08:00:00,23/11/19,17:00:00,2064,858
+Radiance Of The Seas,Akaroa,24/11/19,08:00:00,24/11/19,17:00:00,2064,858
+Majestic Princess,Bay Of Islands,24/11/19,07:00:00,24/11/19,17:00:00,3560,1357
+Caledonian Sky,Tauranga,24/11/19,07:00:00,24/11/19,22:00:00,114,74
+Noordam,Tauranga,24/11/19,07:45:00,24/11/19,17:45:00,1972,820
+Coral Discoverer,Auckland,25/11/19,07:00:00,26/11/19,17:00:00,72,20
+Celebrity Solstice,Fiordland,25/11/19,08:00:00,25/11/19,17:00:00,2850,1250
+Ruby Princess,Fiordland,25/11/19,07:00:00,25/11/19,16:00:00,3034,1174
+Noordam,Napier,25/11/19,12:00:00,25/11/19,18:00:00,1972,820
+Radiance Of The Seas,Wellington,25/11/19,08:00:00,25/11/19,17:00:00,2064,858
+Caledonian Sky,White Island,25/11/19,06:00:00,25/11/19,12:30:00,114,74
+Celebrity Solstice,Dunedin,26/11/19,08:00:00,26/11/19,17:30:00,2850,1250
+Ruby Princess,Dunedin,26/11/19,08:00:00,26/11/19,18:00:00,3034,1174
+Caledonian Sky,Napier,26/11/19,08:00:00,26/11/19,18:00:00,114,74
+Radiance Of The Seas,Picton,26/11/19,08:00:00,26/11/19,17:00:00,2064,858
+Noordam,Wellington,26/11/19,10:00:00,26/11/19,23:00:00,1972,820
+Ruby Princess,Akaroa (cancelled),27/11/19,08:00:00,27/11/19,18:00:00,3034,1174
+Vasco Da Gama,Auckland,27/11/19,07:00:00,27/11/19,22:00:00,1260,
+Golden Princess,Fiordland (cancelled),27/11/19,07:00:00,27/11/19,16:00:00,2636,1073
+Noordam,Picton,27/11/19,08:00:00,27/11/19,15:00:00,1972,820
+Caledonian Sky,Wellington,27/11/19,12:00:00,27/11/19,22:00:00,114,74
+Celebrity Solstice,Wellington,27/11/19,12:30:00,27/11/19,20:00:00,2850,1250
+Coral Discoverer,White Island,27/11/19,08:00:00,27/11/19,15:00:00,72,20
+Noordam,Akaroa,28/11/19,07:00:00,28/11/19,19:00:00,1972,820
+Golden Princess,Dunedin,28/11/19,08:00:00,28/11/19,18:00:00,2636,1073
+Sea Princess,Fiordland,28/11/19,07:00:00,28/11/19,16:00:00,2016,839
+Coral Discoverer,Gisborne,28/11/19,07:00:00,28/11/19,22:00:00,72,20
+Caledonian Sky,Kaikoura,28/11/19,07:00:00,28/11/19,19:00:00,114,74
+Celebrity Solstice,Picton,28/11/19,08:00:00,28/11/19,17:00:00,2850,1250
+Ruby Princess,Wellington,28/11/19,08:00:00,28/11/19,18:00:00,3034,1174
+Caledonian Sky,Akaroa,29/11/19,07:00:00,29/11/19,18:00:00,114,74
+Golden Princess,Akaroa,29/11/19,08:00:00,29/11/19,18:00:00,2636,1073
+Noordam,Dunedin,29/11/19,08:00:00,29/11/19,18:00:00,1972,820
+Sea Princess,Dunedin,29/11/19,08:00:00,29/11/19,18:00:00,2016,839
+Coral Discoverer,Napier,29/11/19,07:00:00,29/11/19,14:00:00,72,20
+Ruby Princess,Napier,29/11/19,07:00:00,29/11/19,14:00:00,3034,1174
+Sea Princess,Akaroa,30/11/19,08:00:00,30/11/19,18:00:00,2016,839
+Ovation Of The Seas,Auckland,30/11/19,08:00:00,30/11/19,17:00:00,4180,1500
+Caledonian Sky,Dunedin,30/11/19,08:00:00,30/11/19,18:30:00,114,74
+Noordam,Fiordland,30/11/19,07:00:00,30/11/19,17:00:00,1972,820
+Coral Discoverer,Ships Cove,30/11/19,14:00:00,01/12/19,12:00:00,72,20
+Celebrity Solstice,Tauranga,30/11/19,08:00:00,01/12/19,19:00:00,2850,1250
+Ruby Princess,Tauranga,30/11/19,07:00:00,30/11/19,18:30:00,3034,1174
+Golden Princess,Wellington,30/11/19,07:00:00,30/11/19,16:00:00,2636,1073
+Ruby Princess,Auckland,01/12/19,07:00:00,01/12/19,18:00:00,3034,1174
+Ovation Of The Seas,Bay Of Islands,01/12/19,08:00:00,01/12/19,17:00:00,4180,1500
+Golden Princess,Napier,01/12/19,07:00:00,01/12/19,14:00:00,2636,1073
+Caledonian Sky,Stewart Island,01/12/19,08:00:00,01/12/19,19:00:00,114,74
+Sea Princess,Wellington,01/12/19,07:00:00,01/12/19,17:00:00,2016,839
+Celebrity Solstice,Auckland,02/12/19,06:30:00,02/12/19,18:00:00,2850,1250
+Ruby Princess,Bay Of Islands,02/12/19,07:00:00,02/12/19,17:00:00,3034,1174
+Caledonian Sky,Fiordland,02/12/19,06:30:00,03/12/20,05:00:00,114,74
+Coral Discoverer,Kaikoura (cancelled),02/12/19,07:00:00,02/12/19,19:00:00,72,20
+Sea Princess,Napier,02/12/19,07:00:00,02/12/19,14:00:00,2016,839
+Golden Princess,Tauranga,02/12/19,07:00:00,02/12/19,18:15:00,2636,1073
+Coral Discoverer,Akaroa,03/12/19,07:00:00,03/12/19,15:00:00,72,20
+Golden Princess,Auckland,03/12/19,07:00:00,03/12/19,14:00:00,2636,1073
+Celebrity Solstice,Bay Of Islands,03/12/19,08:30:00,03/12/19,17:00:00,2850,1250
+Sea Princess,Tauranga,03/12/19,07:30:00,03/12/19,19:00:00,2016,839
+Sea Princess,Auckland,04/12/19,07:00:00,04/12/19,22:00:00,2016,839
+Caledonian Sky,Bluff,04/12/19,14:00:00,04/12/19,19:00:00,114,74
+Coral Discoverer,Dunedin,04/12/19,06:00:00,04/12/19,19:00:00,72,20
+Norwegian Jewel,Fiordland,04/12/19,09:00:00,04/12/19,18:30:00,2376,1100
+Caledonian Sky,Riverton (cancelled),04/12/19,09:00:00,04/12/19,11:30:00,114,74
+Celebrity Solstice,Tauranga,04/12/19,08:00:00,04/12/19,17:00:00,2850,1250
+Caledonian Sky,Dunedin,05/12/19,08:00:00,05/12/19,10:00:00,114,74
+Norwegian Jewel,Dunedin,05/12/19,09:00:00,05/12/19,19:00:00,2376,1100
+Caledonian Sky,Moeraki,05/12/19,14:00:00,05/12/19,17:00:00,114,74
+Coral Discoverer,Stewart Island,05/12/19,09:00:00,05/12/19,18:00:00,72,20
+Caledonian Sky,Akaroa,06/12/19,06:30:00,06/12/19,19:00:00,114,74
+Norwegian Jewel,Akaroa,06/12/19,08:00:00,06/12/19,18:00:00,2376,1100
+Maasdam,Bay Of Islands,06/12/19,12:00:00,06/12/19,20:00:00,1258,580
+Coral Discoverer,Fiordland,06/12/19,06:00:00,08/12/19,23:00:00,72,20
+Caledonian Sky,Lyttelton,06/12/19,13:00:00,06/12/19,16:00:00,114,74
+Celebrity Solstice,Wellington,06/12/19,08:00:00,06/12/19,17:00:00,2850,1250
+Celebrity Solstice,Akaroa,07/12/19,08:00:00,07/12/19,17:00:00,2850,1250
+Maasdam,Auckland,07/12/19,08:00:00,07/12/19,17:00:00,1258,580
+Ovation Of The Seas,Bay Of Islands,07/12/19,09:30:00,07/12/19,18:00:00,4180,1500
+Caledonian Sky,Picton,07/12/19,11:00:00,08/12/19,05:30:00,114,74
+Norwegian Jewel,Picton,07/12/19,08:00:00,07/12/19,18:00:00,2376,1100
+Caledonian Sky,Toeroa Bay,07/12/19,11:30:00,07/12/19,12:30:00,114,74
+Ovation Of The Seas,Auckland,08/12/19,07:00:00,08/12/19,20:00:00,4180,1500
+Celebrity Solstice,Dunedin,08/12/19,07:30:00,08/12/19,17:00:00,2850,1250
+Coral Discoverer,Fiordland,08/12/19,23:00:00,10/12/19,20:00:00,72,20
+Caledonian Sky,Ships Cove,08/12/19,,08/12/19,12:30:00,114,74
+Norwegian Jewel,Wellington,08/12/19,08:00:00,08/12/19,18:00:00,2376,1100
+Celebrity Solstice,Fiordland,09/12/19,08:00:00,09/12/19,18:00:00,2850,1250
+Caledonian Sky,Napier,09/12/19,08:15:00,09/12/19,20:00:00,114,74
+Norwegian Jewel,Napier,09/12/19,08:00:00,09/12/19,16:00:00,2376,1100
+Ovation Of The Seas,Tauranga,09/12/19,07:30:00,11/12/19,06:45:00,4180,1500
+Golden Princess,Fiordland,10/12/19,07:00:00,10/12/19,16:00:00,2636,1073
+Caledonian Sky,Gisborne,10/12/19,07:00:00,10/12/19,09:00:00,114,74
+Norwegian Jewel,Tauranga,10/12/19,09:00:00,10/12/19,19:45:00,2376,1100
+Caledonian Sky,Tolaga Bay (cancelled),10/12/19,13:00:00,10/12/19,15:30:00,114,74
+Norwegian Jewel,Auckland,11/12/19,07:00:00,11/12/19,18:00:00,2376,1100
+Golden Princess,Dunedin,11/12/19,08:00:00,11/12/19,18:00:00,2636,1073
+Explorer Dream,Fiordland,11/12/19,13:00:00,11/12/19,14:00:00,1856,1300
+Radiance Of The Seas,Picton,11/12/19,09:00:00,11/12/19,18:00:00,2064,858
+Coral Discoverer,Stewart Island,11/12/19,08:00:00,12/12/19,16:00:00,72,20
+Caledonian Sky,Tairua,11/12/19,07:00:00,11/12/19,08:00:00,114,74
+Ovation Of The Seas,Wellington,12/12/19,08:00:00,12/12/19,22:00:00,4180,1500
+Caledonian Sky,Whitianga,11/12/19,09:30:00,11/12/19,21:00:00,114,74
+Golden Princess,Akaroa,12/12/19,08:00:00,12/12/19,18:00:00,2636,1073
+Caledonian Sky,Auckland,12/12/19,07:00:00,12/12/19,19:00:00,114,74
+Explorer Dream,Dunedin,12/12/19,07:00:00,12/12/19,15:00:00,1856,1300
+Ovation Of The Seas,Dunedin (cancelled),12/12/19,08:00:00,12/12/19,17:00:00,4180,1500
+Norwegian Jewel,Tauranga,12/12/19,08:30:00,12/12/19,15:45:00,2376,1100
+Radiance Of The Seas,Wellington,12/12/19,07:00:00,12/12/19,13:00:00,2064,858
+Spirit of Enderby,Bluff,13/12/19,,13/12/19,,50,
+Coral Discoverer,Dunedin,13/12/19,06:00:00,13/12/19,16:00:00,72,20
+Radiance Of The Seas,Dunedin,13/12/19,08:00:00,13/12/19,17:00:00,2064,858
+Ovation Of The Seas,Picton,13/12/19,07:00:00,13/12/19,17:00:00,4180,1500
+Ovation Of The Seas,Fiordland (cancelled),13/12/19,08:00:00,13/12/19,18:00:00,4180,1500
+Silver Muse,Fiordland,13/12/19,08:00:00,13/12/19,17:00:00,623,417
+Norwegian Jewel,Napier,13/12/19,08:00:00,13/12/19,16:00:00,2376,1100
+Caledonian Sky,Tauranga,13/12/19,07:00:00,13/12/19,22:00:00,114,74
+Explorer Dream,Wellington,13/12/19,09:00:00,13/12/19,17:00:00,1856,1300
+Golden Princess,Wellington,13/12/19,07:00:00,13/12/19,16:00:00,2636,1073
+Coral Discoverer,Akaroa,14/12/19,09:00:00,14/12/19,21:00:00,72,20
+Noordam,Fiordland,14/12/19,08:00:00,14/12/19,,1972,820
+Radiance Of The Seas,Fiordland,14/12/19,08:00:00,14/12/19,18:00:00,2064,858
+Explorer Dream,Gisborne,14/12/19,08:00:00,14/12/19,19:00:00,1856,1300
+Golden Princess,Napier,14/12/19,07:00:00,14/12/19,14:00:00,2636,1073
+Norwegian Jewel,Picton,14/12/19,08:00:00,14/12/19,18:00:00,2376,1100
+Norwegian Jewel,Akaroa,15/12/19,08:00:00,15/12/19,18:00:00,2376,1100
+Explorer Dream,Auckland,15/12/19,09:00:00,15/12/19,19:00:00,1856,1300
+Noordam,Dunedin,15/12/19,09:00:00,15/12/19,18:00:00,1972,820
+Silver Muse,Dunedin,15/12/19,08:00:00,15/12/19,17:00:00,623,417
+Coral Discoverer,Kaikoura,15/12/19,08:00:00,15/12/19,18:00:00,72,20
+Caledonian Sky,Napier,15/12/19,08:00:00,15/12/19,18:00:00,114,74
+Golden Princess,Tauranga,15/12/19,06:45:00,15/12/19,18:00:00,2636,1073
+Noordam,Akaroa,16/12/19,07:00:00,16/12/19,18:00:00,1972,820
+Golden Princess,Auckland,16/12/19,07:00:00,16/12/19,14:00:00,2636,1073
+Explorer Dream,Bay Of Islands,16/12/19,07:00:00,16/12/19,17:00:00,1856,1300
+Silver Muse,Lyttelton,16/12/19,07:00:00,16/12/19,18:00:00,623,417
+Coral Discoverer,Ships Cove,16/12/19,08:00:00,16/12/19,03:00:00,72,20
+Caledonian Sky,Wellington,16/12/19,12:00:00,16/12/19,18:00:00,114,74
+Norwegian Jewel,Wellington,16/12/19,08:00:00,16/12/19,16:00:00,2376,1100
+Caledonian Sky,Akaroa,17/12/19,10:00:00,17/12/19,18:00:00,114,74
+Norwegian Jewel,Dunedin,17/12/19,12:00:00,17/12/19,20:00:00,2376,1100
+Coral Discoverer,Golden Bay,17/12/19,,17/12/19,,72,20
+Noordam,Picton,17/12/19,10:00:00,17/12/19,20:00:00,1972,820
+Silver Muse,Picton,17/12/19,08:00:00,17/12/19,18:00:00,623,417
+Caledonian Sky,Dunedin,18/12/19,08:00:00,18/12/19,18:30:00,114,74
+Explorer Dream,Fiordland,18/12/19,06:00:00,18/12/19,12:30:00,1856,1300
+Norwegian Jewel,Fiordland,18/12/19,10:00:00,18/12/19,20:30:00,2376,1100
+Coral Discoverer,Wellington,18/12/19,08:00:00,18/12/19,19:00:00,72,20
+Noordam,Wellington,18/12/19,08:00:00,18/12/19,17:00:00,1972,820
+Explorer Dream,Dunedin,19/12/19,06:30:00,18/12/19,14:30:00,1856,1300
+Noordam,Napier,19/12/19,07:00:00,19/12/19,14:00:00,1972,820
+Caledonian Sky,Stewart Island (cancelled),19/12/19,08:00:00,19/12/19,19:00:00,114,74
+Spirit of Enderby,Stewart Island,19/12/19,,19/12/19,,50,
+Silver Muse,Tauranga,19/12/19,08:00:00,19/12/19,18:00:00,623,417
+Silver Muse,Auckland,20/12/19,08:00:00,20/12/19,18:00:00,623,417
+Caledonian Sky,Fiordland,20/12/19,06:30:00,21/12/19,22:00:00,114,74
+Ruby Princess,Fiordland,20/12/19,07:00:00,20/12/19,16:00:00,3034,1174
+Spirit of Enderby,Fiordland,20/12/19,,22/12/19,,50,
+Noordam,Tauranga,20/12/19,09:00:00,20/12/19,20:15:00,1972,820
+Explorer Dream,Wellington,20/12/19,08:30:00,20/12/19,16:30:00,1856,1300
+Noordam,Auckland,21/12/19,07:00:00,21/12/19,17:00:00,1972,820
+Ruby Princess,Dunedin,21/12/19,08:00:00,21/12/19,18:00:00,3034,1174
+Caledonian Sky,Fiordland,21/12/19,22:00:00,23/12/19,19:00:00,114,74
+Explorer Dream,Napier,21/12/19,06:00:00,21/12/19,14:00:00,1856,1300
+Silver Muse,Tauranga,21/12/19,09:30:00,21/12/19,20:30:00,623,417
+Ruby Princess,Akaroa,22/12/19,08:00:00,22/12/19,18:00:00,3034,1174
+Explorer Dream,Auckland,22/12/19,09:00:00,22/12/19,21:00:00,1856,1300
+Majestic Princess,Fiordland,22/12/19,07:00:00,22/12/19,16:00:00,3560,1357
+Noordam,Tauranga,22/12/19,06:45:00,22/12/19,17:45:00,1972,820
+Ovation Of The Seas,Auckland,23/12/19,07:00:00,23/12/19,16:00:00,4180,1500
+Explorer Dream,Bay Of Islands,23/12/19,07:00:00,23/12/19,17:00:00,1856,1300
+Spirit of Enderby,Bluff,23/12/19,,23/12/19,,50,
+Majestic Princess,Dunedin,23/12/19,08:00:00,23/12/19,18:00:00,3560,1357
+Golden Princess,Fiordland (cancelled),23/12/19,07:00:00,23/12/19,16:00:00,2636,1073
+Noordam,Napier,23/12/19,12:00:00,23/12/19,18:00:00,1972,820
+Ruby Princess,Picton,23/12/19,07:00:00,23/12/19,18:00:00,3034,1174
+Silver Muse,Picton,23/12/19,08:00:00,23/12/19,18:00:00,623,417
+Majestic Princess,Akaroa,24/12/19,08:00:00,24/12/19,18:00:00,3560,1357
+Golden Princess,Dunedin (cancelled),24/12/19,08:00:00,24/12/19,18:00:00,2636,1073
+Golden Princess,Picton,24/12/19,08:00:00,24/12/19,18:00:00,2636,1073
+Silver Muse,Lyttelton,24/12/19,07:30:00,24/12/19,17:00:00,623,417
+Caledonian Sky,Stewart Island (cancelled),24/12/19,07:00:00,24/12/19,19:00:00,114,74
+Aida Aura,Tauranga (cancelled),24/12/19,08:45:00,24/12/19,20:00:00,1266,418
+Noordam,Wellington,24/12/19,08:00:00,24/12/19,17:00:00,1972,820
+Ruby Princess,Wellington,24/12/19,07:00:00,24/12/19,18:00:00,3034,1174
+Golden Princess,Akaroa,25/12/19,08:00:00,25/12/19,18:00:00,2636,1073
+Explorer Dream,Fiordland,25/12/19,06:00:00,25/12/19,12:30:00,1856,1300
+Norwegian Jewel,Fiordland,25/12/19,09:00:00,25/12/19,18:30:00,2376,1100
+Caledonian Sky,NZ Sub Antarctic (cancelled),25/12/19,07:00:00,25/12/19,12:00:00,114,74
+Noordam,Akaroa,26/12/19,07:00:00,26/12/19,19:00:00,1972,820
+Caledonian Sky,Dunedin,26/12/19,08:00:00,26/12/19,18:00:00,114,74
+Explorer Dream,Dunedin,26/12/19,06:30:00,26/12/19,14:30:00,1856,1300
+Norwegian Jewel,Dunedin,26/12/19,09:00:00,26/12/19,19:00:00,2376,1100
+Queen Elizabeth,Fiordland,26/12/19,08:00:00,26/12/19,18:00:00,2092,1097
+Celebrity Solstice,Picton,26/12/19,11:00:00,26/12/19,20:00:00,2850,1250
+Silver Muse,Stewart Island,26/12/19,08:00:00,26/12/19,18:00:00,623,417
+Majestic Princess,Tauranga,26/12/19,09:15:00,26/12/19,20:00:00,3560,1357
+Ruby Princess,Tauranga,26/12/19,09:30:00,26/12/19,20:30:00,3034,1174
+Aida Aura,Wellington,26/12/19,08:00:00,26/12/19,22:00:00,1266,418
+Golden Princess,Wellington,26/12/19,07:00:00,26/12/19,22:00:00,2636,1073
+Caledonian Sky,Akaroa,27/12/19,08:00:00,27/12/19,19:00:00,114,74
+Norwegian Jewel,Akaroa,27/12/19,08:00:00,27/12/19,18:00:00,2376,1100
+Majestic Princess,Auckland,27/12/19,07:00:00,27/12/19,20:00:00,3560,1357
+Ruby Princess,Auckland,27/12/19,07:30:00,27/12/19,18:00:00,3034,1174
+Noordam,Dunedin,27/12/19,08:00:00,27/12/19,18:00:00,1972,820
+Queen Elizabeth,Dunedin,27/12/19,09:00:00,27/12/19,18:00:00,2092,1097
+Silver Muse,Fiordland,27/12/19,08:00:00,27/12/19,17:00:00,623,417
+Celebrity Solstice,Napier,27/12/19,10:00:00,27/12/19,18:00:00,2850,1250
+Aida Aura,Picton,27/12/19,07:00:00,28/12/19,08:00:00,1266,418
+Explorer Dream,Wellington,27/12/19,08:30:00,27/12/19,16:30:00,1856,1300
+Queen Elizabeth,Akaroa,28/12/19,08:00:00,28/12/19,18:00:00,2092,1097
+Ruby Princess,Bay Of Islands,28/12/19,08:00:00,28/12/19,18:00:00,3034,1174
+Noordam,Fiordland,28/12/19,07:00:00,28/12/19,17:00:00,1972,820
+Seabourn Encore,Fiordland,28/12/19,06:00:00,28/12/19,17:00:00,600,416
+Caledonian Sky,Kaikoura,28/12/19,07:00:00,28/12/19,19:00:00,114,74
+Explorer Dream,Napier,28/12/19,06:00:00,28/12/19,14:00:00,1856,1300
+Norwegian Jewel,Picton,28/12/19,08:00:00,28/12/19,16:00:00,2376,1100
+Golden Princess,Tauranga,28/12/19,06:15:00,28/12/19,17:15:00,2636,1073
+Majestic Princess,Tauranga,28/12/19,11:00:00,28/12/19,21:30:00,3560,1357
+Celebrity Solstice,Wellington,28/12/19,08:00:00,28/12/19,19:00:00,2850,1250
+Celebrity Solstice,Akaroa,29/12/19,08:00:00,29/12/19,21:00:00,2850,1250
+Explorer Dream,Auckland,29/12/19,09:00:00,29/12/19,21:00:00,1856,1300
+Golden Princess,Auckland,29/12/19,07:00:00,29/12/19,14:00:00,2636,1073
+Norwegian Jewel,Napier,29/12/19,07:30:00,29/12/19,15:30:00,2376,1100
+Ovation Of The Seas,Picton,29/12/19,09:00:00,29/12/19,18:00:00,4180,1500
+Seabourn Encore,Stewart Island,29/12/19,08:00:00,29/12/19,17:00:00,600,416
+Caledonian Sky,Wellington,29/12/19,07:00:00,29/12/19,23:00:00,114,74
+Queen Elizabeth,Wellington,29/12/19,08:00:00,29/12/19,18:00:00,2092,1097
+Majestic Princess,Akaroa,30/12/19,08:00:00,30/12/19,18:00:00,3560,1357
+Ruby Princess,Auckland,30/12/19,07:00:00,30/12/19,18:00:00,3034,1174
+Explorer Dream,Bay Of Islands,30/12/19,07:00:00,30/12/19,17:00:00,1856,1300
+Celebrity Solstice,Dunedin,30/12/19,07:30:00,30/12/19,17:00:00,2850,1250
+Seabourn Encore,Dunedin,30/12/19,08:00:00,30/12/19,17:00:00,600,416
+Ovation Of The Seas,Napier,30/12/19,08:00:00,30/12/19,17:00:00,4180,1500
+Caledonian Sky,Ships Cove,30/12/19,06:00:00,30/12/19,12:00:00,114,74
+Norwegian Jewel,Tauranga (cancelled),30/12/19,07:45:00,30/12/19,19:00:00,2376,1100
+Norwegian Jewel,Auckland,31/12/19,06:30:00,31/12/19,16:00:00,2376,1100
+Queen Elizabeth,Auckland,31/12/19,07:00:00,01/01/20,17:00:00,2092,1097
+Majestic Princess,Dunedin,31/12/19,08:00:00,31/12/19,18:00:00,3560,1357
+Celebrity Solstice,Fiordland,31/12/19,08:00:00,31/12/19,17:00:00,2850,1250
+Seabourn Encore,Lyttelton,31/12/19,08:00:00,31/12/19,23:00:00,600,416
+Caledonian Sky,Napier,31/12/19,08:00:00,31/12/19,18:30:00,114,74
+Ruby Princess,Tauranga,31/12/19,06:30:00,31/12/20,17:45:00,3034,1174
+Ovation Of The Seas,Wellington,31/12/19,07:00:00,31/12/19,17:00:00,4180,1500
+Ovation Of The Seas,Dunedin,01/01/20,11:00:00,01/01/20,17:00:00,4180,1500
+Explorer Dream,Fiordland,01/01/20,06:00:00,01/01/20,12:30:00,1856,1300
+Majestic Princess,Fiordland,01/01/20,08:00:00,01/01/20,17:00:00,3560,1357
+Seabourn Encore,Kaikoura,01/01/20,08:00:00,01/01/20,17:00:00,600,416
+Explorer Dream,Dunedin,02/01/20,06:30:00,02/01/20,14:30:00,1856,1300
+Ovation Of The Seas,Fiordland,02/01/20,08:00:00,02/01/20,18:00:00,4180,1500
+Sea Princess,Fiordland,02/01/20,07:00:00,02/01/20,16:00:00,2016,839
+Seabourn Encore,Nelson,02/01/20,08:00:00,02/01/20,18:00:00,600,416
+Caledonian Sky,Tauranga,02/01/20,07:00:00,02/01/20,22:00:00,114,74
+Ruby Princess,Wellington,02/01/20,07:00:00,02/01/20,18:00:00,3034,1174
+Sea Princess,Dunedin,03/01/20,08:00:00,03/01/20,18:00:00,2016,839
+Ruby Princess,Picton,03/01/20,07:00:00,03/01/20,18:00:00,3034,1174
+Explorer Dream,Wellington,03/01/20,08:30:00,03/01/20,16:30:00,1856,1300
+Seabourn Encore,Wellington,03/01/20,08:00:00,03/01/20,23:00:00,600,416
+Caledonian Sky,Whitianga,03/01/20,07:00:00,03/01/20,18:00:00,114,74
+Ruby Princess,Akaroa (cancelled),04/01/20,08:00:00,04/01/20,18:00:00,3034,1174
+Sea Princess,Akaroa (cancelled),04/01/20,08:00:00,04/01/20,18:00:00,2016,839
+Caledonian Sky,Bay Of Islands,04/01/20,08:00:00,04/01/20,18:00:00,114,74
+Viking Orion,Dunedin (cancelled),04/01/20,09:00:00,04/01/20,18:00:00,930,480
+Explorer Dream,Napier (cancelled),04/01/20,17:15:00,04/01/20,23:15:00,1856,1300
+Caledonian Sky,Auckland,05/01/20,07:00:00,06/01/20,16:00:00,114,74
+Explorer Dream,Auckland,05/01/20,09:00:00,05/01/20,21:00:00,1856,1300
+Ruby Princess,Dunedin,05/01/20,08:00:00,05/01/20,18:00:00,3034,1174
+Viking Orion,Lyttelton,05/01/20,08:00:00,05/01/20,18:00:00,930,480
+Seabourn Encore,Tauranga,05/01/20,08:00:00,05/01/20,18:00:00,600,416
+Sea Princess,Wellington,05/01/20,08:00:00,05/01/20,18:00:00,2016,839
+Seabourn Encore,Auckland,06/01/20,07:00:00,06/01/20,17:00:00,600,416
+Explorer Dream,Bay Of Islands,06/01/20,07:00:00,06/01/20,17:00:00,1856,1300
+Norwegian Jewel,Fiordland (cancelled),06/01/20,09:00:00,06/01/20,18:30:00,2376,1100
+Ruby Princess,Fiordland (cancelled),06/01/20,08:00:00,06/01/20,17:00:00,3034,1174
+Sea Princess,Napier (cancelled),06/01/20,07:00:00,06/01/20,14:00:00,2016,839
+Viking Orion,Wellington,06/01/20,08:00:00,06/01/20,18:00:00,930,480
+Norwegian Jewel,Wellington,06/01/20,18:00:00,07/01/20,18:00:00,2376,1100
+Seabourn Encore,Bay Of Islands,07/01/20,07:00:00,07/01/20,17:00:00,600,416
+Norwegian Jewel,Dunedin (cancelled),07/01/20,09:00:00,07/01/20,19:00:00,2376,1100
+Noordam,Fiordland,07/01/20,07:00:00,07/01/20,18:00:00,1972,820
+Viking Orion,Napier,07/01/20,08:00:00,07/01/20,14:00:00,930,480
+Sea Princess,Tauranga,07/01/20,07:30:00,07/01/20,18:15:00,2016,839
+Caledonian Sky,Tauranga,08/01/20,08:00:00,08/01/20,23:30:00,114,74
+Norwegian Jewel,Akaroa,08/01/20,08:00:00,08/01/20,18:00:00,2376,1100
+Sea Princess,Auckland,08/01/20,07:00:00,08/01/20,22:00:00,2016,839
+Noordam,Dunedin,08/01/20,08:00:00,08/01/20,18:00:00,1972,820
+Explorer Dream,Fiordland (cancelled),08/01/20,06:00:00,08/01/20,12:30:00,1856,1300
+Viking Orion,Tauranga,08/01/20,08:45:00,08/01/20,19:15:00,930,480
+Explorer Dream,Dunedin,09/01/20,06:30:00,09/01/20,14:30:00,1856,1300
+Noordam,Akaroa,09/01/20,07:00:00,09/01/20,18:00:00,1972,820
+Viking Orion,Auckland,09/01/20,07:00:00,11/01/20,18:00:00,930,480
+Caledonian Sky,Napier (cancelled),09/01/20,09:00:00,09/01/20,18:00:00,114,74
+Le Laperouse,NZ Sub Antarctic,09/01/20,,12/01/20,,184,124
+Norwegian Jewel,Picton,09/01/20,08:00:00,09/01/20,16:00:00,2376,1100
+Radiance Of The Seas,Fiordland,10/01/20,08:00:00,10/01/20,17:00:00,2064,858
+Norwegian Jewel,Napier,10/01/20,08:00:00,10/01/20,16:00:00,2376,1100
+Noordam,Picton,10/01/20,10:00:00,10/01/20,20:00:00,1972,820
+Caledonian Sky,Wellington,10/01/20,12:00:00,10/01/20,23:00:00,114,74
+Explorer Dream,Wellington,10/01/20,08:30:00,10/01/20,16:30:00,1856,1300
+Radiance Of The Seas,Dunedin,11/01/20,08:00:00,11/01/20,17:00:00,2064,858
+Majestic Princess,Fiordland,11/01/20,07:00:00,11/01/20,16:00:00,3560,1357
+Caledonian Sky,Ship Cove,11/01/20,07:00:00,11/01/20,13:00:00,114,74
+Caledonian Sky,Motuara Island,11/01/20,14:00:00,11/01/20,18:00:00,114,74
+Explorer Dream,Napier,11/01/20,16:00:00,11/01/20,21:45:00,1856,1300
+Norwegian Jewel,Tauranga,11/01/20,09:15:00,11/01/20,20:15:00,2376,1100
+Noordam,Wellington,11/01/20,08:00:00,11/01/20,16:00:00,1972,820
+Caledonian Sky,Nelson,12/01/20,07:00:00,12/01/20,12:30:00,114,74
+Radiance Of The Seas,Akaroa (cancelled),12/01/20,08:00:00,12/01/20,17:00:00,2064,858
+Explorer Dream,Auckland,12/01/20,09:00:00,12/01/20,21:00:00,1856,1300
+Ovation Of The Seas,Auckland,12/01/20,07:00:00,12/01/20,16:00:00,4180,1500
+Norwegian Jewel,Bay Of Islands,12/01/20,08:00:00,12/01/20,18:00:00,2376,1100
+Majestic Princess,Dunedin,12/01/20,08:00:00,12/01/20,18:00:00,3560,1357
+Seabourn Encore,Fiordland,12/01/20,07:00:00,12/01/20,13:00:00,600,416
+Noordam,Napier,12/01/20,07:00:00,12/01/20,13:00:00,1972,820
+Viking Orion,Tauranga,12/01/20,06:00:00,12/01/20,17:00:00,930,480
+Caledonian Sky,Lyttelton (cancelled),12/01/20,,12/01/20,,114,74
+Caledonian Sky,Lyttelton (cancelled),13/01/20,,13/01/20,,114,74
+Caledonian Sky,Kaikoura,13/01/20,08:00:00,13/01/20,19:00:00,114,74
+Majestic Princess,Akaroa,13/01/20,08:00:00,13/01/20,18:00:00,3560,1357
+Norwegian Jewel,Auckland,13/01/20,06:00:00,13/01/20,18:00:00,2376,1100
+Explorer Dream,Bay Of Islands,13/01/20,07:00:00,13/01/20,17:00:00,1856,1300
+Golden Princess,Fiordland (cancelled),13/01/20,07:00:00,13/01/20,16:00:00,2636,1073
+Le Laperouse,Fiordland,13/01/20,,14/01/20,,184,124
+Regatta,Fiordland (cancelled),13/01/20,07:00:00,13/01/20,13:00:00,650,375
+Viking Orion,Napier,13/01/20,12:00:00,13/01/20,18:00:00,930,480
+Seabourn Encore,Stewart Island (cancelled),13/01/20,09:00:00,13/01/20,17:00:00,600,416
+Noordam,Tauranga,13/01/20,06:15:00,13/01/20,17:30:00,1972,820
+Noordam,Auckland,14/01/20,07:00:00,14/01/20,18:00:00,1972,820
+Radiance Of The Seas,Auckland,14/01/20,08:00:00,14/01/20,18:30:00,2064,858
+Norwegian Jewel,Bay Of Islands,14/01/20,08:00:00,14/01/20,18:00:00,2376,1100
+Golden Princess,Dunedin,14/01/20,10:30:00,14/01/20,21:00:00,2636,1073
+Regatta,Dunedin (cancelled),14/01/20,11:00:00,14/01/20,20:00:00,650,375
+Seven Seas Voyager,Fiordland,14/01/20,07:00:00,14/01/20,11:00:00,754,446
+Seabourn Encore,Timaru,14/01/20,10:00:00,14/01/20,18:00:00,600,416
+Majestic Princess,Wellington,14/01/20,08:00:00,14/01/20,18:00:00,3560,1357
+Viking Orion,Wellington,14/01/20,09:00:00,14/01/20,18:00:00,930,480
+Regatta,Picton,14/01/20,07:00:00,14/01/20,18:00:00,650,375
+Golden Princess,Akaroa,15/01/20,08:00:00,15/01/20,18:00:00,2636,1073
+Regatta,Akaroa,15/01/20,07:00:00,15/01/20,18:00:00,650,375
+Noordam,Bay Of Islands,15/01/20,07:00:00,15/01/20,14:00:00,1972,820
+Radiance Of The Seas,Bay Of Islands,15/01/20,08:00:00,15/01/20,17:00:00,2064,858
+Le Laperouse,Dunedin,15/01/20,09:00:00,15/01/20,16:30:00,184,124
+Seven Seas Voyager,Dunedin,15/01/20,09:00:00,15/01/20,19:00:00,754,446
+Caledonian Sky,Stewart Island,15/01/20,07:30:00,15/01/20,17:30:00,114,74
+Explorer Dream,Fiordland,15/01/20,06:00:00,15/01/20,12:30:00,1856,1300
+Queen Elizabeth,Fiordland,15/01/20,08:00:00,15/01/20,18:00:00,2092,1097
+Seabourn Encore,Lyttelton,15/01/20,08:00:00,15/01/20,23:00:00,600,416
+Viking Orion,Lyttelton,15/01/20,08:00:00,15/01/20,18:00:00,930,480
+Norwegian Jewel,Tauranga,15/01/20,06:15:00,15/01/20,17:30:00,2376,1100
+Explorer Dream,Akaroa,16/01/20,10:00:00,16/01/20,18:00:00,1856,1300
+Seven Seas Voyager,Akaroa,16/01/20,08:00:00,16/01/20,18:00:00,754,446
+Queen Elizabeth,Dunedin,16/01/20,09:00:00,16/01/20,18:00:00,2092,1097
+Viking Orion,Dunedin,16/01/20,08:00:00,16/01/20,18:00:00,930,480
+Le Laperouse,Fiordland,16/01/20,14:30:00,17/01/20,12:00:00,184,124
+Seabourn Encore,Kaikoura,16/01/20,08:00:00,16/01/20,17:00:00,600,416
+Norwegian Jewel,Napier,16/01/20,09:00:00,16/01/20,16:30:00,2376,1100
+Majestic Princess,Tauranga,16/01/20,06:30:00,16/01/20,18:30:00,3560,1357
+Golden Princess,Wellington,16/01/20,07:00:00,16/01/20,16:00:00,2636,1073
+Regatta,Wellington,16/01/20,08:00:00,16/01/20,17:00:00,650,375
+Caledonian Sky,Fiordland,16/01/20,08:00:00,17/01/20,19:00:00,114,74
+Queen Elizabeth,Akaroa,17/01/20,08:00:00,17/01/20,18:00:00,2092,1097
+Majestic Princess,Auckland,17/01/20,07:00:00,17/01/20,18:00:00,3560,1357
+Carnival Spirit,Fiordland,17/01/20,,17/01/20,,2124,1030
+Golden Princess,Napier,17/01/20,07:00:00,17/01/20,16:00:00,2636,1073
+Regatta,Napier,17/01/20,08:00:00,17/01/20,20:00:00,650,375
+Explorer Dream,Picton,17/01/20,06:00:00,17/01/20,14:00:00,1856,1300
+Norwegian Jewel,Picton,17/01/20,08:00:00,17/01/20,18:00:00,2376,1100
+Seabourn Encore,Wellington,17/01/20,08:00:00,17/01/20,18:00:00,600,416
+Seven Seas Voyager,Wellington,17/01/20,07:00:00,17/01/20,16:00:00,7554,446
+Norwegian Jewel,Akaroa,18/01/20,08:00:00,18/01/20,18:00:00,2376,1100
+Majestic Princess,Bay Of Islands,18/01/20,07:00:00,18/01/20,17:00:00,3560,1357
+Caledonian Sky,Dunedin,18/01/20,07:30:00,19/01/20,12:00:00,114,74
+Carnival Spirit,Dunedin,18/01/20,11:00:00,18/01/20,20:00:00,2124,1030
+Ovation Of The Seas,Fiordland,18/01/20,08:00:00,18/01/20,17:00:00,4180,1500
+Regatta,Gisborne (cancelled),18/01/20,07:00:00,18/01/20,17:00:00,650,375
+Explorer Dream,Napier,18/01/20,06:00:00,18/01/20,14:00:00,1856,1300
+Seven Seas Voyager,Napier,18/01/20,07:00:00,18/01/20,15:00:00,7554,446
+Golden Princess,Tauranga,18/01/20,08:45:00,18/01/20,20:00:00,2636,1073
+Maasdam,Tauranga,18/01/20,08:15:00,18/01/20,19:15:00,1258,580
+Queen Elizabeth,Wellington,18/01/20,08:00:00,18/01/20,18:00:00,2092,1097
+Carnival Spirit,Akaroa,19/01/20,08:00:00,19/01/20,18:00:00,2124,1030
+Explorer Dream,Auckland,19/01/20,09:00:00,19/01/20,21:00:00,1856,1300
+Golden Princess,Auckland,19/01/20,07:00:00,19/01/20,14:00:00,2636,1073
+Maasdam,Bay Of Islands,19/01/20,08:00:00,19/01/20,17:00:00,1258,580
+Norwegian Jewel,Dunedin,19/01/20,08:00:00,19/01/20,18:00:00,2376,1100
+Ovation Of The Seas,Dunedin,19/01/20,08:00:00,19/01/20,17:30:00,4180,1500
+Queen Elizabeth,Napier,19/01/20,09:00:00,19/01/20,19:00:00,2092,1097
+Le Laperouse,Picton,19/01/20,08:00:00,19/01/20,18:00:00,184,124
+Regatta,Tauranga,19/01/20,08:45:00,19/01/20,20:00:00,650,375
+Seven Seas Voyager,Tauranga,19/01/20,09:15:00,19/01/20,20:15:00,754,446
+Seabourn Encore,Waiheke,19/01/20,08:00:00,19/01/20,17:00:00,600,416
+Maasdam,Auckland,20/01/20,07:00:00,20/01/20,21:00:00,1258,580
+Regatta,Auckland,20/01/20,06:30:00,20/01/20,19:00:00,650,375
+Seabourn Encore,Auckland,20/01/20,07:00:00,20/01/20,18:00:00,600,416
+Explorer Dream,Bay Of Islands,20/01/20,07:00:00,20/01/20,17:00:00,1856,1300
+Seven Seas Voyager,Bay of Islands,20/01/20,10:00:00,20/01/20,19:00:00,754,446
+Norwegian Jewel,Fiordland,20/01/20,09:00:00,20/01/20,18:30:00,2376,1100
+Carnival Spirit,Wellington,20/01/20,08:00:00,20/01/20,17:00:00,2124,1030
+Le Laperouse,Wellington,20/01/20,08:00:00,20/01/20,17:45:00,184,124
+Ovation Of The Seas,Wellington,20/01/20,13:00:00,20/01/20,20:00:00,4180,1500
+Queen Elizabeth,Auckland,21/01/20,07:00:00,21/01/20,23:00:00,2092,1097
+Seven Seas Voyager,Auckland,21/01/20,06:00:00,21/01/20,19:00:00,754,446
+Maasdam,Bay Of Islands,21/01/20,08:00:00,21/01/20,17:00:00,1258,580
+Noordam,Fiordland,21/01/20,07:00:00,21/01/20,18:00:00,1972,820
+Radiance Of The Seas,Fiordland,21/01/20,08:00:00,21/01/20,17:00:00,2064,858
+Le Laperouse,Napier,21/01/20,12:30:00,22/01/20,10:00:00,184,124
+Caledonian Sky,NZ Sub Antarctic,21/01/20,06:30:00,21/01/20,18:00:00,114,74
+Ovation Of The Seas,Picton,21/01/20,08:00:00,21/01/20,17:00:00,4180,1500
+Regatta,Tauranga,21/01/20,07:30:00,21/01/20,18:45:00,650,375
+Seabourn Encore,Tauranga,21/01/20,08:00:00,21/01/20,19:00:00,600,416
+Queen Elizabeth,Bay Of Islands,22/01/20,08:00:00,22/01/20,18:00:00,2092,1097
+Noordam,Dunedin,22/01/20,08:00:00,22/01/20,18:00:00,1972,820
+Radiance Of The Seas,Dunedin,22/01/20,08:00:00,22/01/20,17:00:00,2064,858
+Explorer Dream,Fiordland,22/01/20,06:00:00,22/01/20,12:30:00,1856,1300
+Regatta,Gisborne,22/01/20,09:00:00,22/01/20,19:00:00,650,375
+Seven Seas Voyager,Tauranga,22/01/20,07:00:00,22/01/20,17:00:00,754,446
+Le Laperouse,Gisborne (cancelled),22/01/20,14:15:00,22/01/20,19:30:00,184,124
+Noordam,Akaroa,23/01/20,07:00:00,23/01/20,18:00:00,1972,820
+Radiance Of The Seas,Akaroa,23/01/20,08:00:00,23/01/20,17:00:00,2064,858
+Explorer Dream,Dunedin,23/01/20,06:30:00,23/01/20,14:30:00,1856,1300
+Seven Seas Voyager,Gisborne,23/01/20,08:00:00,23/01/20,19:00:00,754,446
+Regatta,Napier,23/01/20,08:00:00,23/01/20,18:00:00,650,375
+Le Laperouse,Tauranga,23/01/20,07:00:00,23/01/20,17:00:00,184,124
+Seabourn Encore,Wellington,23/01/20,08:00:00,23/01/20,23:00:00,600,416
+Le Laperouse,Auckland,24/01/20,06:45:00,24/01/20,18:00:00,184,124
+Ocean Dream,Fiordland (cancelled),24/01/20,07:00:00,24/01/20,17:30:00,998,550
+Explorer Dream,Napier,24/01/20,15:00:00,24/01/20,23:00:00,1856,1300
+Seven Seas Voyager,Napier,24/01/20,08:00:00,24/01/20,18:00:00,754,446
+Seabourn Encore,Picton,24/01/20,07:00:00,24/01/20,16:00:00,600,416
+Noordam,Wellington,24/01/20,08:00:00,24/01/20,16:00:00,1972,820
+Regatta,Wellington,24/01/20,09:00:00,24/01/20,18:00:00,650,375
+Regatta,Akaroa,25/01/20,08:00:00,25/01/20,18:00:00,650,375
+Seabourn Encore,Akaroa,25/01/20,08:00:00,25/01/20,19:00:00,600,416
+Radiance Of The Seas,Auckland,25/01/20,08:00:00,25/01/20,18:00:00,2064,858
+Silver Muse,Fiordland,25/01/20,08:00:00,25/01/20,17:00:00,623,417
+Explorer Dream,Gisborne,25/01/20,06:00:00,25/01/20,17:00:00,1856,1300
+Noordam,Napier,25/01/20,07:00:00,25/01/20,14:00:00,1972,820
+Maasdam,New Plymouth,25/01/20,08:00:00,25/01/20,17:00:00,1258,580
+Le Laperouse,Tauranga,25/01/20,08:00:00,25/01/20,18:00:00,184,124
+Seven Seas Voyager,Wellington,25/01/20,09:00:00,25/01/20,19:00:00,754,446
+Explorer Dream,Auckland,26/01/20,09:00:00,26/01/20,21:00:00,1856,1300
+Regatta,Dunedin,26/01/20,08:00:00,26/01/20,17:00:00,650,375
+Seabourn Encore,Dunedin,26/01/20,08:00:00,26/01/20,18:00:00,600,416
+Ocean Dream,Lyttelton (cancelled),26/01/20,06:00:00,26/01/20,22:00:00,998,550
+Maasdam,Nelson,26/01/20,08:00:00,26/01/20,17:00:00,1258,580
+Seven Seas Voyager,Nelson,26/01/20,07:00:00,26/01/20,16:00:00,754,446
+Caledonian Sky,NZ Sub Antarctic,26/01/20,16:00:00,27/01/20,19:00:00,114,74
+Noordam,Tauranga,26/01/20,10:45:00,26/01/20,16:45:00,1972,820
+Radiance Of The Seas,Tauranga,26/01/20,08:00:00,26/01/20,17:00:00,2064,858
+Noordam,Auckland,27/01/20,08:00:00,28/01/20,18:00:00,1972,820
+Radiance Of The Seas,Bay Of Islands,27/01/20,08:00:00,27/01/20,17:00:00,2064,858
+Viking Sun,Bay Of Islands,27/01/20,08:00:00,27/01/20,17:00:00,928,460
+Silver Muse,Dunedin,27/01/20,12:30:00,27/01/20,20:00:00,623,417
+Regatta,Fiordland,27/01/20,14:00:00,27/01/20,20:00:00,650,375
+Maasdam,Kaikoura,27/01/20,08:00:00,27/01/20,17:00:00,1258,580
+Explorer Dream,Napier,27/01/20,16:00:00,27/01/20,23:59:00,1856,1300
+Le Laperouse,Napier,27/01/20,08:00:00,27/01/20,15:00:00,184,124
+Seabourn Encore,Stewart Island,27/01/20,08:00:00,27/01/20,17:00:00,600,416
+Maasdam,Akaroa,28/01/20,07:00:00,28/01/20,18:00:00,1258,580
+Viking Sun,Auckland,28/01/20,07:00:00,29/01/20,18:00:00,928,460
+Caledonian Sky,Bluff,28/01/20,07:00:00,28/01/20,09:00:00,114,74
+Celebrity Solstice,Fiordland,28/01/20,08:00:00,28/01/20,18:00:00,2850,1250
+Seabourn Encore,Fiordland,28/01/20,14:00:00,28/01/20,19:00:00,600,416
+Silver Muse,Lyttelton,28/01/20,08:00:00,28/01/20,18:00:00,623,417
+Caledonian Sky,Stewart Island,28/01/20,12:00:00,28/01/20,20:00:00,114,74
+Le Laperouse,Wellington,28/01/20,08:30:00,28/01/20,19:00:00,184,124
+Ocean Dream,Auckland (cancelled),29/01/20,06:00:00,29/01/20,21:00:00,998,550
+Noordam,Bay Of Islands,29/01/20,07:00:00,29/01/20,14:00:00,1972,820
+Celebrity Solstice,Dunedin,29/01/20,09:00:00,29/01/20,19:00:00,2850,1250
+Caledonian Sky,Fiordland,29/01/20,06:00:00,01/02/20,19:30:00,114,74
+Explorer Dream,Fiordland,29/01/20,08:00:00,29/01/20,14:30:00,1856,1300
+Norwegian Jewel,Fiordland,29/01/20,09:00:00,29/01/20,18:30:00,2376,1100
+Le Laperouse,Picton,29/01/20,07:00:00,29/01/20,17:00:00,184,124
+Maasdam,Wellington,29/01/20,08:00:00,29/01/20,17:00:00,1258,580
+Silver Muse,Wellington,29/01/20,07:00:00,29/01/20,16:00:00,623,417
+Celebrity Solstice,Akaroa,30/01/20,08:00:00,30/01/20,19:00:00,2850,1250
+Ruby Princess,Bay Of Islands,30/01/20,09:00:00,30/01/20,18:00:00,3034,1174
+Explorer Dream,Dunedin,30/01/20,06:30:00,30/01/20,14:30:00,1856,1300
+Norwegian Jewel,Dunedin,30/01/20,10:00:00,30/01/20,19:00:00,2376,1100
+Maasdam,Napier,30/01/20,08:00:00,31/01/20,17:00:00,1258,580
+Silver Muse,Napier,30/01/20,07:00:00,30/01/20,13:30:00,623,417
+Viking Sun,Tauranga,30/01/20,06:00:00,30/01/20,16:45:00,928,460
+Norwegian Jewel,Akaroa,31/01/20,08:00:00,31/01/20,17:00:00,2376,1100
+Le Laperouse,Fiordland,31/01/20,13:00:00,01/02/20,10:00:00,184,124
+Maasdam,Gisborne (cancelled),31/01/20,08:00:00,31/01/20,17:00:00,1258,580
+Viking Sun,Napier (cancelled),31/01/20,12:00:00,31/01/20,18:00:00,928,460
+Ruby Princess,Tauranga,31/01/20,07:30:00,31/01/20,18:15:00,3034,1174
+Silver Muse,Tauranga,31/01/20,08:00:00,31/01/20,18:00:00,623,417
+Explorer Dream,Wellington,31/01/20,08:30:00,31/01/20,16:30:00,1856,1300
+Silver Muse,Auckland,01/02/20,08:00:00,01/02/20,18:00:00,623,417
+Viking Orion,Dunedin,01/02/20,09:00:00,01/02/20,18:00:00,930,480
+Azamara Journey,Gisborne,01/02/20,08:00:00,01/02/20,15:00:00,684,407
+Explorer Dream,Gisborne,01/02/20,07:00:00,01/02/20,16:00:00,1856,1300
+Ruby Princess,Napier,01/02/20,12:00:00,01/02/20,19:00:00,3034,1174
+Norwegian Jewel,Picton,01/02/20,08:00:00,01/02/20,17:00:00,2376,1100
+Celebrity Solstice,Tauranga,01/02/20,08:00:00,02/02/20,19:30:00,2850,1250
+Maasdam,Tauranga,01/02/20,07:45:00,01/02/20,19:30:00,1258,580
+Viking Sun,Wellington,01/02/20,09:00:00,01/02/20,18:00:00,928,460
+Explorer Dream,Auckland,02/02/20,09:00:00,02/02/20,21:00:00,1856,1300
+Le Laperouse,Dunedin,02/02/20,08:30:00,02/02/20,18:00:00,184,124
+Golden Princess,Fiordland,02/02/20,07:00:00,02/02/20,16:00:00,2636,1073
+Viking Orion,Lyttelton,02/02/20,08:00:00,02/02/20,18:00:00,930,480
+Viking Sun,Akaroa,02/02/20,08:00:00,02/02/20,17:30:00,928,460
+Norwegian Jewel,Napier,02/02/20,08:00:00,02/02/20,16:00:00,2376,1100
+Caledonian Sky,Stewart Island,02/02/20,07:00:00,02/02/20,18:00:00,114,74
+Silver Muse,Tauranga,02/02/20,08:00:00,02/02/20,18:00:00,623,417
+Azamara Journey,Wellington,02/02/20,13:00:00,02/02/20,22:00:00,684,407
+Ruby Princess,Wellington,02/02/20,08:00:00,02/02/20,18:00:00,3034,1174
+Ruby Princess,Akaroa (cancelled),03/02/20,08:00:00,03/02/20,18:00:00,3034,1174
+Celebrity Solstice,Auckland,03/02/20,09:30:00,03/02/20,19:00:00,2850,1250
+Maasdam,Auckland,03/02/20,00:00:00,03/02/20,17:00:00,1258,580
+Caledonian Sky,Dunedin,03/02/20,07:30:00,03/02/20,18:00:00,114,74
+Golden Princess,Dunedin,03/02/20,08:00:00,03/02/20,18:00:00,2636,1073
+Viking Sun,Dunedin,03/02/20,08:00:00,03/02/20,17:00:00,928,460
+Explorer Dream,Gisborne,03/02/20,14:00:00,03/02/20,22:00:00,1856,1300
+Azamara Journey,Picton,03/02/20,08:00:00,03/02/20,22:00:00,684,407
+Norwegian Jewel,Tauranga,03/02/20,08:45:00,03/02/20,20:15:00,2376,1100
+Viking Orion,Wellington,03/02/20,08:00:00,03/02/20,18:00:00,930,480
+Caledonian Sky,Akaroa,04/02/20,07:30:00,04/02/20,15:00:00,114,74
+Golden Princess,Akaroa (cancelled),04/02/20,08:00:00,04/02/20,18:00:00,2636,1073
+Norwegian Jewel,Auckland,04/02/20,06:00:00,04/02/20,18:00:00,2376,1100
+Celebrity Solstice,Bay Of Islands,04/02/20,07:00:00,04/02/20,17:00:00,2850,1250
+Ruby Princess,Dunedin,04/02/20,08:00:00,04/02/20,18:00:00,3034,1174
+Le Laperouse,Fiordland,04/02/20,06:00:00,05/02/20,12:00:00,184,124
+Viking Orion,Napier,04/02/20,08:00:00,04/02/20,14:00:00,930,480
+Azamara Journey,Nelson,04/02/20,08:00:00,04/02/20,20:00:00,684,407
+Maasdam,Tauranga,04/02/20,06:30:00,04/02/20,17:45:00,1258,580
+Explorer Dream,Wellington,04/02/20,14:00:00,04/02/20,22:00:00,1856,1300
+Silver Muse,Wellington,04/02/20,08:00:00,04/02/20,23:00:00,623,417
+Viking Sun,Fiordland (cancelled),04/02/20,,04/02/20,,928,460
+Ovation Of The Seas,Bay Of Islands,05/02/20,09:30:00,05/02/20,18:00:00,4180,1500
+Explorer Dream,Dunedin,05/02/20,14:30:00,05/02/20,22:30:00,1856,1300
+Ruby Princess,Fiordland (cancelled),05/02/20,08:00:00,05/02/20,17:00:00,3034,1174
+Maasdam,Napier,05/02/20,12:00:00,05/02/20,18:00:00,1258,580
+Azamara Journey,New Plymouth,05/02/20,08:00:00,05/02/20,20:00:00,684,407
+Silver Muse,Picton,05/02/20,08:00:00,05/02/20,18:00:00,623,417
+Caledonian Sky,Ships Cove,05/02/20,08:00:00,05/02/20,12:00:00,114,74
+Norwegian Jewel,Tauranga,05/02/20,06:45:00,05/02/20,15:15:00,2376,1100
+Viking Orion,Tauranga,05/02/20,10:00:00,05/02/20,18:30:00,930,480
+Caledonian Sky,Wellington,05/02/20,17:00:00,06/02/20,17:30:00,114,74
+Golden Princess,Wellington,05/02/20,07:00:00,05/02/20,16:00:00,2636,1073
+Queen Elizabeth,Auckland,06/02/20,09:00:00,06/02/20,23:00:00,2092,1097
+Viking Orion,Auckland,06/02/20,07:00:00,08/02/20,18:00:00,930,480
+Explorer Dream,Fiordland (cancelled),06/02/20,17:30:00,06/02/20,18:30:00,1856,1300
+Noordam,Fiordland (cancelled),06/02/20,07:00:00,06/02/20,18:00:00,1972,820
+Noordam,Stewart Island,06/02/20,,06/02/20,,1972,820
+Sea Princess,Fiordland (cancelled),06/02/20,07:00:00,06/02/20,16:00:00,2016,839
+Norwegian Jewel,Gisborne (cancelled),06/02/20,08:00:00,06/02/20,16:00:00,2376,1100
+Silver Muse,Lyttelton,06/02/20,08:00:00,06/02/20,18:00:00,623,417
+Golden Princess,Napier,06/02/20,07:00:00,06/02/20,14:00:00,2636,1073
+Le Laperouse,NZ Sub Antarctic,06/02/20,08:30:00,06/02/20,18:30:00,184,124
+Ovation Of The Seas,Tauranga,06/02/20,08:00:00,06/02/20,17:00:00,4180,1500
+Maasdam,Wellington,06/02/20,09:00:00,06/02/20,18:00:00,1258,580
+Maasdam,Akaroa,07/02/20,08:00:00,07/02/20,18:00:00,1258,580
+Azamara Journey,Auckland,07/02/20,08:00:00,08/02/20,18:30:00,684,407
+Noordam,Dunedin,07/02/20,09:00:00,07/02/20,18:00:00,1972,820
+Sea Princess,Dunedin,07/02/20,08:00:00,07/02/20,18:00:00,2016,839
+Ovation Of The Seas,Napier,07/02/20,10:00:00,07/02/20,17:00:00,4180,1500
+Golden Princess,Tauranga,07/02/20,06:30:00,07/02/20,19:30:00,2636,1073
+Queen Elizabeth,Tauranga,07/02/20,08:00:00,07/02/20,18:00:00,2092,1097
+Silver Muse,Timaru,07/02/20,08:00:00,07/02/20,18:00:00,623,417
+Norwegian Jewel,Wellington,07/02/20,08:00:00,07/02/20,18:00:00,2376,1100
+Noordam,Akaroa,08/02/20,07:00:00,08/02/20,18:00:00,1972,820
+Sea Princess,Akaroa,08/02/20,08:00:00,08/02/20,18:00:00,2016,839
+Golden Princess,Auckland,08/02/20,07:00:00,08/02/20,14:00:00,2636,1073
+Maasdam,Dunedin,08/02/20,08:00:00,08/02/20,18:00:00,1258,580
+Norwegian Jewel,Picton,08/02/20,08:00:00,08/02/20,18:00:00,2376,1100
+Silver Muse,Stewart Island,08/02/20,10:00:00,08/02/20,18:00:00,623,417
+Caledonian Sky,Tauranga,08/02/20,07:30:00,08/02/20,16:00:00,114,74
+Ovation Of The Seas,Wellington,08/02/20,07:00:00,08/02/20,13:00:00,4180,1500
+Norwegian Jewel,Akaroa,09/02/20,08:00:00,09/02/20,18:00:00,2376,1100
+Caledonian Sky,Auckland,09/02/20,07:00:00,11/02/20,18:30:00,114,74
+Azamara Journey,Bay Of Islands,09/02/20,06:30:00,09/02/20,18:00:00,684,407
+Ovation Of The Seas,Dunedin (cancelled),09/02/20,08:00:00,09/02/20,17:00:00,4180,1500
+Silver Muse,Fiordland,09/02/20,08:00:00,09/02/20,17:00:00,623,417
+Noordam,Picton,09/02/20,10:00:00,09/02/20,20:00:00,1972,820
+Maasdam,Stewart Island (cancelled),09/02/20,08:00:00,09/02/20,17:00:00,1258,580
+Viking Orion,Tauranga,09/02/20,08:30:00,09/02/20,16:45:00,930,480
+Queen Elizabeth,Wellington,09/02/20,08:00:00,09/02/20,18:00:00,2092,1097
+Sea Princess,Wellington,09/02/20,07:00:00,09/02/20,17:00:00,2016,839
+Queen Elizabeth,Akaroa,10/02/20,08:00:00,10/02/20,18:00:00,2092,1097
+Pacific Princess,Auckland,10/02/20,07:00:00,10/02/20,18:00:00,672,391
+Albatros,Bay Of Islands,10/02/20,09:00:00,10/02/20,20:00:00,880,340
+Norwegian Jewel,Dunedin,10/02/20,08:00:00,10/02/20,18:00:00,2376,1100
+Maasdam,Fiordland,10/02/20,07:00:00,10/02/20,18:00:00,1258,580
+Ovation Of The Seas,Fiordland,10/02/20,08:00:00,10/02/20,18:00:00,4180,1500
+Regatta,Fiordland,10/02/20,07:00:00,10/02/20,13:00:00,650,375
+Sea Princess,Napier,10/02/20,07:00:00,10/02/20,16:00:00,2016,839
+Viking Orion,Napier,10/02/20,12:00:00,10/02/20,18:00:00,930,480
+Azamara Journey,Tauranga,10/02/20,09:15:00,10/02/20,17:15:00,684,407
+Noordam,Wellington,10/02/20,08:00:00,10/02/20,17:00:00,1972,820
+Albatros,Auckland,11/02/20,07:00:00,13/02/20,20:00:00,880,340
+Queen Elizabeth,Dunedin,11/02/20,08:00:00,11/02/20,18:00:00,2092,1097
+Regatta,Dunedin,11/02/20,10:00:00,11/02/20,19:00:00,650,375
+Norwegian Jewel,Fiordland,11/02/20,09:00:00,11/02/20,18:30:00,2376,1100
+Azamara Journey,Napier,11/02/20,14:00:00,11/02/20,21:00:00,684,407
+Noordam,Napier,11/02/20,07:00:00,11/02/20,13:00:00,1972,820
+Le Laperouse,NZ Sub Antarctic,11/02/20,06:00:00,13/02/20,19:30:00,184,124
+Sea Princess,Tauranga,11/02/20,11:00:00,11/02/20,22:00:00,2016,839
+Viking Orion,Wellington,11/02/20,09:00:00,11/02/20,18:00:00,930,480
+Regatta,Akaroa,12/02/20,08:00:00,12/02/20,16:00:00,650,375
+Sea Princess,Auckland,12/02/20,10:00:00,12/02/20,22:00:00,2016,839
+Caledonian Sky,Bay Of Islands,12/02/20,07:00:00,12/02/20,18:00:00,114,74
+Celebrity Solstice,Fiordland,12/02/20,08:00:00,12/02/20,17:00:00,2850,1250
+Queen Elizabeth,Fiordland,12/02/20,08:00:00,12/02/20,18:00:00,2092,1097
+Seabourn Encore,Fiordland,12/02/20,06:00:00,12/02/20,11:00:00,600,416
+Viking Orion,Lyttelton,12/02/20,08:00:00,12/02/20,18:00:00,930,480
+Pacific Princess,Picton,12/02/20,08:00:00,12/02/20,18:00:00,672,391
+Noordam,Tauranga,12/02/20,06:45:00,12/02/20,18:00:00,1972,820
+Azamara Journey,Wellington,12/02/20,13:00:00,12/02/20,23:00:00,684,407
+Noordam,Auckland,13/02/20,14:00:00,14/02/20,17:00:00,1972,820
+Celebrity Solstice,Dunedin,13/02/20,09:00:00,13/02/20,19:00:00,2850,1250
+Viking Orion,Dunedin,13/02/20,08:00:00,13/02/20,18:00:00,930,480
+Pacific Princess,Kaikoura,13/02/20,07:00:00,13/02/20,16:00:00,672,391
+Azamara Journey,Picton,13/02/20,07:00:00,13/02/20,16:00:00,684,407
+Seabourn Encore,Stewart Island,13/02/20,08:00:00,13/02/20,17:00:00,600,416
+Regatta,Wellington,13/02/20,08:00:00,13/02/20,17:00:00,650,375
+Celebrity Solstice,Akaroa,14/02/20,08:00:00,14/02/20,19:00:00,2850,1250
+Europa,Dunedin,14/02/20,08:00:00,14/02/20,15:00:00,408,290
+Pacific Princess,Dunedin,14/02/20,10:00:00,14/02/20,20:00:00,672,391
+Ruby Princess,Fiordland,14/02/20,07:00:00,14/02/20,16:00:00,3034,1174
+Azamara Journey,Lyttelton,14/02/20,07:00:00,14/02/20,17:00:00,684,407
+Regatta,Napier,14/02/20,08:00:00,14/02/20,20:00:00,650,375
+Arcadia,Tauranga,14/02/20,08:00:00,14/02/20,19:00:00,1980,880
+Seabourn Encore,Timaru,14/02/20,10:00:00,14/02/20,20:00:00,600,416
+Arcadia,Auckland,15/02/20,07:00:00,15/02/20,22:00:00,1980,880
+Astor,Auckland,15/02/20,13:00:00,16/02/20,17:00:00,474,300
+Azamara Journey,Dunedin,15/02/20,07:30:00,15/02/20,21:30:00,684,407
+Ruby Princess,Dunedin,15/02/20,08:00:00,15/02/20,18:00:00,3034,1174
+Golden Princess,Fiordland,15/02/20,07:00:00,15/02/20,16:00:00,2636,1073
+Regatta,Gisborne,15/02/20,07:00:00,15/02/20,17:00:00,650,375
+Seabourn Encore,Lyttelton,15/02/20,08:00:00,15/02/20,23:00:00,600,416
+Pacific Princess,Stewart Island (cancelled),15/02/20,07:00:00,15/02/20,18:00:00,672,391
+Pacific Princess,Lyttelton,15/02/20,07:00:00,15/02/20,17:00:00,672,391
+Europa,Timaru,15/02/20,08:00:00,15/02/20,18:00:00,408,290
+Ruby Princess,Akaroa,16/02/20,08:00:00,16/02/20,18:00:00,3034,1174
+Arcadia,Bay Of Islands,16/02/20,08:00:00,16/02/20,18:00:00,1980,880
+Golden Princess,Dunedin,16/02/20,08:00:00,16/02/20,18:00:00,2636,1073
+Pacific Princess,Fiordland (cancelled),16/02/20,08:00:00,16/02/20,17:00:00,672,391
+Seabourn Encore,Kaikoura,16/02/20,08:00:00,16/02/20,17:00:00,600,416
+Europa,Lyttelton,16/02/20,07:00:00,16/02/20,18:00:00,408,290
+Le Laperouse,Lyttelton,16/02/20,06:30:00,16/02/20,18:00:00,184,124
+Noordam,Napier,16/02/20,08:00:00,16/02/20,18:00:00,1972,820
+Azamara Journey,Stewart Island (cancelled),16/02/20,10:00:00,16/02/20,18:00:00,684,407
+Azamara Journey,Akaroa,16/02/20,,16/02/20,,684,407
+Celebrity Solstice,Tauranga,16/02/20,08:00:00,16/02/20,18:00:00,2850,1250
+Regatta,Tauranga,16/02/20,07:45:00,16/02/20,19:00:00,650,375
+Golden Princess,Akaroa,17/02/20,08:00:00,17/02/20,18:00:00,2636,1073
+Celebrity Solstice,Auckland,17/02/20,06:30:00,17/02/20,18:00:00,2850,1250
+Regatta,Auckland,17/02/20,06:00:00,17/02/20,19:00:00,650,375
+Crystal Serenity,Bay Of Islands,17/02/20,08:00:00,17/02/20,18:00:00,980,655
+Le Laperouse,Dunedin,17/02/20,10:00:00,17/02/20,19:00:00,184,124
+Azamara Journey,Fiordland (cancelled),17/02/20,08:00:00,17/02/20,18:00:00,684,407
+Azamara Journey,Kaikoura,17/02/20,,17/02/20,,684,407
+Seabourn Encore,Nelson,17/02/20,08:00:00,17/02/20,18:00:00,600,416
+Europa,Picton,17/02/20,08:00:00,17/02/20,18:00:00,408,290
+Astor,Tauranga,17/02/20,08:00:00,17/02/20,18:00:00,474,300
+Noordam,Wellington,17/02/20,08:00:00,17/02/20,19:00:00,1972,820
+Ruby Princess,Wellington,17/02/20,08:00:00,17/02/20,18:00:00,3034,1174
+Noordam,Akaroa,18/02/20,08:00:00,18/02/20,19:00:00,1972,820
+Crystal Serenity,Auckland,18/02/20,08:00:00,19/02/20,18:00:00,980,655
+Celebrity Solstice,Bay Of Islands,18/02/20,08:00:00,18/02/20,17:00:00,2850,1250
+Regatta,Bay Of Islands,18/02/20,08:00:00,18/02/20,18:00:00,650,375
+Le Laperouse,Fiordland,18/02/20,13:00:00,19/02/20,13:00:00,184,124
+Europa,Kaiteriteri,18/02/20,07:00:00,18/02/20,09:00:00,408,290
+Ruby Princess,Napier,18/02/20,07:00:00,18/02/20,14:00:00,3034,1174
+Europa,Nelson,18/02/20,11:00:00,18/02/20,18:00:00,408,290
+Azamara Journey,New Plymouth,18/02/20,11:00:00,18/02/20,22:00:00,684,407
+Columbus,Tauranga,18/02/20,05:45:00,18/02/20,21:30:00,1550,700
+Golden Princess,Wellington,18/02/20,07:00:00,18/02/20,16:00:00,2636,1073
+Seabourn Encore,Wellington,18/02/20,08:00:00,18/02/20,18:00:00,600,416
+Columbus,Auckland,19/02/20,07:00:00,19/02/20,22:00:00,1550,700
+Noordam,Dunedin,19/02/20,08:00:00,19/02/20,19:00:00,1972,820
+Astor,Lyttelton,19/02/20,12:30:00,19/02/20,20:00:00,474,300
+Golden Princess,Napier,19/02/20,07:00:00,19/02/20,14:00:00,2636,1073
+Celebrity Solstice,Tauranga,19/02/20,08:00:00,19/02/20,18:00:00,2850,1250
+Ruby Princess,Tauranga,19/02/20,06:45:00,19/02/20,17:45:00,3034,1174
+Europa,Wellington,19/02/20,07:00:00,19/02/20,17:00:00,408,290
+Ruby Princess,Auckland,20/02/20,07:00:00,20/02/20,18:00:00,3034,1174
+Europa,Napier,20/02/20,08:00:00,20/02/20,19:00:00,408,290
+Crystal Serenity,Tauranga,20/02/20,06:15:00,20/02/20,23:15:00,980,655
+Golden Princess,Tauranga,20/02/20,06:15:00,20/02/20,18:45:00,2636,1073
+Seabourn Encore,Waiheke,20/02/20,08:00:00,20/02/20,18:00:00,600,416
+Celebrity Solstice,Akaroa,21/02/20,08:00:00,21/02/20,19:00:00,2850,1250
+Golden Princess,Auckland,21/02/20,07:00:00,21/02/20,14:00:00,2636,1073
+Seabourn Encore,Auckland,21/02/20,06:00:00,21/02/20,17:00:00,600,416
+Ruby Princess,Bay Of Islands,21/02/20,07:00:00,21/02/20,17:00:00,3034,1174
+Crystal Serenity,Napier,21/02/20,18:00:00,22/02/20,18:00:00,980,655
+Le Laperouse,Picton,21/02/20,11:30:00,21/02/20,23:59:00,184,124
+Europa,Tauranga,21/02/20,18:00:00,22/02/20,18:30:00,408,290
+Columbus,Wellington,21/02/20,07:00:00,21/02/20,23:00:00,1550,700
+Seven Seas Mariner,Auckland,22/02/20,13:00:00,23/02/20,19:00:00,700,445
+Celebrity Solstice,Dunedin,22/02/20,07:30:00,22/02/20,17:00:00,2850,1250
+Maasdam,Fiordland,22/02/20,07:00:00,22/02/20,10:00:00,1258,580
+Norwegian Jewel,Fiordland,22/02/20,09:00:00,22/02/20,18:30:00,2376,1100
+Seabourn Encore,Tauranga,22/02/20,08:00:00,22/02/20,19:00:00,600,416
+Le Laperouse,Wellington,22/02/20,07:30:00,22/02/20,16:00:00,184,124
+Europa,Auckland,23/02/20,06:00:00,23/02/20,21:00:00,408,290
+Norwegian Jewel,Dunedin,23/02/20,09:00:00,23/02/20,19:00:00,2376,1100
+Celebrity Solstice,Fiordland,23/02/20,08:00:00,23/02/20,18:00:00,2850,1250
+Le Laperouse,Lyttelton,23/02/20,08:00:00,23/02/20,18:00:00,184,124
+Maasdam,Stewart Island,23/02/20,08:00:00,23/02/20,17:00:00,1258,580
+Crystal Serenity,Wellington,23/02/20,08:00:00,23/02/20,23:00:00,980,655
+Norwegian Jewel,Akaroa,24/02/20,08:00:00,24/02/20,18:00:00,2376,1100
+Europa,Bay Of Islands,24/02/20,08:00:00,24/02/20,18:00:00,408,290
+Le Laperouse,Dunedin,24/02/20,10:00:00,24/02/20,19:00:00,184,124
+Maasdam,Dunedin,24/02/20,08:00:00,24/02/20,17:00:00,1258,580
+Bremen,NZ Sub Antarctic,24/02/20,07:00:00,02/03/20,12:00:00,164,94
+Crystal Serenity,Picton,24/02/20,09:00:00,24/02/20,17:00:00,980,655
+Seabourn Encore,Picton,24/02/20,08:00:00,24/02/20,23:00:00,600,416
+Seven Seas Mariner,Tauranga,24/02/20,06:00:00,24/02/20,16:00:00,700,445
+Crystal Serenity,Akaroa,25/02/20,08:00:00,25/02/20,19:00:00,980,655
+Maasdam,Akaroa,25/02/20,07:00:00,25/02/20,18:00:00,1258,580
+Le Laperouse,Fiordland,25/02/20,13:00:00,26/02/20,13:00:00,184,124
+Seven Seas Mariner,Napier,25/02/20,10:00:00,25/02/20,18:00:00,700,445
+Norwegian Jewel,Wellington,25/02/20,08:00:00,25/02/20,18:00:00,2376,1100
+Seabourn Encore,Wellington,25/02/20,08:00:00,25/02/20,18:00:00,600,416
+Seabourn Encore,Akaroa,26/02/20,08:00:00,26/02/20,17:00:00,600,416
+Crystal Serenity,Dunedin,26/02/20,08:00:00,26/02/20,18:00:00,980,655
+Azamara Journey,Fiordland,26/02/20,10:00:00,26/02/20,16:00:00,684,407
+Costa Deliziosa,Tauranga,26/02/20,08:00:00,26/02/20,20:00:00,2260,908
+Maasdam,Wellington,26/02/20,09:00:00,26/02/20,18:00:00,1258,580
+Seven Seas Mariner,Wellington,26/02/20,09:00:00,26/02/20,17:00:00,700,445
+Costa Deliziosa,Auckland,27/02/20,07:00:00,27/02/20,21:00:00,2260,908
+Ruby Princess,Bay Of Islands,27/02/20,09:00:00,27/02/20,18:00:00,3034,1174
+Seabourn Encore,Dunedin,27/02/20,08:00:00,27/02/20,18:00:00,600,416
+Crystal Serenity,Fiordland,27/02/20,08:00:00,27/02/20,16:00:00,980,655
+Sea Princess,Fiordland,27/02/20,07:00:00,27/02/20,16:00:00,2016,839
+Maasdam,Napier,27/02/20,08:00:00,27/02/20,14:00:00,1258,580
+Azamara Journey,Dunedin,27/02/20,01:00:00,28/02/20,20:00:00,684,407
+Ruby Princess,Auckland,28/02/20,07:00:00,28/02/20,18:00:00,3034,1174
+Sea Princess,Dunedin,28/02/20,08:00:00,28/02/20,18:00:00,2016,839
+Le Laperouse,Picton,28/02/20,11:30:00,28/02/20,23:59:00,184,124
+Seabourn Encore,Stewart Island,28/02/20,08:00:00,28/02/20,17:00:00,600,416
+Maasdam,Tauranga,28/02/20,08:30:00,28/02/20,21:45:00,1258,580
+Azamara Journey,Akaroa,29/02/20,09:00:00,29/02/20,20:00:00,684,407
+Sea Princess,Akaroa,29/02/20,08:00:00,29/02/20,18:00:00,2016,839
+Viking Orion,Dunedin,29/02/20,09:00:00,29/02/20,18:00:00,930,480
+Seabourn Encore,Fiordland,29/02/20,14:00:00,29/02/20,19:00:00,600,416
+Ruby Princess,Tauranga,29/02/20,06:30:00,29/02/20,17:45:00,3034,1174
+Le Laperouse,Wellington,29/02/20,07:30:00,29/02/20,16:00:00,184,124
+Maasdam,Auckland,01/03/20,07:00:00,01/03/20,17:00:00,1258,580
+Azamara Journey,Kaikoura,01/03/20,08:00:00,01/03/20,17:00:00,684,407
+Le Laperouse,Lyttelton,01/03/20,08:00:00,01/03/20,17:30:00,184,124
+Viking Orion,Lyttelton,01/03/20,08:00:00,01/03/20,18:00:00,930,480
+Ruby Princess,Napier,01/03/20,10:00:00,01/03/20,18:00:00,3034,1174
+Sea Princess,Wellington,01/03/20,07:00:00,01/03/20,17:00:00,2016,839
+Amsterdam,Auckland,02/03/20,07:00:00,03/03/20,18:00:00,1380,615
+Maasdam,Bay Of Islands,02/03/20,08:00:00,02/03/20,17:00:00,1258,580
+Sea Princess,Napier,02/03/20,07:00:00,02/03/20,14:00:00,2016,839
+Azamara Journey,Picton,02/03/20,08:00:00,02/03/20,21:00:00,684,407
+Le Laperouse,Ships Cove,02/03/20,08:30:00,02/03/20,11:00:00,184,124
+Voyager of the Seas,Tauranga,02/03/20,07:00:00,02/03/20,19:00:00,4000,1181
+Ruby Princess,Wellington,02/03/20,07:00:00,02/03/20,17:00:00,3034,1174
+Viking Orion,Wellington,02/03/20,08:00:00,02/03/20,18:00:00,930,480
+Ruby Princess,Akaroa,03/03/20,08:00:00,03/03/20,18:00:00,3034,1174
+Voyager of the Seas,Bay Of Islands,03/03/20,08:00:00,03/03/20,18:00:00,4000,1181
+Bremen,Bluff,03/03/20,06:00:00,03/03/20,20:00:00,164,94
+Ovation Of The Seas,Fiordland,03/03/20,08:00:00,03/03/20,18:00:00,4180,1500
+Le Laperouse,Napier,03/03/20,08:00:00,04/03/20,17:00:00,184,124
+Viking Orion,Napier,03/03/20,08:00:00,03/03/20,14:00:00,930,480
+Sea Princess,Tauranga,03/03/20,08:30:00,03/03/20,19:45:00,2016,839
+Azamara Journey,Wellington,03/03/20,08:00:00,03/03/20,23:00:00,684,407
+Sea Princess,Auckland,04/03/20,07:30:00,04/03/20,22:00:00,2016,839
+Amsterdam,Bay Of Islands,04/03/20,08:00:00,04/03/20,16:00:00,1380,615
+Ovation Of The Seas,Dunedin (cancelled),04/03/20,08:00:00,04/03/20,17:00:00,4180,1500
+Ruby Princess,Dunedin,04/03/20,08:00:00,04/03/20,18:00:00,3034,1174
+Bremen,Fiordland,04/03/20,,05/03/20,17:00:00,164,94
+Azamara Journey,Napier,04/03/20,14:30:00,04/03/20,22:00:00,684,407
+Viking Orion,Tauranga,04/03/20,08:45:00,04/03/20,16:45:00,930,480
+Viking Orion,Auckland,05/03/20,07:00:00,07/03/20,18:00:00,930,480
+Celebrity Solstice,Fiordland,05/03/20,08:00:00,05/03/20,17:00:00,2850,1250
+Noordam,Fiordland,05/03/20,08:00:00,05/03/20,09:00:00,1972,820
+Ruby Princess,Fiordland,05/03/20,08:00:00,05/03/20,17:00:00,3034,1174
+Azamara Journey,Gisborne (cancelled),05/03/20,08:00:00,05/03/20,15:30:00,684,407
+Ovation Of The Seas,Wellington,05/03/20,12:30:00,05/03/20,22:00:00,4180,1500
+Le Laperouse,Bay Of Islands,06/03/20,07:30:00,07/03/20,17:30:00,184,124
+Celebrity Solstice,Dunedin,06/03/20,09:00:00,06/03/20,19:00:00,2850,1250
+Noordam,Dunedin,06/03/20,09:00:00,06/03/20,18:00:00,1972,820
+Seven Seas Navigator,Fiordland,06/03/20,07:00:00,06/03/20,11:00:00,500,340
+Bremen,Stewart Island,06/03/20,12:00:00,06/03/20,18:00:00,164,94
+Azamara Journey,Tauranga,06/03/20,08:00:00,07/03/20,15:00:00,684,407
+Carnival Spirit,Wellington,06/03/20,08:00:00,06/03/20,17:00:00,2124,930
+Celebrity Solstice,Akaroa,07/03/20,08:00:00,07/03/20,19:00:00,2850,1250
+Noordam,Akaroa,07/03/20,07:00:00,07/03/20,18:00:00,1972,820
+MSC Magnifica,Auckland,07/03/20,09:00:00,07/03/20,21:00:00,3013,1038
+Bremen,Dunedin,07/03/20,08:00:00,07/03/20,14:00:00,164,94
+Seven Seas Navigator,Dunedin,07/03/20,09:00:00,07/03/20,19:00:00,500,340
+Carnival Spirit,Napier,07/03/20,08:00:00,07/03/20,17:00:00,2124,930
+Ovation Of The Seas,Tauranga,07/03/20,08:00:00,07/03/20,17:00:00,4180,1500
+Seven Seas Navigator,Akaroa,08/03/20,08:00:00,08/03/20,18:00:00,500,340
+Le Laperouse,Auckland,08/03/20,06:30:00,08/03/20,11:30:00,184,124
+Ovation Of The Seas,Auckland,08/03/20,08:00:00,08/03/20,19:00:00,4180,1500
+Azamara Journey,Bay Of Islands,08/03/20,08:00:00,08/03/20,18:00:00,684,407
+Radiance Of The Seas,Fiordland,08/03/20,08:00:00,08/03/20,17:00:00,2064,858
+Bremen,Lyttelton,08/03/20,07:00:00,08/03/20,18:00:00,164,94
+Carnival Spirit,Picton,08/03/20,08:00:00,08/03/20,17:00:00,2124,930
+MSC Magnifica,Tauranga,08/03/20,08:00:00,08/03/20,18:30:00,3013,1038
+Viking Orion,Tauranga,08/03/20,06:45:00,08/03/20,15:45:00,930,480
+Noordam,Wellington,08/03/20,08:00:00,08/03/20,17:00:00,1972,820
+Carnival Spirit,Akaroa,09/03/20,08:00:00,09/03/20,17:00:00,2124,930
+Azamara Journey,Auckland,09/03/20,07:00:00,09/03/20,17:00:00,684,407
+Ovation Of The Seas,Bay Of Islands,09/03/20,08:00:00,09/03/20,17:00:00,4180,1500
+Radiance Of The Seas,Dunedin,09/03/20,08:00:00,09/03/20,17:00:00,2064,858
+Noordam,Gisborne,09/03/20,10:00:00,09/03/20,18:00:00,1972,820
+Bremen,Kaikoura,09/03/20,07:00:00,09/03/20,14:00:00,164,94
+MSC Magnifica,Napier,09/03/20,10:00:00,09/03/20,17:00:00,3013,1038
+Viking Orion,Napier,09/03/20,12:00:00,09/03/20,18:00:00,930,480
+Celebrity Solstice,Tauranga,09/03/20,08:00:00,09/03/20,18:00:00,2850,1250
+Seven Seas Navigator,Wellington,09/03/20,08:00:00,09/03/20,17:00:00,500,340
+Radiance Of The Seas,Akaroa,10/03/20,08:00:00,10/03/20,17:00:00,2064,858
+Celebrity Solstice,Auckland,10/03/20,06:30:00,10/03/20,18:00:00,2850,1250
+Carnival Spirit,Dunedin,10/03/20,08:00:00,10/03/20,16:00:00,2124,930
+Azamara Journey,Gisborne,10/03/20,08:00:00,10/03/20,18:00:00,684,407
+Bremen,Kaiteriteri,10/03/20,07:00:00,10/03/20,19:00:00,164,94
+Seven Seas Navigator,Napier,10/03/20,08:00:00,10/03/20,16:00:00,500,340
+Noordam,Tauranga,10/03/20,09:30:00,10/03/20,22:00:00,1972,820
+MSC Magnifica,Wellington,10/03/20,07:00:00,10/03/20,14:00:00,3013,1038
+Viking Orion,Wellington,10/03/20,09:00:00,10/03/20,18:00:00,930,480
+Carnival Spirit,Fiordland,11/03/20,14:00:00,11/03/20,18:00:00,2124,930
+MSC Magnifica,Fiordland,11/03/20,15:00:00,11/03/20,20:00:00,3013,1038
+Ruby Princess,Fiordland,11/03/20,07:00:00,11/03/20,16:00:00,3034,1174
+Silver Muse,Fiordland,11/03/20,08:00:00,11/03/20,17:00:00,623,417
+Viking Orion,Lyttelton,11/03/20,08:00:00,11/03/20,18:00:00,930,480
+Azamara Journey,Napier,11/03/20,14:00:00,11/03/20,20:00:00,684,407
+Bremen,Ships Cove,11/03/20,07:00:00,11/03/20,17:00:00,164,94
+Celebrity Solstice,Tauranga,11/03/20,08:00:00,11/03/20,18:00:00,2850,1250
+Seven Seas Navigator,Tauranga,11/03/20,10:15:00,11/03/20,17:45:00,500,340
+Bremen,Wellington,11/03/20,21:00:00,13/03/20,08:00:00,164,94
+Radiance Of The Seas,Wellington,11/03/20,07:00:00,11/03/20,16:00:00,2064,858
+Le Laperouse,Auckland,12/03/20,15:00:00,12/03/20,18:00:00,184,124
+Noordam,Auckland,12/03/20,07:00:00,12/03/20,17:00:00,1972,820
+Seven Seas Navigator,Bay Of Islands,12/03/20,09:00:00,12/03/20,18:00:00,500,340
+Ruby Princess,Dunedin,12/03/20,08:00:00,12/03/20,18:00:00,3034,1174
+Viking Orion,Dunedin,12/03/20,08:00:00,12/03/20,18:00:00,930,480
+Azamara Journey,Wellington,12/03/20,13:00:00,12/03/20,23:00:00,684,407
+Ruby Princess,Akaroa,13/03/20,08:00:00,13/03/20,18:00:00,3034,1174
+Seven Seas Navigator,Auckland,13/03/20,06:00:00,13/03/20,19:00:00,500,340
+Silver Muse,Dunedin,13/03/20,08:00:00,13/03/20,18:00:00,623,417
+Golden Princess,Fiordland,13/03/20,07:00:00,13/03/20,16:00:00,2636,1073
+Azamara Journey,Picton,13/03/20,07:00:00,13/03/20,16:00:00,684,407
+Celebrity Solstice,Picton,13/03/20,08:00:00,13/03/20,18:00:00,2850,1250
+Le Laperouse,Tauranga,13/03/20,08:00:00,13/03/20,18:00:00,184,124
+Noordam,Tauranga,13/03/20,07:15:00,13/03/20,16:45:00,1972,820
+Azamara Journey,Akaroa,14/03/20,08:00:00,14/03/20,19:30:00,684,407
+Celebrity Solstice,Akaroa,14/03/20,08:00:00,14/03/20,19:00:00,2850,1250
+Seven Seas Navigator,Bay of Islands,14/03/20,08:00:00,14/03/20,18:00:00,500,340
+Golden Princess,Dunedin,14/03/20,08:00:00,14/03/20,18:00:00,2636,1073
+Silver Muse,Lyttelton,14/03/20,08:00:00,14/03/20,18:00:00,623,417
+Bremen,Napier,14/03/20,07:00:00,14/03/20,19:00:00,164,94
+Noordam,Napier (cancelled),14/03/20,12:00:00,14/03/20,17:00:00,1972,820
+Ruby Princess,Wellington,14/03/20,08:00:00,14/03/20,18:00:00,3034,1174
+Golden Princess,Akaroa (cancelled),15/03/20,08:00:00,15/03/20,18:00:00,2636,1073
+Ovation Of The Seas,Bay Of Islands (cancelled),15/03/20,10:00:00,15/03/20,18:00:00,4180,1500
+Azamara Journey,Dunedin,15/03/20,07:30:00,15/03/20,17:00:00,684,407
+Celebrity Solstice,Dunedin,15/03/20,07:00:00,15/03/20,17:00:00,2850,1250
+Le Laperouse,Napier,15/03/20,08:00:00,15/03/20,15:00:00,184,124
+Ruby Princess,Napier,15/03/20,07:00:00,15/03/20,16:00:00,3034,1174
+Noordam,Picton (cancelled),15/03/20,09:00:00,15/03/20,18:00:00,1972,820
+Silver Muse,Picton,15/03/20,08:00:00,15/03/20,14:00:00,623,417
+Noordam,Akaroa (cancelled),16/03/20,08:00:00,16/03/20,17:00:00,1972,820
+Ovation Of The Seas,Auckland (cancelled),16/03/20,08:00:00,16/03/20,17:00:00,4180,1500
+Azamara Journey,Fiordland (cancelled),16/03/20,17:00:00,16/03/20,20:00:00,684,407
+Celebrity Solstice,Fiordland,16/03/20,08:00:00,16/03/20,18:00:00,2850,1250
+Bremen,Tauranga,16/03/20,01:00:00,16/03/20,18:00:00,164,94
+Ruby Princess,Tauranga (cancelled),16/03/20,08:15:00,16/03/20,19:30:00,3034,1174
+Golden Princess,Wellington (cancelled),16/03/20,07:00:00,16/03/20,16:00:00,2636,1073
+Le Laperouse,Wellington,16/03/20,08:30:00,16/03/20,19:00:00,184,124
+Bremen,Auckland,17/03/20,23:00:00,18/03/20,19:00:00,164,94
+Ruby Princess,Auckland (cancelled),17/03/20,07:00:00,17/03/20,18:00:00,3034,1174
+Silver Muse,Auckland (cancelled),17/03/20,08:00:00,17/03/20,18:30:00,623,417
+Radiance Of The Seas,Fiordland (cancelled),17/03/20,08:00:00,17/03/20,17:00:00,2064,858
+Golden Princess,Napier (cancelled),17/03/20,07:00:00,17/03/20,17:00:00,2636,1073
+Le Laperouse,Picton (cancelled),17/03/20,07:00:00,17/03/20,17:00:00,184,124
+Noordam,Wellington (cancelled),17/03/20,08:00:00,17/03/20,17:00:00,1972,820
+Artania,Auckland (cancelled),18/03/20,07:00:00,18/03/20,20:00:00,1200,520
+Azamara Journey,Auckland (CREW ONLY),18/03/20,,,,,
+Ruby Princess,Bay Of Islands (cancelled),18/03/20,07:00:00,18/03/20,17:00:00,3034,1174
+Radiance Of The Seas,Dunedin (cancelled),18/03/20,08:00:00,18/03/20,17:00:00,2064,858
+Golden Princess,Tauranga (cancelled),18/03/20,09:45:00,18/03/20,16:30:00,2636,1073
+Silver Muse,Tauranga (cancelled),18/03/20,09:30:00,18/03/20,17:00:00,623,417
+Radiance Of The Seas,Akaroa (cancelled),19/03/20,08:00:00,19/03/20,17:00:00,2064,858
+Golden Princess,Auckland (cancelled),19/03/20,07:00:00,19/03/20,14:00:00,2636,1073
+Noordam,Auckland (CREW ONLY),19/03/20,07:00:00,25/03/20,17:00:00,1972,820
+Silver Muse,Auckland (CREW ONLY),19/03/20,,24/03/20,,,
+Artania,Bay Of Islands (cancelled),19/03/20,07:00:00,19/03/20,17:00:00,1200,520
+Bremen,Bay Of Islands (cancelled),19/03/20,07:00:00,19/03/20,16:00:00,164,94
+Queen Elizabeth,Wellington (cancelled),19/03/20,,19/03/20,,2092,1097
+Le Laperouse,Fiordland (cancelled),19/03/20,13:00:00,20/03/20,10:00:00,184,124
+Silver Muse,Napier (cancelled),19/03/20,13:00:00,19/03/20,19:00:00,623,417
+Silver Muse,Picton (cancelled),20/03/20,12:30:00,20/03/20,18:00:00,623,417
+Artania,Tauranga (cancelled),20/03/20,07:00:00,20/03/20,18:00:00,1200,520
+Noordam,Tauranga (cancelled),20/03/20,07:30:00,20/03/20,16:45:00,1972,820
+Radiance Of The Seas,Wellington (cancelled),20/03/20,08:00:00,20/03/20,17:00:00,2064,858
+Bremen,Auckland (CREW ONLY),21/03/20,20:30:00,30/03/20,17:00:00,,
+Queen Elizabeth,Auckland (cancelled),21/03/20,,21/03/20,,2092,1097
+Le Laperouse,Dunedin (cancelled),21/03/20,08:30:00,21/03/20,16:30:00,184,124
+Le Laperouse,Auckland (CREW ONLY),21/03/20,,24/03/20,,,
+Silver Muse,Lyttelton (cancelled),21/03/20,07:30:00,21/03/20,17:00:00,623,417
+Noordam,Napier (cancelled),21/03/20,12:00:00,21/03/20,18:00:00,1972,820
+Silver Muse,Dunedin (cancelled),22/03/20,08:00:00,22/03/20,23:00:00,623,417
+Le Laperouse,Fiordland (cancelled),22/03/20,14:30:00,23/03/20,12:00:00,184,124
+Radiance Of The Seas,Tauranga (cancelled),22/03/20,08:00:00,22/03/20,17:00:00,2064,858
+Queen Elizabeth,Tauranga (cancelled),22/03/20,,22/03/20,,2092,1097
+Noordam,Wellington (cancelled),22/03/20,10:00:00,22/03/20,23:00:00,1972,820
+Radiance Of The Seas,Auckland (cancelled),23/03/20,08:00:00,23/03/20,18:00:00,2064,858
+Queen Elizabeth,Bay Of Islands (cancelled),23/03/20,,23/03/20,,2092,1097
+Silver Muse,Bluff (cancelled),23/03/20,08:00:00,23/03/20,18:00:00,623,417
+Noordam,Picton (cancelled),23/03/20,08:00:00,23/03/20,15:00:00,1972,820
+Noordam,Akaroa (cancelled),24/03/20,07:00:00,24/03/20,19:00:00,1972,820
+Radiance Of The Seas,Bay Of Islands (cancelled),24/03/20,08:00:00,24/03/20,17:00:00,2064,858
+Silver Muse,Fiordland (cancelled),24/03/20,08:00:00,24/03/20,17:00:00,623,417
+Noordam,Dunedin (cancelled),25/03/20,08:00:00,25/03/20,18:00:00,1972,820
+Le Laperouse,Picton (cancelled),25/03/20,08:00:00,25/03/20,18:00:00,184,124
+Azamara Journey,Auckland (CREW ONLY),26/03/20,20:30:00,31/03/20,17:00:00,,
+Noordam,Fiordland (cancelled),26/03/20,,26/03/20,,1972,820
+Le Laperouse,Wellington (cancelled),26/03/20,08:00:00,26/03/20,17:45:00,184,124
+Le Laperouse,Napier (cancelled),27/03/20,12:30:00,27/03/20,19:30:00,184,124
+Le Laperouse,Tauranga (cancelled),29/03/20,07:00:00,29/03/20,17:00:00,184,124
+Le Laperouse,Auckland (cancelled),30/03/20,06:45:00,30/03/20,18:00:00,184,124
+Ovation Of The Seas,Bay Of Islands (cancelled),30/03/20,07:00:00,30/03/20,16:00:00,4180,1500
+Radiance Of The Seas,Fiordland (cancelled),30/03/20,08:00:00,30/03/20,17:00:00,2064,858
+Celebrity Solstice,Bay Of Islands (cancelled),31/03/20,10:00:00,31/03/20,20:00:00,2850,1250
+Le Laperouse,Bay Of Islands (cancelled),31/03/20,07:00:00,31/03/20,13:00:00,184,124
+Radiance Of The Seas,Dunedin (cancelled),31/03/20,08:00:00,31/03/20,17:00:00,2064,858
+Radiance Of The Seas,Akaroa (cancelled),01/04/20,08:00:00,01/04/20,17:00:00,2064,858
+Celebrity Solstice,Auckland (cancelled),01/04/20,06:30:00,01/04/20,20:00:00,2850,1250
+Celebrity Solstice,Bay Of Islands (cancelled),02/04/20,08:00:00,02/04/20,17:00:00,2850,1250
+Radiance Of The Seas,Auckland (cancelled),03/04/20,08:00:00,03/04/20,18:00:00,2064,858
+Radiance Of The Seas,Bay Of Islands (cancelled),04/04/20,08:00:00,04/04/20,17:00:00,2064,858
+Noordam,Fiordland (cancelled),05/04/20,07:00:00,05/04/20,,1972,820
+Ovation Of The Seas,Fiordland (cancelled),05/04/20,08:00:00,05/04/20,17:00:00,4180,1500
+Queen Elizabeth,Wellington (cancelled),05/04/20,,05/04/20,,2092,1097
+Noordam,Dunedin (cancelled),06/04/20,08:00:00,06/04/20,18:00:00,1972,820
+Ovation Of The Seas,Dunedin (cancelled),06/04/20,08:00:00,06/04/20,17:30:00,4180,1500
+Noordam,Akaroa (cancelled),07/04/20,07:00:00,07/04/20,18:00:00,1972,820
+Ruby Princess,Fiordland (cancelled),07/04/20,08:00:00,07/04/20,17:00:00,3034,1174
+Queen Elizabeth,Tauranga (cancelled),07/04/20,,07/04/20,,2092,1097
+Ovation Of The Seas,Wellington (cancelled),07/04/20,13:00:00,07/04/20,20:00:00,4180,1500
+Le Laperouse,Auckland (CREW ONLY),08/04/20,05:00:00,08/04/20,19:00:00,,
+Queen Elizabeth,Auckland (cancelled),08/04/20,,08/04/20,,2092,1097
+Ruby Princess,Dunedin (cancelled),08/04/20,08:00:00,08/04/20,18:00:00,3034,1174
+Ovation Of The Seas,Picton (cancelled),08/04/20,08:00:00,08/04/20,17:00:00,4180,1500
+Noordam,Wellington (cancelled),08/04/20,08:00:00,08/04/20,16:00:00,1972,820
+Ruby Princess,Akaroa (cancelled),09/04/20,08:00:00,09/04/20,18:00:00,3034,1174
+Queen Elizabeth,Bay Of Islands (cancelled),09/04/20,,09/04/20,,2092,1097
+Noordam,Napier (cancelled),09/04/20,07:00:00,09/04/20,14:00:00,1972,820
+Noordam,Tauranga (cancelled),10/04/20,10:00:00,10/04/20,16:45:00,1972,820
+Ruby Princess,Wellington (cancelled),10/04/20,08:00:00,10/04/20,18:00:00,3034,1174
+Noordam,Auckland (cancelled),11/04/20,07:00:00,11/04/20,17:00:00,1972,820
+Pacific Aria,Bay Of Islands (cancelled),11/04/20,08:00:00,11/04/20,18:00:00,1260,597
+Golden Princess,Marlborough Sounds (cancelled),11/04/20,15:00:00,11/04/20,18:00:00,2636,1073
+Ruby Princess,Tauranga (cancelled),11/04/20,06:00:00,11/04/20,17:15:00,3034,1174
+Pacific Aria,Auckland (cancelled),12/04/20,07:00:00,12/04/20,16:00:00,1260,597
+Ruby Princess,Auckland (cancelled),12/04/20,06:30:00,12/04/20,18:00:00,3034,1174
+Noordam,Bay Of Islands (cancelled),12/04/20,07:00:00,12/04/20,14:00:00,1972,820
+Golden Princess,Wellington (cancelled),12/04/20,08:00:00,12/04/20,18:00:00,2636,1073
+Golden Princess,Napier (cancelled),13/04/20,07:00:00,13/04/20,15:00:00,2636,1073
+Celebrity Solstice,Auckland (cancelled),14/04/20,06:30:00,14/04/20,18:00:00,2850,1250
+Golden Princess,Tauranga (cancelled),14/04/20,07:00:00,14/04/20,18:00:00,2636,1073
+Golden Princess,Auckland (cancelled),15/04/20,07:00:00,15/04/20,18:00:00,2636,1073
+Celebrity Solstice,Tauranga (cancelled),15/04/20,08:00:00,15/04/20,18:00:00,2850,1250
+Celebrity Solstice,Wellington (cancelled),17/04/20,08:00:00,17/04/20,18:00:00,2850,1250
+Seabourn Sojourn,Fiordland (cancelled),17/04/20,08:00:00,17/04/20,10:00:00,450,338
+Celebrity Solstice,Akaroa (cancelled),18/04/20,08:00:00,18/04/20,19:00:00,2850,1250
+Seabourn Sojourn,Stewart Island (cancelled),18/04/20,08:00:00,18/04/20,17:00:00,450,338
+Celebrity Solstice,Dunedin (cancelled),19/04/20,07:00:00,19/04/20,17:00:00,2850,1250
+Seabourn Sojourn,Dunedin (cancelled),19/04/20,08:00:00,19/04/20,17:00:00,450,338
+Celebrity Solstice,Fiordland (cancelled),20/04/20,08:00:00,20/04/20,18:00:00,2850,1250
+Seabourn Sojourn,Akaroa (cancelled),20/04/20,07:00:00,20/04/20,19:00:00,450,338
+Radiance Of The Seas,Picton (cancelled),21/04/20,09:30:00,21/04/20,21:00:00,2064,858
+Seabourn Sojourn,Kaikoura (cancelled),21/04/20,08:00:00,21/04/20,17:00:00,450,338
+Pacific Aria,Auckland (cancelled),22/04/20,07:00:00,22/04/20,16:00:00,1260,597
+Radiance Of The Seas,Wellington (cancelled),22/04/20,08:00:00,22/04/20,17:00:00,2064,858
+Seabourn Sojourn,Nelson (cancelled),22/04/20,08:00:00,22/04/20,18:00:00,450,338
+Ovation Of The Seas,Picton (cancelled),23/04/20,09:30:00,23/04/20,21:00:00,4180,1500
+Seabourn Sojourn,New Plymouth (cancelled),23/04/20,07:00:00,23/04/20,17:00:00,450,338
+Ovation Of The Seas,Wellington (cancelled),24/04/20,08:00:00,24/04/20,17:00:00,4180,1500
+Seabourn Sojourn,Wellington (cancelled),24/04/20,08:00:00,24/04/20,23:00:00,450,338
+Seabourn Sojourn,Napier (cancelled),26/04/20,08:00:00,26/04/20,18:00:00,450,338
+Seabourn Sojourn,Gisborne (cancelled),27/04/20,07:00:00,27/04/20,15:00:00,450,338
+Celebrity Solstice,Bay Of Islands (cancelled),28/04/20,10:00:00,28/04/20,18:00:00,2850,1250
+Seabourn Sojourn,Tauranga (cancelled),28/04/20,08:00:00,28/04/20,18:00:00,450,338
+Celebrity Solstice,Auckland (cancelled),29/04/20,07:00:00,29/04/20,16:00:00,2850,1250
+Seabourn Sojourn,Auckland (cancelled),29/04/20,07:00:00,29/04/20,18:00:00,450,338
+Pacific Aria,Auckland (cancelled),30/04/20,09:00:00,30/04/20,18:00:00,1260,597
+Seabourn Sojourn,Bay Of Islands (cancelled),30/04/20,08:00:00,30/04/20,18:00:00,450,338
+Pacific Aria,Napier (cancelled),02/05/20,08:00:00,02/05/20,18:00:00,1260,597
+Pacific Aria,Auckland (cancelled),04/05/20,07:00:00,04/05/20,16:00:00,1260,597
+Sea Princess,Auckland (cancelled),08/05/20,10:00:00,08/05/20,20:00:00,2016,839
+Sea Princess,Bay Of Islands (cancelled),09/05/20,07:00:00,09/05/20,16:00:00,2016,839
+Pacific Aria,Auckland (cancelled),12/05/20,07:00:00,12/05/20,16:00:00,1260,597
+Pacific Aria,Auckland (cancelled),22/05/20,09:00:00,22/05/20,18:00:00,1260,597
+Pacific Aria,Auckland (cancelled),25/05/20,07:00:00,25/05/20,16:00:00,1260,597
+Insignia,Wellington (cancelled),01/06/20,08:00:00,01/06/20,17:00:00,650,375
+Pacific Aria,Auckland (cancelled),02/06/20,07:00:00,02/06/20,16:00:00,1260,597
+Insignia,Auckland (cancelled),03/06/20,07:00:00,03/06/20,19:00:00,650,375
+Insignia,Whangarei (cancelled),04/06/20,08:00:00,04/06/20,19:00:00,650,375
+Pacific Aria,Auckland (cancelled),12/06/20,07:00:00,12/06/20,18:00:00,1260,597
+Pacific Aria,Auckland (cancelled),15/06/20,07:00:00,15/06/20,16:00:00,1260,597
+Pacific Aria,Auckland (cancelled),23/06/20,07:00:00,23/06/20,16:00:00,1260,597
+Sun Princess,Auckland (cancelled),27/06/20,07:00:00,27/06/20,19:00:00,2010,847
+Sun Princess,Bay Of Islands (cancelled),28/06/20,07:00:00,28/06/20,16:00:00,2010,847
+Pacific Aria,Auckland,04/07/20,08:00:00,04/07/20,16:00:00,1260,597
+Pacific Aria,Auckland,12/07/20,07:00:00,12/04/20,16:00:00,1260,597
+Pacific Aria,Auckland,22/07/20,07:00:00,22/07/20,16:00:00,1260,597
+Pacific Aria,Auckland,05/08/20,07:00:00,05/08/20,16:00:00,1260,597
+Pacific Aria,Auckland,15/08/20,07:00:00,15/08/20,16:00:00,1260,597
+Pacific Aria,Auckland,23/08/20,07:00:00,23/08/20,16:00:00,1260,597
+Sea Princess,Auckland,23/08/20,12:00:00,23/08/20,22:00:00,2016,839
+Pacific Aria,Auckland,04/09/20,07:00:00,04/09/20,18:00:00,1260,597
+Sun Princess,Bay Of Islands,04/09/20,09:00:00,04/09/20,18:00:00,2010,847
+Pacific Aria,Auckland,07/09/20,07:00:00,07/09/20,16:00:00,1260,597
+Sun Princess,Auckland,09/09/20,07:00:00,09/09/20,21:00:00,2010,847
+Pacific Aria,Auckland,17/09/20,07:00:00,17/09/20,16:00:00,1260,597
+Pacific Aria,Auckland,25/09/20,07:00:00,25/09/20,16:00:00,1260,597
+Pacific Aria,Auckland,04/10/20,07:00:00,04/10/20,16:00:00,1260,597
+Pacific Aria,Auckland,12/10/20,07:00:00,12/10/20,16:00:00,1260,597
