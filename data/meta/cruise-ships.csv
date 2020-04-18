@@ -1,0 +1,11 @@
+ship,owner,operator,portOfRegistry,countryOfRegistry,callSign,imo,mmsi,infectionsOnboard,nzDocked,nzCitizensOnboard,finalDisembarkmentDate,finalDisembarkmentPort
+Ruby Princess,Carnival Corporation & plc,Princess Cruises,Hamilton,Bermuda,ZCDY2,9378462,310567000,YES,YES,6,18/03/20,Napier
+Celebrity Solstice,Royal Caribbean Cruises Ltd.,Celebrity Cruises,Valletta,Malta,9HRJ9,9362530,249409000,YES,YES,1,15/03/20,Dunedin
+Silver Muse,Silversea Cruises,Silversea Cruises,,Bahamas,C6DC5,9784350,311000637,,YES,,17/03/20,Auckland
+MS Bremen,Hapag-Lloyd Cruises,Hapag-Lloyd Cruises,Nassau,Bahamas,C6JC3,8907424,308429000,,YES,,17/03/20,Auckland
+Azamara Journey,Azamara Journey inc.,Azamara Cruises,Valletta,Malta,9HOB8,9200940,256204000,,YES,,18/03/20,Auckland
+Le Lapérouse,Ponant,Ponant,Wallis and Futuna,,FLBD,9814026,578000900,,,,,Wellington
+MS Noordam,,Holland America Line,Netherlands,Netherlands,PHET,9230115,246028000,,YES,,,Auckland
+MV Ocean Atlantic,,,,Bahamas,C6CB2,8325432,311000422,,NO,20 (approx),,
+MS Zaandam,Carnival Corporation & plc,Holland America Line,,,PDAN,9156527,246442000,,NO,15,,Florida
+Greg Mortimer,SunStone Ships,Aurora Expeditions,,Bahamas,C6ED7,9834648,311000866,128 of 217,NO,16,10/03/20,Montevideo (proximity)
