@@ -1,0 +1,37 @@
+ship,owner,operator,portOfRegistry,countryOfRegistry,callSign,imo,mmsi,infectionsOnboard,nzCitizensOnboard,nzCitizensTotal,nzDocked,lastDateInNZ,lastNZPortVisited,finalDisembarkmentPorts
+Azamara Journey,Azamara Journey inc.,Azamara Cruises,Valletta,Malta,9HOB8,9200940,256204000,NO,LIKELY,,YES,18/03/2020,Auckland,
+Carnival Spirit,Carnival Corporation & plc,Carnival Cruise Line,Valletta,Malta,9HA3097,9188647,229136000,NO,LIKELY,,YES,11/03/20,Fiordland,
+Celebrity Solstice,Royal Caribbean Cruises Ltd.,Celebrity Cruises,Valletta,Malta,9HRJ9,9362530,249409000,YES,YES,1,YES,15/03/2020,Dunedin,Sydney
+Coral Princess,Carnival plc,Princess Cruises,Hamilton,Bermuda,ZCDF4,9229659,310376000,YES,YES,17,NO,N/A,N/A,Miami
+Costa Deliziosa,Carnival Corporation & plc,Costa Crociere,Genoa,Italy,IBJD,9398917,247282900,NO,LIKELY,,YES,27/02/20,Auckland,
+Costa Pacifica,Carnival Corporation & plc,Costa Crociere,Genoa,Italy,ICJA,9378498,247258100,YES,YES,2,NO,N/A,N/A,Genoa
+Crystal Serenity,Crystal Cruises,Crystal Cruises,Nassau,Bahamas,C6SY3,9243667,311536000,NO,LIKELY,,YES,27/02/20,Fiordland,
+Diamond Princess,Carnival Corporation & plc,Princess Cruises,London,UK,2HFZ7,9228198,235103359,YES,YES,13,NO,N/A,N/A,Yokohama
+Golden Princess,Carnival plc,Princess Cruises,London,UK,ZCDA9,9192351,310344000,SUSPECTED,LIKELY,,YES,14/03/2020 (15/03/2020),Dunedin / Akaroa (no docking),Melbourne
+Greg Mortimer,SunStone Ships,Aurora Expeditions,,Bahamas,C6ED7,9834648,311000866,YES,YES,16,NO,N/A,N/A,Montevideo (no docking)
+Le Lapérouse,Ponant,Ponant,Wallis and Futuna,France,FLBD,9814026,578000900,NO,LIKELY,,YES,16/03/20,Wellington,
+MS Amsterdam,Carnival Corporation & plc,Holland America Line,Rotterdam,Netherlands,PBAD,9188037,244370000,NO,LIKELY,,YES,04/03/20,Bay Of Islands,
+MS Astor,Global Maritime Group,Cruise & Maritime Voyages,Nassau,Bahamas,C6JR3,8506373,308214000,NO,LIKELY,,YES,19/02/20,Lyttelton,
+MS Bremen,Hapag-Lloyd Cruises,Hapag-Lloyd Cruises,Nassau,Bahamas,C6JC3,8907424,308429000,NO,LIKELY,,YES,17/03/2020,Auckland,
+MS Europa,Hapag-Lloyd,Hapag-Lloyd Cruises,Nassau,Bahamas,C6QK8,9183855,308007000,NO,LIKELY,,YES,24/02/20,Bay Of Islands,
+MS Maasdam,Carnival Corporation & plc,Holland America Line,Rotterdam,Netherlands,PFRO,8919257,244958000,NO,LIKELY,,YES,02/03/20,Bay Of Islands,
+MS Noordam,Carnival Corporation & plc,Holland America Line,Netherlands,Netherlands,PHET,9230115,246028000,NO,LIKELY,,YES,13/03/20,Tauranga,
+MS Regatta,Oceania Cruises,Oceania Cruises,Majuro,Marshall Islands,V7DM3,9156474,538001664,NO,LIKELY,,YES,18/02/20,Bay Of Islands,
+MS Rotterdam,Carnival Corporation & plc,Holland America Line,Rotterdam,Netherlands,PDGS,9122552,246167000,YES,YES,15 (from MS Zaandam),NO,N/A,N/A,Fort Lauderdale
+MS Zaandam,Carnival Corporation & plc,Holland America Line,Rotterdam,Netherlands,PDAN,9156527,246442000,YES,YES,15,NO,N/A,N/A,Fort Lauderdale
+MSC Magnifica,Mediterranean Shipping Company S.A.,MSC Cruises,Panama City,Panama,3FLO4,9387085,352594000,SUSPECTED,LIKELY,,YES,11/03/2020,Fiordland,Marseille
+MV Arcadia,Carnival plc,P&O Cruises,Hamilton,Bermuda,ZCDN2,9226906,310459000,NO,LIKELY,,YES,16/02/20,Bay Of Islands,
+MV Columbus,Cruise & Maritime Voyages,Cruise & Maritime Voyages,Nassau,Bahamas,C6CP4,8611398,311000535,NO,LIKELY,,YES,21/02/20,Wellington,
+MV Ocean Atlantic,Albatros Expeditions,Albatros Expeditions,,Bahamas,C6CB2,8325432,311000422,NO,YES,20 (approx),NO,N/A,N/A,Montevideo (no docking)
+MV Seabourn Encore,Seabourn Cruise Line,Seabourn Cruise Line,,Bahamas,C6CG4,9731171,311000464,NO,LIKELY,,YES,29/02/20,Fiordland,
+Norwegian Jewel,Norwegian Cruise Line,Norwegian Cruise Line,Nassau,Bahamas,C6TX6,9304045,311827000,NO,LIKELY,,YES,25/02/20,Wellington,
+Norwegian Spirit,Norwegian Cruise Line,Norwegian Cruise Line,Nassau,Bahamas,C6TQ6,9141065,311746000,NO,YES,10,NO,N/A,N/A,Cape Town (no docking)
+Ovation Of The Seas,Royal Caribbean Cruises Ltd.,Royal Caribbean International,Nassau,Bahamas,C6BX9,9697753,311000397,YES,LIKELY,,YES,09/03/2020,Bay Of Islands,Sydney
+Radiance Of The Seas,Royal Caribbean International,Royal Caribbean International,Nassau,Bahamas,C6SE7,9195195,311319000,NO,LIKELY,,YES,11/03/20,Wellington,
+Ruby Princess,Carnival Corporation & plc,Princess Cruises,Hamilton,Bermuda,ZCDY2,9378462,310567000,YES,YES,6,YES,18/03/2020,Napier,Sydney
+Sea Princess,Carnival Corporation & plc,Princess Cruises,Hamilton,Bermuda,ZCBU3,9150913,310465000,NO,LIKELY,,YES,04/03/20,Auckland,
+Seven Seas Mariner,Mariner LLC,Regent Seven Seas Cruises,Nassau,Bahamas,C6VV8,9210139,311622000,NO,LIKELY,,YES,26/02/20,Wellington,
+Seven Seas Navigator,Regent Seven Seas Cruises,Regent Seven Seas Cruises,Nassau,Bahamas,C6ZI9,9064126,311050600,NO,LIKELY,,YES,14/03/20,Bay of Islands,
+Silver Muse,Silversea Cruises,Silversea Cruises,,Bahamas,C6DC5,9784350,311000637,NO,LIKELY,,YES,17/03/2020,Auckland,
+Vasco da Gama,Cruise & Maritime Voyages,Cruise & Maritime Voyages,Nassau,Bahamas,C6EG8,8919245,311000891,NO,YES,100 (or more),NO,N/A,N/A,Fremantle
+Viking Orion,Viking Ocean Cruises,Viking Ocean Cruises,,Norway,LAYQ7,9796250,257034130,NO,LIKELY,,YES,12/03/2020,Dunedin,
