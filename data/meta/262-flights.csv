@@ -103,7 +103,7 @@ caseId,flight,departureDate,arrivalDate,origin,destination,tailNumber
 94,EK448,,19/03/2020,Dubai,Auckland,A6-EOC
 102,UNK,,18/03/2020,Unknown-USA,Auckland,
 103,UNK,,18/03/2020,Unknown-USA,Auckland,
-105,EY52,16/03/2020,,Geneva,Abu Dhabi,
+105,EY52,16/03/2020,,Geneva,Abu Dhabi,A6-BLW
 105,UNK,,18/03/2020,Abu Dhabi,Auckland,
 108,EK448,,18/03/2020,Dubai,Auckland,A6-EOH
 108,EK7563/JQ293,,18/03/2020,Auckland,Queenstown,VH-VQE
@@ -153,7 +153,7 @@ caseId,flight,departureDate,arrivalDate,origin,destination,tailNumber
 152,NZ677,,23/03/2020,Auckland,Dunedin,ZK-OXK
 158,EK90,,21/03/2020,Geneva,Dubai,A6-EQO
 158,EK450,,22/03/2020,Dubai,Auckland,A6-ECV
-158,NZ671,,23/03/2020,Auckland,Dunedin,
+158,NZ671,,23/03/2020,Auckland,Dunedin,ZK-NNG
 173,EY26,,15/03/2020,London,Abu Dhabi,A6-APD
 173,EY450,,15/03/2020,Abu Dhabi,Sydney,A6-ETM
 173,NZ102,,17/03/2020,Sydney,Auckland,ZK-OKG
@@ -174,10 +174,10 @@ caseId,flight,departureDate,arrivalDate,origin,destination,tailNumber
 194,EK38,,19/03/2020,Birmingham,Dubai,A6-EOY
 194,EK448,,21/03/2020,Dubai,Auckland,A6-EEV
 205,EY8,,19/03/2020,Frankfurt,Abu Dhabi,A6-ETA
-205,EY462,,20/03/2020,Abu Dhabi,Melbourne,
+205,EY462,,20/03/2020,Abu Dhabi,Melbourne,A6-BLM
 205,EY6328,,21/03/2020,Melbourne,Auckland,
 205,NZ625,,21/03/2020,Auckland,Queenstown,ZK-OXI
-206,SQ51,,18/03/2020,Manchester,Singapore,
+206,SQ51,,18/03/2020,Manchester,Singapore,9V-SMU
 206,SQ297,,20/03/2020,Singapore,Christchurch,9V-SMH
 207,EK10,,19/03/2020,London,Dubai,A6-EUD
 207,EK412,,20/03/2020,Dubai,Sydney,A6-EVE
@@ -186,7 +186,7 @@ caseId,flight,departureDate,arrivalDate,origin,destination,tailNumber
 208,NZ677,,19/03/2020,Auckland,Dunedin,ZK-OXG
 210,EK448,,19/03/2020,Dubai,Auckland,A6-EOC
 210,UNK,,20/03/2020,Auckland,Christchurch,
-212,QR906,,12/03/2020,Doha,Sydney,
+212,QR906,,12/03/2020,Doha,Sydney,A7-ANH
 212,VA171,,13/03/2020,Sydney,Wellington,VH-YIV
 214,JQ287,,17/03/2020,Wellington,Christchurch,VH-VFN
 216,EK448,,,Dubai,Auckland,
