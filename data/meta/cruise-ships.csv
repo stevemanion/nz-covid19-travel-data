@@ -18,7 +18,6 @@ MS Maasdam,Carnival Corporation & plc,Holland America Line,Rotterdam,Netherlands
 MS Noordam,Carnival Corporation & plc,Holland America Line,Netherlands,Netherlands,PHET,9230115,246028000,NO,LIKELY,,YES,13/03/20,Tauranga,
 MS Regatta,Oceania Cruises,Oceania Cruises,Majuro,Marshall Islands,V7DM3,9156474,538001664,NO,LIKELY,,YES,18/02/20,Bay Of Islands,
 MS Rotterdam,Carnival Corporation & plc,Holland America Line,Rotterdam,Netherlands,PDGS,9122552,246167000,YES,YES,15 (from MS Zaandam),NO,N/A,N/A,Fort Lauderdale
-MS Sea Princess,Carnival Corporation & plc,Princess Cruises,Hamilton,Bermuda,ZCBU3,9150913,310465000,NO,LIKELY,,YES,04/03/20,Auckland,
 MS Zaandam,Carnival Corporation & plc,Holland America Line,Rotterdam,Netherlands,PDAN,9156527,246442000,YES,YES,15,NO,N/A,N/A,Fort Lauderdale
 MSC Magnifica,Mediterranean Shipping Company S.A.,MSC Cruises,Panama City,Panama,3FLO4,9387085,352594000,SUSPECTED,LIKELY,,YES,11/03/2020,Fiordland,Marseille
 MV Arcadia,Carnival plc,P&O Cruises,Hamilton,Bermuda,ZCDN2,9226906,310459000,NO,LIKELY,,YES,16/02/20,Bay Of Islands,
@@ -30,6 +29,7 @@ Norwegian Spirit,Norwegian Cruise Line,Norwegian Cruise Line,Nassau,Bahamas,C6TQ
 Ovation Of The Seas,Royal Caribbean Cruises Ltd.,Royal Caribbean International,Nassau,Bahamas,C6BX9,9697753,311000397,YES,LIKELY,,YES,09/03/2020,Bay Of Islands,Sydney
 Radiance Of The Seas,Royal Caribbean International,Royal Caribbean International,Nassau,Bahamas,C6SE7,9195195,311319000,NO,LIKELY,,YES,11/03/20,Wellington,
 Ruby Princess,Carnival Corporation & plc,Princess Cruises,Hamilton,Bermuda,ZCDY2,9378462,310567000,YES,YES,6,YES,18/03/2020,Napier,Sydney
+Sea Princess,Carnival Corporation & plc,Princess Cruises,Hamilton,Bermuda,ZCBU3,9150913,310465000,NO,LIKELY,,YES,04/03/20,Auckland,
 Seven Seas Mariner,Mariner LLC,Regent Seven Seas Cruises,Nassau,Bahamas,C6VV8,9210139,311622000,NO,LIKELY,,YES,26/02/20,Wellington,
 Seven Seas Navigator,Regent Seven Seas Cruises,Regent Seven Seas Cruises,Nassau,Bahamas,C6ZI9,9064126,311050600,NO,LIKELY,,YES,14/03/20,Bay of Islands,
 Silver Muse,Silversea Cruises,Silversea Cruises,,Bahamas,C6DC5,9784350,311000637,NO,LIKELY,,YES,17/03/2020,Auckland,
