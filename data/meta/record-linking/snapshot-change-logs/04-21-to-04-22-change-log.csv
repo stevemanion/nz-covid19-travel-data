@@ -1,0 +1,47 @@
+nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+INSERT,Violet,Confirmed,14/04/2020,Female,60 to 69,Counties Manukau,Yes,Australia,null,null,null
+INSERT,Sinead,Probable,21/04/2020,Female,60 to 69,Canterbury,No,null,null,null,null
+INSERT,Nicolas,Confirmed,14/04/2020,Male,60 to 69,Counties Manukau,Yes,Australia,null,null,12/04/2020
+INSERT,Carrol,Confirmed,16/04/2020,Female,60 to 69,Counties Manukau,Yes,Uruguay,null,11/04/2020,12/04/2020
+INSERT,Bertram,Confirmed,22/04/2020,Male,40 to 49,Hawke's Bay,null,null,null,null,null
+INSERT,Barrie,Probable,21/04/2020,Male,70+,Canterbury,No,null,null,null,null
+INSERT,Marjory,Probable,21/04/2020,Female,50 to 59,Auckland,null,null,null,null,null
+DELETE,Marlene,Probable,19/04/2020,Female,40 to 49,Canterbury,No,null,null,null,null
+FORMER,Nellie,Probable,17/04/2020,Female,40 to 49,Bay of Plenty,No,null,null,null,null
+UPDATE,Nellie,Confirmed,17/04/2020,Female,40 to 49,Bay of Plenty,No,null,null,null,null
+FORMER,Rafael,Confirmed,26/03/2020,Male,50 to 59,Tairawhiti,Yes,United States of America,NZ8161,18/03/2020,20/03/2020
+UPDATE,Rafael,Confirmed,26/03/2020,Male,50 to 59,Tairawhiti,Yes,United States of America,NZ8161,20/03/2020,20/03/2020
+FORMER,Oskar,Probable,02/04/2020,Male,1 to 4,Hawke's Bay,null,null,NZ5015,22/03/2020,null
+UPDATE,Oskar,Probable,02/04/2020,Male,1 to 4,Hawke's Bay,No,null,NZ5015,22/03/2020,null
+FORMER,Alecia,Probable,26/03/2020,Female,60 to 69,Nelson Marlborough,Yes,United Arab Emirates,EK448,18/03/2020,19/03/2020
+UPDATE,Alecia,Probable,03/04/2020,Female,60 to 69,Nelson Marlborough,Yes,United Arab Emirates,EK448,18/03/2020,19/03/2020
+FORMER,Valarie,Confirmed,28/03/2020,Female,20 to 29,Waitemata,Yes,United Arab Emirates,null,null,24/03/2020
+UPDATE,Valarie,Confirmed,28/03/2020,Female,20 to 29,Waitemata,Yes,United Arab Emirates,EK448,23/03/2020,24/03/2020
+FORMER,Angelene,Confirmed,10/04/2020,Female,20 to 29,Auckland,Yes,United Kingdom,null,null,21/03/2020
+UPDATE,Angelene,Confirmed,10/04/2020,Female,20 to 29,Auckland,Yes,United Arab Emirates,EK488,null,21/03/2020
+FORMER,Sawyer,Probable,30/03/2020,Male,20 to 29,Waitemata,Yes,Chile,null,null,20/03/2020
+UPDATE,Sawyer,Probable,30/03/2020,Male,20 to 29,Waitemata,Yes,Chile,LA801,19/03/2020,20/03/2020
+FORMER,Kymani,Confirmed,27/03/2020,Male,40 to 49,Auckland,Yes,United States of America,null,null,20/03/2020
+UPDATE,Kymani,Confirmed,27/03/2020,Male,40 to 49,Auckland,Yes,United States of America,AA83,18/03/2020,20/03/2020
+FORMER,Cortez,Confirmed,13/04/2020,Male,50 to 59,Tairawhiti,No,null,null,null,null
+UPDATE,Cortez,Confirmed,14/04/2020,Male,50 to 59,Tairawhiti,No,null,null,null,null
+FORMER,Reihana,Confirmed,29/03/2020,Male,20 to 29,Counties Manukau,Yes,United Arab Emirates,EK448,19/03/2020,19/03/2020
+UPDATE,Reihana,Confirmed,29/03/2020,Male,20 to 29,Counties Manukau,Yes,United Arab Emirates,EK448,18/03/2020,19/03/2020
+FORMER,Taniela,Confirmed,30/03/2020,Male,20 to 29,Counties Manukau,Yes,United States of America,null,null,23/03/2020
+UPDATE,Taniela,Confirmed,30/03/2020,Male,20 to 29,Counties Manukau,Yes,United States of America,NZ6067,22/03/2020,23/03/2020
+FORMER,Joffre,Probable,30/03/2020,Male,20 to 29,Waitemata,null,null,null,null,null
+UPDATE,Joffre,Probable,30/03/2020,Male,20 to 29,Waitemata,No,null,null,null,null
+FORMER,Karin,Confirmed,10/04/2020,Female,70+,Waitemata,null,null,null,null,null
+UPDATE,Karin,Confirmed,10/04/2020,Female,70+,Waitemata,No,null,null,null,null
+FORMER,Ewan,Confirmed,23/03/2020,Male,50 to 59,Nelson Marlborough,Yes,Australia,null,null,19/03/2020
+UPDATE,Ewan,Confirmed,23/03/2020,Male,50 to 59,Nelson Marlborough,Yes,Australia,PILOT?,null,19/03/2020
+FORMER,Isla-Rose,Confirmed,29/03/2020,Female,20 to 29,Canterbury,No,null,null,null,null
+UPDATE,Isla-Rose,Confirmed,29/03/2020,Female,20 to 29,Canterbury,Yes,France,EK00412,15/03/2020,16/03/2020
+FORMER,Kendyl,Confirmed,04/04/2020,Female,40 to 49,Canterbury,No,null,null,null,null
+UPDATE,Kendyl,Confirmed,02/04/2020,Female,40 to 49,Canterbury,No,null,null,null,null
+FORMER,Guy,Probable,11/04/2020,Male,<1,Waikato,No,null,null,null,null
+UPDATE,Guy,Confirmed,11/04/2020,Male,<1,Waikato,No,null,null,null,null
+FORMER,Milton,Confirmed,28/03/2020,Male,20 to 29,Waitemata,null,null,null,null,null
+UPDATE,Milton,Confirmed,28/03/2020,Male,20 to 29,Waitemata,No,null,null,null,null
+FORMER,Tyson,Probable,10/04/2020,Male,20 to 29,Southern,null,null,null,null,null
+UPDATE,Tyson,Probable,10/04/2020,Male,20 to 29,Southern,No,null,null,null,null
