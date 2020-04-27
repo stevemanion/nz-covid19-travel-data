@@ -1,4 +1,4 @@
-Name ID,Status,Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flight number,Flight departure date,Arrival date
+nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
 Shayna,Probable,23/04/2020,Female,20 to 29,Waikato,,,,,
 Olivia,Probable,23/04/2020,Female,40 to 49,Waikato,,,,,
 Fredrick,Probable,23/04/2020,Male,20 to 29,Waikato,No,,,,

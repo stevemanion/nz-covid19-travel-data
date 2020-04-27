@@ -1,3 +1,4 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
 INSERT,Fredrick,Probable,23/04/2020,Male,20 to 29,Waikato,No,null,null,null,null
 INSERT,Arjun,Probable,23/04/2020,Male,20 to 29,Waitemata,No,null,null,null,null
 INSERT,Curtis,Confirmed,23/04/2020,Male,20 to 29,Waitemata,Yes,United Kingdom,null,null,31/03/2020

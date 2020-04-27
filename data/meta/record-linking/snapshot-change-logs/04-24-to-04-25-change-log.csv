@@ -1,3 +1,4 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
 INSERT,Hannah,Probable,22/04/2020,Female,50 to 59,Waikato,Yes,Australia,NZ722,null,14/03/2020
 INSERT,Sina,Probable,24/04/2020,Female,40 to 49,Waikato,null,null,null,null,null
 INSERT,Keegan,Probable,24/04/2020,Male,60 to 69,Canterbury,No,null,null,null,null

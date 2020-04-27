@@ -1,4 +1,4 @@
-Name ID,Status,Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flight number,Flight departure date,Arrival date
+nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
 Marama,Confirmed,24/04/2020,Female,60 to 69,Waitemata,No,,,,
 Roma,Confirmed,23/04/2020,Female,40 to 49,Canterbury,No,,,,
 Curtis,Confirmed,23/04/2020,Male,20 to 29,Waitemata,Yes,Qatar,QR920,31/03/2020,31/03/2020
