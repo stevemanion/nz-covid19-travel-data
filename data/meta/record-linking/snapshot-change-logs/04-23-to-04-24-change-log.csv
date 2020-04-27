@@ -1,0 +1,71 @@
+INSERT,Fredrick,Probable,23/04/2020,Male,20 to 29,Waikato,No,null,null,null,null
+INSERT,Arjun,Probable,23/04/2020,Male,20 to 29,Waitemata,No,null,null,null,null
+INSERT,Curtis,Confirmed,23/04/2020,Male,20 to 29,Waitemata,Yes,United Kingdom,null,null,31/03/2020
+INSERT,Olivia,Probable,23/04/2020,Female,40 to 49,Waikato,null,null,null,null,null
+INSERT,Shayna,Probable,23/04/2020,Female,20 to 29,Waikato,null,null,null,null,null
+FORMER,Jasmin,Confirmed,25/03/2020,Female,15 to 19,Auckland,null,null,null,null,null
+UPDATE,Jasmin,Confirmed,25/03/2020,Female,15 to 19,Auckland,No,null,null,null,null
+FORMER,Nickolas,Probable,31/03/2020,Male,20 to 29,Waitemata,Yes,United States of America,null,null,18/03/2020
+UPDATE,Nickolas,Probable,31/03/2020,Male,20 to 29,Waitemata,Yes,Australia,QF143,18/03/2020,18/03/2020
+FORMER,Clark,Probable,30/03/2020,Male,20 to 29,Waitemata,Yes,Australia,QF141,18/03/2020,18/03/2020
+UPDATE,Clark,Probable,30/03/2020,Male,20 to 29,Waitemata,Yes,Australia,QF143,18/03/2020,18/03/2020
+FORMER,Nichola,Probable,24/03/2020,Female,50 to 59,Nelson Marlborough,No,null,null,null,null
+UPDATE,Nichola,Confirmed,24/03/2020,Female,50 to 59,Nelson Marlborough,No,null,null,null,null
+FORMER,Aliyah,Confirmed,02/04/2020,Female,50 to 59,Counties Manukau,No,null,null,null,null
+UPDATE,Aliyah,Confirmed,02/04/2020,Female,50 to 59,Counties Manukau,No,null,NZ698,23/03/2020,null
+FORMER,Isla-Rose,Confirmed,29/03/2020,Female,20 to 29,Canterbury,Yes,France,EK412,15/03/2020,16/03/2020
+UPDATE,Isla-Rose,Confirmed,29/03/2020,Female,20 to 29,Canterbury,Yes,France,EK00412,15/03/2020,16/03/2020
+FORMER,Demi,Probable,02/04/2020,Female,70+,Hawke's Bay,null,null,null,null,null
+UPDATE,Demi,Probable,02/04/2020,Female,70+,Hawke's Bay,No,null,null,null,null
+FORMER,Wilhelmina,Confirmed,27/03/2020,Female,30 to 39,Counties Manukau,null,null,null,null,null
+UPDATE,Wilhelmina,Confirmed,27/03/2020,Female,30 to 39,Counties Manukau,No,null,null,null,null
+FORMER,Naia,Confirmed,01/04/2020,Female,60 to 69,Auckland,No,null,null,null,null
+UPDATE,Naia,Confirmed,01/04/2020,Female,60 to 69,Counties Manukau,No,null,null,null,null
+FORMER,Ajay,Confirmed,30/03/2020,Male,20 to 29,Waitemata,null,null,null,null,null
+UPDATE,Ajay,Confirmed,30/03/2020,Male,20 to 29,Waitemata,No,null,null,null,null
+FORMER,Caine,Confirmed,29/03/2020,Male,20 to 29,Waitemata,Yes,null,null,null,21/03/2020
+UPDATE,Caine,Confirmed,29/03/2020,Male,20 to 29,Waitemata,Yes,United Arab Emirates,null,null,21/03/2020
+FORMER,Meegan,Probable,04/04/2020,Female,20 to 29,Waitemata,Yes,Australia,null,null,18/03/2020
+UPDATE,Meegan,Probable,04/04/2020,Female,20 to 29,Waitemata,Yes,Australia,QF141,18/03/2020,18/03/2020
+FORMER,Emmeline,Confirmed,30/03/2020,Female,20 to 29,Waitemata,null,null,null,null,null
+UPDATE,Emmeline,Confirmed,30/03/2020,Female,20 to 29,Waitemata,No,null,null,null,null
+FORMER,Beatrice,Confirmed,31/03/2020,Female,20 to 29,Auckland,null,null,null,null,null
+UPDATE,Beatrice,Confirmed,31/03/2020,Female,20 to 29,Auckland,No,null,null,null,null
+FORMER,Tracee,Confirmed,29/03/2020,Female,40 to 49,Auckland,null,null,null,null,null
+UPDATE,Tracee,Confirmed,29/03/2020,Female,40 to 49,Auckland,No,null,null,null,null
+FORMER,Jennifer,Probable,28/03/2020,Female,<1,Counties Manukau,null,null,null,null,null
+UPDATE,Jennifer,Probable,28/03/2020,Female,<1,Counties Manukau,No,null,null,null,null
+FORMER,Nyla,Confirmed,29/03/2020,Female,15 to 19,Waitemata,null,null,null,null,null
+UPDATE,Nyla,Confirmed,29/03/2020,Female,15 to 19,Waitemata,No,null,null,null,null
+FORMER,Wesley,Confirmed,23/03/2020,Male,60 to 69,South Canterbury,Yes,England,null,null,null
+UPDATE,Wesley,Confirmed,23/03/2020,Male,60 to 69,South Canterbury,Yes,England,EK412,21/03/2020,21/03/2020
+FORMER,Eric,Confirmed,13/04/2020,Male,10 to 14,Northland,null,null,null,null,null
+UPDATE,Eric,Confirmed,13/04/2020,Male,10 to 14,Northland,No,null,null,null,null
+FORMER,Breana,Probable,26/03/2020,Female,5 to 9,Waitemata,null,null,null,null,null
+UPDATE,Breana,Probable,26/03/2020,Female,5 to 9,Waitemata,No,null,null,null,null
+FORMER,Alana,Confirmed,30/03/2020,Female,40 to 49,Waitemata,null,null,null,null,null
+UPDATE,Alana,Confirmed,30/03/2020,Female,40 to 49,Waitemata,No,null,null,null,null
+FORMER,Genna,Confirmed,23/03/2020,Female,30 to 39,Waitemata,null,null,null,null,null
+UPDATE,Genna,Confirmed,23/03/2020,Female,30 to 39,Waitemata,No,null,null,null,null
+FORMER,Liana,Confirmed,21/04/2020,Female,70+,Waikato,null,null,null,null,null
+UPDATE,Liana,Confirmed,21/04/2020,Female,70+,Waikato,No,null,null,null,null
+FORMER,Gideon,Probable,09/04/2020,Male,40 to 49,Canterbury,null,null,null,null,null
+UPDATE,Gideon,Probable,09/04/2020,Male,40 to 49,Canterbury,No,null,null,null,null
+FORMER,Hugo,Confirmed,01/04/2020,Male,60 to 69,Auckland,No,null,null,null,null
+UPDATE,Hugo,Confirmed,01/04/2020,Male,60 to 69,Counties Manukau,No,null,null,null,null
+FORMER,Cruze,Confirmed,04/04/2020,Male,20 to 29,Counties Manukau,Yes,Qatar,EK448,21/03/2020,21/03/2020
+UPDATE,Cruze,Confirmed,04/04/2020,Male,20 to 29,Counties Manukau,Yes,United Arab Emirates,EK448,21/03/2020,21/03/2020
+FORMER,Athena,Confirmed,30/03/2020,Female,20 to 29,Counties Manukau,null,null,null,null,null
+UPDATE,Athena,Confirmed,30/03/2020,Female,20 to 29,Counties Manukau,No,null,null,null,null
+FORMER,Joanna,Confirmed,24/03/2020,Female,15 to 19,Waitemata,Yes,United States of America,NZ29,null,18/03/2020
+UPDATE,Joanna,Confirmed,24/03/2020,Female,15 to 19,Waitemata,Yes,United States of America,NZ29,16/03/2020,18/03/2020
+FORMER,Deirdre,Confirmed,28/03/2020,Female,30 to 39,Auckland,null,null,null,null,null
+UPDATE,Deirdre,Confirmed,28/03/2020,Female,30 to 39,Auckland,Yes,United States of America,null,null,17/03/2020
+FORMER,Sarai,Confirmed,26/03/2020,Female,20 to 29,Waitemata,Yes,United States of America,NZ1,23/03/2020,23/03/2020
+UPDATE,Sarai,Confirmed,26/03/2020,Female,20 to 29,Waitemata,Yes,United States of America,NZ01,23/03/2020,23/03/2020
+FORMER,Corinna,Probable,02/04/2020,Female,70+,Hawke's Bay,null,null,null,null,null
+UPDATE,Corinna,Probable,02/04/2020,Female,70+,Hawke's Bay,No,null,null,null,null
+FORMER,Maci,Probable,27/03/2020,Female,40 to 49,Waitemata,null,null,null,null,null
+UPDATE,Maci,Probable,27/03/2020,Female,40 to 49,Waitemata,No,null,null,null,null
+FORMER,Rylan,Confirmed,01/04/2020,Male,60 to 69,Auckland,Yes,Australia,null,null,22/03/2020
+UPDATE,Rylan,Confirmed,01/04/2020,Male,60 to 69,Waitemata,Yes,Australia,null,null,22/03/2020
