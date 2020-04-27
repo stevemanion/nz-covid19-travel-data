@@ -1,4 +1,4 @@
-nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
 INSERT,Violet,Confirmed,14/04/2020,Female,60 to 69,Counties Manukau,Yes,Australia,null,null,null
 INSERT,Sinead,Probable,21/04/2020,Female,60 to 69,Canterbury,No,null,null,null,null
 INSERT,Nicolas,Confirmed,14/04/2020,Male,60 to 69,Counties Manukau,Yes,Australia,null,null,12/04/2020
