@@ -1,0 +1,38 @@
+Name ID,Status,Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flight number,Flight departure date,Arrival date
+Alanna,Probable,30/03/2020,Female,20 to 29,Counties Manukau,,,,,
+Gregory,Probable,29/03/2020,Male,60 to 69,Auckland,No,,,,
+Gene,Probable,29/03/2020,Male,20 to 29,Capital and Coast,Yes,,,,
+Meera,Probable,29/03/2020,Female,20 to 29,Waitemata,,,,,
+Beulah,Probable,28/03/2020,Female,40 to 49,Auckland,No,,,,
+Jennifer,Probable,28/03/2020,Female,<1,Counties Manukau,,,,,
+Chantelle,Probable,27/03/2020,Female,50 to 59,Auckland,No,,,,
+Joan,Probable,27/03/2020,Female,30 to 39,Canterbury,Yes,United Kingdom,EK412,18/03/2020,19/03/2020
+Ramon,Probable,27/03/2020,Male,30 to 39,Canterbury,Yes,United Kingdom,EK412,18/03/2020,19/03/2020
+Daniel,Probable,27/03/2020,Male,20 to 29,Waitemata,,,,,
+Shanaya,Probable,26/03/2020,Female,30 to 39,Auckland,No,,,,
+Theresa,Probable,26/03/2020,Female,40 to 49,Canterbury,No,,,,
+Chrystal,Probable,26/03/2020,Female,50 to 59,Capital and Coast,Yes,United States of America,NZ409,19/03/2020,19/03/2020
+Lynda,Probable,26/03/2020,Female,60 to 69,Northland,Yes,United States of America,,,20/03/2020
+Jordis,Probable,26/03/2020,Female,60 to 69,Waitemata,,,,,
+Pania,Probable,26/03/2020,Female,60 to 69,Waitemata,Yes,Indonesia,,,15/03/2020
+Breana,Probable,26/03/2020,Female,5 to 9,Waitemata,,,,,
+Muriel,Probable,25/03/2020,Female,40 to 49,Canterbury,No,,,,
+Edgar,Probable,25/03/2020,Male,20 to 29,MidCentral,No,,NZ526,25/03/2020,
+Flora,Probable,25/03/2020,Female,20 to 29,Waikato,Yes,Australia,,,1/03/2020
+Lyla,Probable,25/03/2020,Female,20 to 29,Waitemata,,,,,
+Sian,Probable,24/03/2020,Female,20 to 29,Bay of Plenty,,,,,
+Nichola,Probable,24/03/2020,Female,50 to 59,Nelson Marlborough,,,,,
+Lisa,Probable,23/03/2020,Female,60 to 69,Capital and Coast,No,,,,
+Kiel,Probable,23/03/2020,Male,15 to 19,Hutt Valley,No,,,,
+Freda,Probable,22/03/2020,Female,15 to 19,Auckland,No,,,,
+Melba,Probable,22/03/2020,Female,15 to 19,Canterbury,No,,,,
+Mariah,Probable,22/03/2020,Female,40 to 49,Capital and Coast,No,,,,
+Micheal,Probable,22/03/2020,Male,60 to 69,Capital and Coast,No,,,,
+Tristan,Probable,22/03/2020,Male,50 to 59,Waikato,Yes,United Arab Emirates,BEKA76,15/03/2020,16/03/2020
+Jermaine,Probable,21/03/2020,Male,20 to 29,Taranaki,Yes,United Arab Emirates,NZ8041,18/03/2020,18/03/2020
+Godfrey,Probable,19/03/2020,,50 to 59,Auckland,No,,,,
+Nicole,Probable,19/03/2020,Female,50 to 59,Auckland,Yes,United Kingdom,,,17/03/2020
+Bodhi,Probable,19/03/2020,Male,70+,Capital and Coast,Yes,Australia,,,
+Janaya,Probable,17/03/2020,Female,50 to 59,Southern,No,,,,
+Dayne,Probable,05/03/2020,Male,70+,Counties Manukau,Yes,Qatar,QR920,22/02/2020,23/02/2020
+Helena,Probable,05/03/2020,Female,70+,Waitemata,Yes,United States of America,,,25/02/2020
