@@ -1,0 +1,20 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+INSERT,Maryam,Probable,25/04/2020,Female,70+,South Canterbury,No,null,null,null,null
+INSERT,Angelina,Confirmed,27/04/2020,Female,20 to 29,Waitematā,No,null,null,null,null
+INSERT,Lee-Ann,Confirmed,27/04/2020,Female,50 to 59,Hawke's Bay,No,null,null,null,null
+FORMER,Zelma,Confirmed,11/04/2020,Female,30 to 39,South Canterbury,null,null,null,null,null
+UPDATE,Zelma,Confirmed,11/04/2020,Female,30 to 39,South Canterbury,No,null,null,null,null
+FORMER,Skylar,Confirmed,18/03/2020,Female,50 to 59,Auckland,No,null,NZ,4/03/2020,null
+UPDATE,Skylar,Confirmed,18/03/2020,Female,50 to 59,Auckland,No,null,NZ0413,4/03/2020,null
+FORMER,Earle,Confirmed,24/03/2020,Male,30 to 39,Auckland,Yes,United States of America,null,null,17/03/2020
+UPDATE,Earle,Confirmed,24/03/2020,Male,30 to 39,Auckland,Yes,United States of America,NZ05,15/03/2020,17/03/2020
+FORMER,Annaliese,Confirmed,28/03/2020,Female,60 to 69,Auckland,Yes,United States of America,NZ1,25/03/2020,27/03/2020
+UPDATE,Annaliese,Confirmed,28/03/2020,Female,60 to 69,Counties Manukau,Yes,United States of America,NZ1,25/03/2020,27/03/2020
+FORMER,Shanice,Probable,03/04/2020,Female,20 to 29,Auckland,No,null,null,null,null
+UPDATE,Shanice,Probable,03/04/2020,Female,20 to 29,Counties Manukau,No,null,null,null,null
+FORMER,Brylee,Confirmed,25/04/2020,Female,50 to 59,Taranaki,Yes,France,null,15/03/2020,15/03/2020
+UPDATE,Brylee,Confirmed,25/04/2020,Female,50 to 59,Taranaki,Yes,France,NZ8041,15/03/2020,15/03/2020
+FORMER,Deirdre,Confirmed,28/03/2020,Female,30 to 39,Auckland,Yes,United States of America,null,null,17/03/2020
+UPDATE,Deirdre,Confirmed,28/03/2020,Female,30 to 39,Auckland,Yes,United States of America,NZ05,15/03/2020,17/03/2020
+FORMER,Sian,Probable,24/03/2020,Female,20 to 29,Bay of Plenty,null,null,null,null,null
+UPDATE,Sian,Probable,24/03/2020,Female,20 to 29,Bay of Plenty,No,null,null,null,null
