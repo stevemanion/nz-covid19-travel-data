@@ -1,10 +1,24 @@
 Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flight number,Flight departure date,Arrival date
+01/05/2020,Male,60 to 69,Auckland,No,,,,
+01/05/2020,Female,20 to 29,Canterbury,No,,,,
+01/05/2020,Female,70+,Waitematā,No,,,,
+30/04/2020,Female,20 to 29,Auckland,No,,,,
+30/04/2020,Female,30 to 39,Auckland,No,,,,
+30/04/2020,Female,40 to 49,Waikato,No,,,,
+30/04/2020,Female,40 to 49,Waitematā,No,,,,
+29/04/2020,Male,50 to 59,Counties Manukau,No,,,,
+29/04/2020,Female,30 to 39,Nelson Marlborough,Yes,Cook Islands,NZ5957,,26/03/2020
+28/04/2020,Male,40 to 49,Counties Manukau,Yes,Australia,NZ104,25/04/2020,25/04/2020
+27/04/2020,Female,50 to 59,Hawke's Bay,No,,,,
+27/04/2020,Female,20 to 29,Waitematā,No,,,,
 26/04/2020,Male,40 to 49,Hawke's Bay,No,,,,
 26/04/2020,Female,30 to 39,Waitematā,No,,,,
-25/04/2020,Female,50 to 59,Taranaki,Yes,France,,15/03/2020,15/03/2020
+25/04/2020,Female,50 to 59,Taranaki,Yes,France,NZ8041,15/03/2020,15/03/2020
 24/04/2020,Male,20 to 29,Canterbury,No,,,,
+24/04/2020,Female,10 to 14,Waitematā,No,,,,
 24/04/2020,Female,60 to 69,Waitematā,No,,,,
-23/04/2020,Female,20 to 29,Canterbury,Yes,Scotland,,,23/03/2020
+24/04/2020,Male,10 to 14,Waitematā,No,,,,
+23/04/2020,Female,20 to 29,Canterbury,No,,,,
 23/04/2020,Female,40 to 49,Canterbury,No,,,,
 23/04/2020,Male,20 to 29,Waitematā,Yes,Qatar,QR920,31/03/2020,31/03/2020
 22/04/2020,Female,20 to 29,Counties Manukau,No,,,,
@@ -44,7 +58,7 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 15/04/2020,Male,40 to 49,South Canterbury,No,,,,
 15/04/2020,Female,15 to 19,Southern,No,,,,
 15/04/2020,Female,70+,Waitematā,No,,,,
-14/04/2020,Female,20 to 29,Canterbury, ,,,,
+14/04/2020,Female,20 to 29,Canterbury,No,,,,
 14/04/2020,Female,60 to 69,Counties Manukau,No,,,,
 14/04/2020,Male,50 to 59,Counties Manukau,Yes,Australia,MFAT,12/04/2020,12/04/2020
 14/04/2020,Male,40 to 49,South Canterbury,No,,,,
@@ -67,7 +81,7 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 11/04/2020,Male,30 to 39,Auckland,Yes,Qatar,,,27/03/2020
 11/04/2020,Male,50 to 59,Counties Manukau,Yes,Qatar,QR920,7/04/2020,8/04/2020
 11/04/2020,Female,30 to 39,Northland,No,,,,
-11/04/2020,Female,30 to 39,South Canterbury, ,,,,
+11/04/2020,Female,30 to 39,South Canterbury,No,,,,
 11/04/2020,Female,20 to 29,Waikato,Yes,United Kingdom ,EK448,,23/03/2020
 11/04/2020,Male,<1,Waikato,No,,,,
 11/04/2020,Male,20 to 29,Waikato,No,,,,
@@ -84,7 +98,7 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 10/04/2020,Female,20 to 29,Waitematā,Yes,United Kingdom ,EK448,23/03/2020,25/03/2020
 10/04/2020,Female,30 to 39,Waitematā,No,,,,
 10/04/2020,Female,70+,Waitematā,No,,,,
-10/04/2020,Female,70+,Waitematā,No,,,,
+10/04/2020,Female,70+,Waitematā,No,,NZ698,23/03/2020,
 09/04/2020,Female,30 to 39,Auckland,No,,,,
 09/04/2020,Female,60 to 69,Auckland,No,,,,
 09/04/2020,Male,20 to 29,Auckland,No,,,,
@@ -92,14 +106,14 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 09/04/2020,Male,20 to 29,Auckland,No,,,,
 09/04/2020,Male,60 to 69,Auckland,No,,,,
 09/04/2020,Male,70+,Auckland,No,,,,
-09/04/2020,Male,70+,Auckland,No,,,,
+09/04/2020,Male,70+,Auckland,No,,NZ546,21/03/2020,
 09/04/2020,Female,20 to 29,Canterbury,No,,NZ410,19/03/2020,
 09/04/2020,Female,30 to 39,Canterbury,No,,,,
 09/04/2020,Female,50 to 59,Canterbury,No,,,,
 09/04/2020,Male,20 to 29,Canterbury,No,,,,
 09/04/2020,Male,40 to 49,Canterbury,No,,,,
 09/04/2020,Male,15 to 19,Capital and Coast,No,,,,
-09/04/2020,Male,40 to 49,Capital and Coast,Yes,Qatar,NZ19K,3/03/2020,31/03/2020
+09/04/2020,Male,40 to 49,Capital and Coast,Yes,Qatar,NZ19K,,31/03/2020
 09/04/2020,Female,15 to 19,Counties Manukau,No,,,,
 09/04/2020,Female,40 to 49,Counties Manukau,No,,,,
 09/04/2020,Female,60 to 69,Counties Manukau,Yes,Indonesia,EK450,22/03/2020,22/03/2020
@@ -152,7 +166,7 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 07/04/2020,Female,20 to 29,Waitematā,Yes,Australia,NZ102,28/03/2020,29/03/2020
 07/04/2020,Female,50 to 59,Waitematā,No,,,,
 07/04/2020,Female,50 to 59,Waitematā,No,,,,
-07/04/2020,Male,20 to 29,Waitematā,Yes,Indonesia,,,23/03/2020
+07/04/2020,Male,20 to 29,Waitematā,Yes,Indonesia,EK450,23/03/2020,23/03/2020
 07/04/2020,Male,40 to 49,Waitematā,No,,,,
 07/04/2020,Male,50 to 59,Waitematā,No,,,,
 07/04/2020,Male,50 to 59,Waitematā,No,,,,
@@ -164,9 +178,9 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 06/04/2020,Female,20 to 29,Canterbury,No,,,,
 06/04/2020,Female,50 to 59,Canterbury,No,,,,
 06/04/2020,Female,60 to 69,Canterbury,No,,,,
-06/04/2020,Female,60 to 69,Canterbury,Yes,United Kingdom ,,,28/03/2020
+06/04/2020,Female,60 to 69,Canterbury,Yes,United Kingdom ,VA125,28/03/2020,28/03/2020
 06/04/2020,Male,30 to 39,Canterbury,No,,,,
-06/04/2020,Male,70+,Canterbury,No,,,,
+06/04/2020,Male,70+,Canterbury,No,,NZ527,23/03/2020,
 06/04/2020,Female,5 to 9,Capital and Coast,Yes,Qatar,QR920,26/03/2020,27/03/2020
 06/04/2020,Female,50 to 59,Counties Manukau,No,,,,
 06/04/2020,Male,20 to 29,Counties Manukau,Yes,Qatar,QR920,4/04/2020,5/04/2020
@@ -241,7 +255,7 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 04/04/2020,Female,70+,Canterbury,No,,,,
 04/04/2020,Female,70+,Canterbury,No,,,,
 04/04/2020,Male,60 to 69,Canterbury,No,,,,
-04/04/2020,Male,70+,Canterbury, ,,,,
+04/04/2020,Male,70+,Canterbury,No,,,,
 04/04/2020,Male,70+,Canterbury,No,,,,
 04/04/2020,Male,70+,Canterbury,No,,,,
 04/04/2020,Male,70+,Canterbury,No,,,,
@@ -287,7 +301,7 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 03/04/2020,Male,30 to 39,Capital and Coast,No,,,,
 03/04/2020,Female,20 to 29,Counties Manukau,No,,,,
 03/04/2020,Female,20 to 29,Counties Manukau,Yes,Canada,NZ23,21/03/2020,23/03/2020
-03/04/2020,Female,40 to 49,Counties Manukau,Yes,United States of America,,,8/03/2020
+03/04/2020,Female,40 to 49,Counties Manukau,No,,,,
 03/04/2020,Female,50 to 59,Counties Manukau,No,,,,
 03/04/2020,Female,60 to 69,Counties Manukau,No,,,,
 03/04/2020,Male,10 to 14,Counties Manukau,No,,,,
@@ -299,7 +313,7 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 03/04/2020,Male,70+,Hawke's Bay,No,,,,
 03/04/2020,Female,40 to 49,Nelson Marlborough,Yes,United Arab Emirates,,,21/03/2020
 03/04/2020,Female,50 to 59,Northland,No,,,,
-03/04/2020,Male,60 to 69,Northland, ,,,,
+03/04/2020,Male,60 to 69,Northland,No,,,,
 03/04/2020,Female,15 to 19,Southern,No,,,,
 03/04/2020,Female,20 to 29,Southern,Yes,United Kingdom ,NZ623,,24/03/2020
 03/04/2020,Female,20 to 29,Southern,Yes,United Kingdom ,NZ5757,22/03/2020,22/03/2020
@@ -323,7 +337,7 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 03/04/2020,Male,20 to 29,Waikato,Yes,United Arab Emirates,EK448,23/03/2020,24/03/2020
 03/04/2020,Male,30 to 39,Waikato,No,,,,
 03/04/2020,Male,40 to 49,Waikato,No,,,,
-03/04/2020,Male,60 to 69,Waikato, ,,,,
+03/04/2020,Male,60 to 69,Waikato,No,,,,
 03/04/2020,Male,70+,Waikato, ,,,,
 03/04/2020,Female,20 to 29,Waitematā,No,,,,
 03/04/2020,Female,20 to 29,Waitematā,No,,,,
@@ -391,7 +405,7 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 02/04/2020,Female,30 to 39,Whanganui,Yes,United Kingdom ,NZ3285,23/03/2020,24/03/2020
 02/04/2020,Male,30 to 39,Whanganui,Yes,United Kingdom ,,,24/03/2020
 01/04/2020,Female,20 to 29,Auckland,Yes,United States of America,AA83,23/03/2020,25/03/2020
-01/04/2020,Female,40 to 49,Auckland,Yes,Canada,,,25/03/2020
+01/04/2020,Female,40 to 49,Auckland,Yes,Canada,AC51,23/03/2020,25/03/2020
 01/04/2020,Male,70+,Auckland,Yes,Qatar,QR920,19/03/2020,20/03/2020
 01/04/2020,Female,20 to 29,Bay of Plenty,Yes,Qatar,QR920,27/03/2020,27/03/2020
 01/04/2020,Male,20 to 29,Bay of Plenty,Yes,United Kingdom ,QR920,27/03/2020,27/03/2020
@@ -409,14 +423,13 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 01/04/2020,Male,20 to 29,Hawke's Bay,Yes,Canada,NZ5011,25/03/2020,25/03/2020
 01/04/2020,Male,60 to 69,Hawke's Bay,Yes,Australia,NZ104,23/03/2020,23/03/2020
 01/04/2020,Female,30 to 39,MidCentral,Yes,Fiji,,,19/03/2020
-01/04/2020,Male,20 to 29,MidCentral,Yes,Indonesia,NZ8113,,19/03/2020
 01/04/2020,Female,40 to 49,Nelson Marlborough,Yes,United States of America,,,25/03/2020
 01/04/2020,Female,50 to 59,Nelson Marlborough,Yes,Singapore,,,18/03/2020
 01/04/2020,Male,20 to 29,Nelson Marlborough,Yes,New Zealand,,,19/03/2020
 01/04/2020,Female,40 to 49,Northland,No,,,,
 01/04/2020,Female,10 to 14,Southern,No,,,,
 01/04/2020,Female,20 to 29,Southern,No,,,,
-01/04/2020,Female,20 to 29,Southern,Yes,Australia,,,23/03/2020
+01/04/2020,Female,20 to 29,Southern,Yes,Australia,QF121,23/03/2020,23/03/2020
 01/04/2020,Female,30 to 39,Southern,No,,,,
 01/04/2020,Female,50 to 59,Southern,No,,,,
 01/04/2020,Female,50 to 59,Southern,No,,,,
@@ -428,7 +441,7 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 01/04/2020,Male,30 to 39,Southern,No,,,,
 01/04/2020,Male,40 to 49,Southern,No,,,,
 01/04/2020,Male,50 to 59,Southern,No,,,,
-01/04/2020,Male,50 to 59,Southern,Yes,Australia,,,23/03/2020
+01/04/2020,Male,50 to 59,Southern,Yes,Australia,QF121,23/03/2020,23/03/2020
 01/04/2020,Female,30 to 39,Taranaki,Yes,Singapore,SQ285,23/03/2020,24/03/2020
 01/04/2020,Female,30 to 39,Waikato,No,,,,
 01/04/2020,Female,50 to 59,Waikato,No,,,,
@@ -440,7 +453,7 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 01/04/2020,Male,50 to 59,Waikato,No,,,,
 01/04/2020,Male,50 to 59,Waikato,No,,,,
 01/04/2020,Female,15 to 19,Waitematā,No,,,,
-01/04/2020,Female,20 to 29,Waitematā,Yes,Australia,QF143,17/03/2020,17/04/2020
+01/04/2020,Female,20 to 29,Waitematā,Yes,Australia,QF143,,17/04/2020
 01/04/2020,Female,30 to 39,Waitematā,Yes,United Kingdom ,EK450,23/03/2020,24/03/2020
 01/04/2020,Female,50 to 59,Waitematā,No,,,,
 01/04/2020,Female,50 to 59,Waitematā,No,,,,
@@ -477,7 +490,7 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 31/03/2020,Female,20 to 29,Southern,No,,,,
 31/03/2020,Female,20 to 29,Southern,No,,,,
 31/03/2020,Female,30 to 39,Southern,No,,,,
-31/03/2020,Female,60 to 69,Southern,Yes,,JQ293,22/03/2020,
+31/03/2020,Female,60 to 69,Southern,Yes,,JQ293,22/03/2020,22/03/2020
 31/03/2020,Male,40 to 49,Southern,No,,,,
 31/03/2020,Male,50 to 59,Southern,Yes,Australia,NZ5717,20/03/2020,20/03/2020
 31/03/2020,Male,70+,Southern,No,,,,
@@ -534,6 +547,7 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 30/03/2020,Male,70+,Hawke's Bay,No,,,,
 30/03/2020,Female,30 to 39,Lakes,No,,,,
 30/03/2020,Male,30 to 39,Lakes,No,,,,
+30/03/2020,Male,20 to 29,MidCentral,Yes,Indonesia,NZ8113,,19/03/2020
 30/03/2020,Female,20 to 29,Nelson Marlborough,Yes,Australia,NZ8857,19/03/2020,19/03/2020
 30/03/2020,Male,50 to 59,Northland,Yes,United States of America,,,22/03/2020
 30/03/2020,Male,30 to 39,South Canterbury,Yes,England,,,20/03/2020
@@ -549,15 +563,14 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 30/03/2020,Female,20 to 29,Taranaki,Yes,United Kingdom ,,,21/03/2020
 30/03/2020,Female,15 to 19,Waikato,No,,,,
 30/03/2020,Female,40 to 49,Waikato,No,,,,
-30/03/2020,Female,40 to 49,Waikato,No,,,,
 30/03/2020,Female,70+,Waikato,No,,,,
+30/03/2020,Male,30 to 39,Waikato,No,,,,
 30/03/2020,Female,20 to 29,Waitematā,No,,,,
 30/03/2020,Female,20 to 29,Waitematā,Yes,Chile,LA801,17/03/2020,20/03/2020
 30/03/2020,Female,40 to 49,Waitematā,No,,,,
 30/03/2020,Female,70+,Waitematā,Yes,Qatar,QR920,23/03/2020,24/03/2020
 30/03/2020,Male,15 to 19,Waitematā,Yes,United Kingdom ,EK448,23/03/2020,24/03/2020
 30/03/2020,Male,20 to 29,Waitematā,No,,,,
-29/03/2020,Female,10 to 14,Auckland,No,,,,
 29/03/2020,Female,20 to 29,Auckland,No,,,,
 29/03/2020,Female,40 to 49,Auckland,No,,,,
 29/03/2020,Female,50 to 59,Auckland,Yes,United States of America,NZ1,23/03/2020,24/03/2020
@@ -566,7 +579,6 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 29/03/2020,Male,40 to 49,Auckland,Yes,United States of America,NZ29,23/03/2020,25/03/2020
 29/03/2020,Male,50 to 59,Auckland,Yes,Canada,,,22/03/2020
 29/03/2020,Male,60 to 69,Auckland,Yes,Singapore,SQ281,19/03/2020,19/03/2020
-29/03/2020,Female,20 to 29,Canterbury,Yes,France,EK00412,15/03/2020,16/03/2020
 29/03/2020,Male,20 to 29,Canterbury,No,,,,
 29/03/2020,Female,20 to 29,Capital and Coast,Yes,Australia,QF171,24/03/2020,24/03/2020
 29/03/2020,Female,20 to 29,Capital and Coast,Yes,United Arab Emirates,NZ433,20/03/2020,21/03/2020
@@ -575,10 +587,10 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 29/03/2020,Male,20 to 29,Capital and Coast,Yes,United Arab Emirates,NZ429,22/03/2020,22/03/2020
 29/03/2020,Male,30 to 39,Capital and Coast,No,,,,
 29/03/2020,Male,70+,Capital and Coast,No,,NZ8872,25/03/2020,
+29/03/2020,Female,10 to 14,Counties Manukau,No,,,,
 29/03/2020,Female,20 to 29,Counties Manukau,No,,,,
 29/03/2020,Male,20 to 29,Counties Manukau,Yes,Canada,NZ23,25/03/2020,27/03/2020
 29/03/2020,Male,20 to 29,Counties Manukau,Yes,United Arab Emirates,EK448,18/03/2020,19/03/2020
-29/03/2020,Female,30 to 39,MidCentral,Yes,,NZ5107,18/03/2020,18/03/2020
 29/03/2020,Female,40 to 49,MidCentral,Yes,Australia,NZ842,19/03/2020,19/03/2020
 29/03/2020,Female,20 to 29,Nelson Marlborough,Yes,New Zealand,NZ5069,,19/03/2020
 29/03/2020,Female,20 to 29,Northland,Yes,Canada,GB615,23/03/2020,23/03/2020
@@ -633,15 +645,15 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 28/03/2020,Female,20 to 29,Auckland,Yes,United Arab Emirates,EK448,23/03/2020,24/03/2020
 28/03/2020,Female,30 to 39,Auckland,Yes,Indonesia,EK450,23/03/2020,24/03/2020
 28/03/2020,Female,30 to 39,Auckland,Yes,Qatar,,,17/03/2020
-28/03/2020,Female,30 to 39,Auckland,Yes,United States of America,,,17/03/2020
+28/03/2020,Female,30 to 39,Auckland,Yes,United States of America,NZ05,15/03/2020,17/03/2020
 28/03/2020,Female,50 to 59,Auckland,No,,,,
-28/03/2020,Female,60 to 69,Auckland,Yes,United States of America,NZ1,25/03/2020,27/03/2020
 28/03/2020,Male,30 to 39,Auckland,No,,,,
 28/03/2020,Male,60 to 69,Auckland,No,,,,
 28/03/2020,Male,60 to 69,Auckland,No,,,,
 28/03/2020,Male,60 to 69,Auckland,Yes,United Arab Emirates,EK448,21/03/2020,22/03/2020
 28/03/2020,Female,20 to 29,Bay of Plenty,Yes,Australia,EK2,23/03/2020,26/03/2020
 28/03/2020,Female,70+,Bay of Plenty,Yes,Northern America ,NZ29,16/03/2020,18/03/2020
+28/03/2020,Female,20 to 29,Canterbury,Yes,France,EK00412,15/03/2020,16/03/2020
 28/03/2020,Female,20 to 29,Canterbury,Yes,United Kingdom ,EK412,23/03/2020,23/03/2020
 28/03/2020,Female,40 to 49,Canterbury,Yes,Australia,QF133,24/03/2020,24/03/2020
 28/03/2020,Male,30 to 39,Canterbury,Yes,France,,,16/03/2020
@@ -655,21 +667,23 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 28/03/2020,Female,40 to 49,Counties Manukau,No,,,,
 28/03/2020,Female,40 to 49,Counties Manukau,No,,,,
 28/03/2020,Female,50 to 59,Counties Manukau,No,,,,
+28/03/2020,Female,60 to 69,Counties Manukau,Yes,United States of America,NZ1,25/03/2020,27/03/2020
 28/03/2020,Male,40 to 49,Counties Manukau,No,,,,
 28/03/2020,Male,70+,Hawke's Bay,No,,,,
 28/03/2020,Female,20 to 29,Lakes,Yes,England,NZ8149,,17/03/2020
+28/03/2020,Female,30 to 39,MidCentral,Yes,,NZ5107,18/03/2020,18/03/2020
 28/03/2020,Male,30 to 39,Nelson Marlborough,Yes,United Arab Emirates,,,16/03/2020
 28/03/2020,Male,60 to 69,South Canterbury,Yes,United States of America,NZ675,17/03/2020,17/03/2020
 28/03/2020,Female,20 to 29,Southern, ,,,,
 28/03/2020,Female,20 to 29,Southern,No,,,,
 28/03/2020,Female,20 to 29,Southern,Yes,United Kingdom ,,,23/03/2020
 28/03/2020,Female,30 to 39,Southern,Yes,United Kingdom ,NZ671,19/03/2020,19/03/2020
-28/03/2020,Female,40 to 49,Southern, ,,,,
+28/03/2020,Female,40 to 49,Southern,No,,,,
 28/03/2020,Female,40 to 49,Southern,No,,,,
 28/03/2020,Female,50 to 59,Southern,No,,,,
 28/03/2020,Female,50 to 59,Southern,No,,,,
 28/03/2020,Female,60 to 69,Southern,No,,,,
-28/03/2020,Male,20 to 29,Southern,Yes,,NZ623,16/03/2020,
+28/03/2020,Male,20 to 29,Southern,Yes,,NZ623,16/03/2020,16/03/2020
 28/03/2020,Male,20 to 29,Southern,Yes,United Kingdom ,EK412,20/03/2020,20/03/2020
 28/03/2020,Male,40 to 49,Southern,No,,,,
 28/03/2020,Male,40 to 49,Southern,Yes,France,NZ615,19/03/2020,20/03/2020
@@ -682,7 +696,7 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 28/03/2020,Female,15 to 19,Waitematā,No,,,,
 28/03/2020,Female,20 to 29,Waitematā,Yes,United Arab Emirates,EK448,23/03/2020,24/03/2020
 28/03/2020,Female,20 to 29,Waitematā,Yes,United Arab Emirates,EK448,23/03/2020,24/03/2020
-28/03/2020,Female,20 to 29,Waitematā,Yes,United States of America,,,19/03/2020
+28/03/2020,Female,20 to 29,Waitematā,Yes,United States of America,NZ5,18/03/2020,19/03/2020
 28/03/2020,Female,40 to 49,Waitematā,No,,,,
 28/03/2020,Female,50 to 59,Waitematā,No,,,,
 28/03/2020,Male,20 to 29,Waitematā,No,,,,
@@ -822,13 +836,13 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 26/03/2020,Female,40 to 49,Waitematā,No,,,,
 26/03/2020,Female,40 to 49,Waitematā,Yes,United States of America,NZ1,23/03/2020,25/03/2020
 26/03/2020,Male,40 to 49,Waitematā,Yes,Australia,QF143,18/03/2020,18/03/2020
-26/03/2020,Male,50 to 59,Waitematā,Yes,United States of America,,,19/03/2020
+26/03/2020,Male,50 to 59,Waitematā,Yes,United States of America,WGN-AKL,,19/03/2020
 26/03/2020,Male,50 to 59,Waitematā,Yes,United States of America,NZ409,19/03/2020,19/03/2020
 26/03/2020,Female,70+,West Coast,No,,,,
 26/03/2020,Male,20 to 29,West Coast,Yes,Australia,,,12/03/2020
 25/03/2020,Female,15 to 19,Auckland,No,,,,
 25/03/2020,Female,20 to 29,Auckland,No,,,,
-25/03/2020,Female,20 to 29,Auckland,Yes,Singapore,,,18/03/2020
+25/03/2020,Female,20 to 29,Auckland,Yes,Singapore,NZ3285,17/03/2020,18/03/2020
 25/03/2020,Female,20 to 29,Auckland,Yes,United Arab Emirates,EK448,20/03/2020,20/03/2020
 25/03/2020,Female,20 to 29,Auckland,Yes,United Kingdom ,EK448,13/03/2020,15/03/2020
 25/03/2020,Female,30 to 39,Auckland,No,,,,
@@ -910,7 +924,8 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 24/03/2020,Female,30 to 39,Auckland,No,,,,
 24/03/2020,Male,30 to 39,Auckland,No,,,,
 24/03/2020,Male,30 to 39,Auckland,Yes,United Arab Emirates,EK448,22/03/2020,23/03/2020
-24/03/2020,Male,30 to 39,Auckland,Yes,United States of America,,,17/03/2020
+24/03/2020,Male,30 to 39,Auckland,Yes,United States of America,NZ05,15/03/2020,17/03/2020
+24/03/2020,Male,40 to 49,Auckland,Yes,United States of America,AA83,19/03/2020,21/03/2020
 24/03/2020,Female,30 to 39,Bay of Plenty,No,,,,
 24/03/2020,Female,20 to 29,Canterbury,Yes,France,QF1033,20/03/2020,20/03/2020
 24/03/2020,Female,20 to 29,Canterbury,Yes,Ireland,JQ233,20/03/2020,20/03/2020
@@ -938,7 +953,7 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 24/03/2020,Female,50 to 59,Nelson Marlborough,No,,,,
 24/03/2020,Male,60 to 69,Nelson Marlborough,Yes,New Zealand,NZ5065,16/03/2020,16/03/2020
 24/03/2020,Male,70+,Nelson Marlborough,No,,,,
-24/03/2020,Female,50 to 59,Northland, ,,EK448,21/03/2020,
+24/03/2020,Female,50 to 59,Northland,Yes,United Arab Emirates,EK448,21/03/2020,21/03/2020
 24/03/2020,Male,50 to 59,Northland,Yes,United States of America,AA83,19/03/2020,20/03/2020
 24/03/2020,Female,20 to 29,Southern,Yes,Switzerland,NZ671,23/03/2020,23/03/2020
 24/03/2020,Female,20 to 29,Southern,Yes,United Kingdom ,EK6,21/03/2020,23/03/2020
@@ -958,7 +973,6 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 24/03/2020,Female,40 to 49,Waitematā,No,,,,
 24/03/2020,Female,50 to 59,Waitematā,No,,,,
 24/03/2020,Male,20 to 29,Waitematā,Yes,United Arab Emirates,EK448,20/03/2020,21/03/2020
-24/03/2020,Male,40 to 49,Waitematā,Yes,United States of America,AA83,19/03/2020,21/03/2020
 24/03/2020,Male,60 to 69,Waitematā,Yes,Argentina,NZ31,15/03/2020,17/03/2020
 23/03/2020,Female,15 to 19,Auckland,No,,,,
 23/03/2020,Female,15 to 19,Auckland,Yes,Australia,QF141,19/03/2020,21/03/2020
@@ -985,12 +999,12 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 23/03/2020,Male,70+,MidCentral,Yes,United Arab Emirates,NZ5115,17/03/2020,17/03/2020
 23/03/2020,Female,70+,Nelson Marlborough,No,,,,
 23/03/2020,Male,30 to 39,Nelson Marlborough,Yes,Australia,NZ8205,18/03/2020,18/03/2020
-23/03/2020,Male,50 to 59,Nelson Marlborough,Yes,Australia,PILOT?,,19/03/2020
+23/03/2020,Male,50 to 59,Nelson Marlborough,Yes,Australia,,,19/03/2020
 23/03/2020,Male,20 to 29,South Canterbury,No,,,,
 23/03/2020,Male,60 to 69,South Canterbury,Yes,England,EK412,21/03/2020,21/03/2020
 23/03/2020,Female,30 to 39,Southern,No,,,,
 23/03/2020,Female,50 to 59,Southern,No,,,,
-23/03/2020,Male,15 to 19,Southern,Yes,England,,,19/03/2020
+23/03/2020,Male,15 to 19,Southern,Yes,England,EK7563,19/03/2020,19/03/2020
 23/03/2020,Male,30 to 39,Southern,No,,,,
 23/03/2020,Female,40 to 49,Waikato,Yes,Philippines,,,8/03/2020
 23/03/2020,Female,60 to 69,Waikato,Yes,France,EK448,16/03/2020,16/03/2020
@@ -1062,7 +1076,7 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 21/03/2020,Female,30 to 39,Wairarapa,Yes,United Kingdom ,NZ411,17/03/2020,17/03/2020
 21/03/2020,Male,20 to 29,Wairarapa,Yes,Singapore,NZ429,12/03/2020,12/03/2020
 21/03/2020,Female,60 to 69,Waitematā,No,,,,
-20/03/2020,Male,60 to 69,Auckland,No,,,,
+20/03/2020,Male,60 to 69,Auckland,No,,NZ670,15/03/2020,
 20/03/2020,Female,50 to 59,Canterbury,Yes,United States of America,NZ523,17/03/2020,17/03/2020
 20/03/2020,Male,20 to 29,Canterbury,Yes,United Kingdom ,SQ297,17/03/2020,18/03/2020
 20/03/2020,Male,50 to 59,Lakes,Yes,United Arab Emirates,EK448,10/03/2020,12/03/2020
@@ -1089,7 +1103,7 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 19/03/2020,Female,70+,Waikato,Yes,France,EK450,16/03/2020,17/03/2020
 19/03/2020,Male,30 to 39,Wairarapa,No,,,,
 19/03/2020,Female,40 to 49,Waitematā,Yes,Qatar,QR920,14/03/2020,15/03/2020
-18/03/2020,Female,50 to 59,Auckland,No,,NZ,4/03/2020,
+18/03/2020,Female,50 to 59,Auckland,No,,NZ0413,4/03/2020,
 18/03/2020,Male,50 to 59,Canterbury,Yes,United States of America,NZ535,,14/03/2020
 18/03/2020,Male,50 to 59,Capital and Coast,Yes,United Arab Emirates,QF161,14/03/2020,14/03/2020
 18/03/2020,Male,40 to 49,Southern,Yes,Australia,,,10/03/2020
@@ -1103,7 +1117,7 @@ Date of report,Sex,Age group,DHB,Overseas travel,Last country before return,Flig
 17/03/2020,Male,20 to 29,Northland,Yes,England,VA141,16/03/2020,16/03/2020
 17/03/2020,Male,15 to 19,Southern,No,,,,
 17/03/2020,Male,40 to 49,Southern,Yes,Germany,,,8/03/2020
-17/03/2020,Male,60 to 69,Waitematā,Yes,Canada,,,12/03/2020
+17/03/2020,Male,60 to 69,Waitematā,Yes,Canada,AC51,12/03/2020,12/03/2020
 17/03/2020,Male,60 to 69,Waitematā,Yes,United States of America,NZ5,11/03/2020,13/03/2020
 16/03/2020,Male,60 to 69,Auckland,Yes,United States of America,NZ7,10/03/2020,13/03/2020
 16/03/2020,Male,30 to 39,Capital and Coast,Yes,United States of America,AA83,14/03/2020,14/03/2020
