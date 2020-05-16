@@ -1,0 +1,12 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+DELETE,Sheryll,Probable,01/05/2020,Female,50 to 59,Auckland,No,null,null,null,null
+FORMER,Octavia,Confirmed,05/04/2020,Female,20 to 29,Auckland,Yes,null,null,null,22/03/2020
+UPDATE,Octavia,Confirmed,05/04/2020,Female,20 to 29,Auckland,No,null,null,null,null
+FORMER,Wilbur,Confirmed,25/03/2020,Male,50 to 59,Lakes,Yes,Singapore,null,null,14/03/2020
+UPDATE,Wilbur,Confirmed,25/03/2020,Male,50 to 59,Lakes,Yes,Singapore,null,null,15/03/2020
+FORMER,Todd,Confirmed,29/03/2020,Male,50 to 59,Waitematā,Yes,United States of America,null,null,20/03/2020
+UPDATE,Todd,Confirmed,29/03/2020,Male,50 to 59,Waitematā,Yes,United States of America,NZ29,18/03/2020,20/03/2020
+FORMER,Polly,Confirmed,27/03/2020,Female,40 to 49,Counties Manukau,Yes,United States of America,null,null,19/03/2020
+UPDATE,Polly,Confirmed,27/03/2020,Female,40 to 49,Counties Manukau,Yes,United States of America,NZ01,22/03/2020,24/03/2020
+FORMER,Curtis,Confirmed,23/04/2020,Male,20 to 29,Waitematā,Yes,Qatar,QR920,31/03/2020,31/03/2020
+UPDATE,Curtis,Confirmed,23/04/2020,Male,20 to 29,Waitematā,Yes,Qatar,QR920,30/03/2020,31/03/2020
