@@ -1,0 +1,11 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+FORMER,Gia,Confirmed,01/04/2020,Female,20 to 29,Waitematā,Yes,Australia,QF143,null,17/04/2020
+UPDATE,Gia,Confirmed,01/04/2020,Female,20 to 29,Waitematā,Yes,Australia,QF143,17/03/2020,17/04/2020
+FORMER,Sandra,Confirmed,29/04/2020,Female,30 to 39,Nelson Marlborough,Yes,Cook Islands,NZ5957,null,26/03/2020
+UPDATE,Sandra,Confirmed,29/04/2020,Female,30 to 39,Nelson Marlborough,Yes,Cook Islands,NZ45,null,26/03/2020
+FORMER,Russell,Confirmed,09/04/2020,Male,40 to 49,Capital and Coast,Yes,Qatar,NZ19K,null,31/03/2020
+UPDATE,Russell,Confirmed,09/04/2020,Male,40 to 49,Capital and Coast,Yes,Qatar,NZ19K,3/03/2020,31/03/2020
+FORMER,Kerri,Probable,06/04/2020,Female,40 to 49,Nelson Marlborough,No,null,null,null,null
+UPDATE,Kerri,Confirmed,06/04/2020,Female,40 to 49,Nelson Marlborough,No,null,null,null,null
+FORMER,Petrus,Probable,01/04/2020,Male,30 to 39,Capital and Coast,No,null,null,null,null
+UPDATE,Petrus,Probable,01/04/2020,Male,30 to 39,Capital and Coast,No,null,JS278,23/03/2020,null
