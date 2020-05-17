@@ -1,0 +1,7 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+INSERT,Jeannie,Confirmed,05/05/2020,Female,10 to 14,Waitematā,No,null,null,null,null
+INSERT,Ty,Probable,05/05/2020,Male,40 to 49,Auckland,No,null,null,null,null
+FORMER,Ronan,Confirmed,18/04/2020,Male,60 to 69,Canterbury,null,null,null,null,null
+UPDATE,Ronan,Confirmed,18/04/2020,Male,60 to 69,Canterbury,No,null,null,null,null
+FORMER,Tara,Confirmed,25/03/2020,Female,30 to 39,Waikato,null,null,null,null,null
+UPDATE,Tara,Confirmed,25/03/2020,Female,30 to 39,Waikato,No,null,null,null,null
