@@ -1,0 +1,13 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+INSERT,Zachariah,Confirmed,06/05/2020,Male,5 to 9,Waikato,No,null,null,null,null
+INSERT,Roslyn,Confirmed,07/05/2020,Female,20 to 29,Waitematā,No,null,null,null,null
+INSERT,Joelene,Probable,06/04/2020,Female,15 to 19,Waitematā,No,null,null,null,null
+DELETE,Diana,Probable,24/03/2020,Female,15 to 19,Waitematā,No,null,null,null,null
+FORMER,Reyansh,Probable,12/04/2020,Male,15 to 19,Capital and Coast,Yes,Australia,EK10,null,21/03/2020
+UPDATE,Reyansh,Probable,12/04/2020,Male,15 to 19,Capital and Coast,Yes,Australia,EK10,21/03/2020,21/03/2020
+FORMER,Rikki,Probable,04/04/2020,Male,70+,Canterbury,No,null,null,null,null
+UPDATE,Rikki,Confirmed,04/04/2020,Male,70+,Canterbury,No,null,null,null,null
+FORMER,Kristen,Confirmed,23/03/2020,Female,30 to 39,Counties Manukau,Yes,Australia,null,null,17/03/2020
+UPDATE,Kristen,Confirmed,23/03/2020,Female,30 to 39,Counties Manukau,Yes,Australia,JQ201,17/03/2020,17/03/2020
+FORMER,Josie,Confirmed,27/03/2020,Female,50 to 59,MidCentral,Yes,United States of America,NZ1,10/03/2020,12/03/2020
+UPDATE,Josie,Confirmed,27/03/2020,Female,50 to 59,MidCentral,Yes,United States of America,NZ5107,12/03/2020,12/03/2020

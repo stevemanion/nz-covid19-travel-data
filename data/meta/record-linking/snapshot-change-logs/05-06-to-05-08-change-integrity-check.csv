@@ -1,0 +1,9 @@
+statistic,value,notes
+Confirmed Reported Change,3,"1+2"
+Confirmed Added,3,"Zachariah,Roslyn,Rikki"
+Confirmed Removed,0,""
+Confirmed Change,3,"Integrity Check Passed"
+Probable Reported Change,-1,"0+(-1)"
+Probable Added,1,"Joelene"
+Probable Removed,-2,"Rikki,Diana"
+Probable Change,-1,"Integrity Check Passed"
