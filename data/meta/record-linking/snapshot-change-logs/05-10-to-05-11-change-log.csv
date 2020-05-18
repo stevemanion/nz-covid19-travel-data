@@ -1,0 +1,16 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+INSERT,Ella-Rose,Confirmed,10/05/2020,Female,30 to 39,Waitematā,No,null,null,null,null
+INSERT,Amyra,Confirmed,10/05/2020,Female,30 to 39,Auckland,null,null,null,null,null
+INSERT,Kennedy,Confirmed,10/05/2020,Female,50 to 59,Waikato,null,null,null,null,null
+FORMER,Jenifer,Confirmed,09/05/2020,Female,20 to 29,Counties Manukau,Yes,United States of America,null,null,25/04/2020
+UPDATE,Jenifer,Confirmed,09/05/2020,Female,20 to 29,MidCentral,Yes,United States of America,null,null,25/04/2020
+FORMER,Ethan,Confirmed,25/03/2020,Male,70+,Waitematā,Yes,Australia,null,null,20/03/2020
+UPDATE,Ethan,Confirmed,25/03/2020,Male,70+,Waitematā,Yes,Australia,NZ108,19/03/2020,20/03/2020
+FORMER,Coral,Probable,29/03/2020,Female,70+,Waitematā,Yes,Australia,null,null,20/03/2020
+UPDATE,Coral,Probable,29/03/2020,Female,70+,Waitematā,Yes,Australia,NZ108,19/03/2020,20/03/2020
+FORMER,Sandra,Confirmed,29/04/2020,Female,30 to 39,Nelson Marlborough,Yes,Cook Islands,NZ5957,null,26/03/2020
+UPDATE,Sandra,Confirmed,29/04/2020,Female,30 to 39,Nelson Marlborough,Yes,Cook Islands,NZ45,null,26/03/2020
+FORMER,Jacob,Confirmed,01/05/2020,Male,30 to 39,Waitematā,No,null,null,null,null
+UPDATE,Jacob,Confirmed,09/05/2020,Male,30 to 39,Waitematā,No,null,null,null,null
+FORMER,Kiwa,Confirmed,27/04/2020,Male,30 to 39,Waitematā,No,null,null,null,null
+UPDATE,Kiwa,Confirmed,06/05/2020,Male,30 to 39,Waitematā,No,null,null,null,null

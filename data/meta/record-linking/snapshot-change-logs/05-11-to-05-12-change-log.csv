@@ -1,0 +1,13 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+FORMER,Amyra,Confirmed,10/05/2020,Female,30 to 39,Auckland,null,null,null,null,null
+UPDATE,Amyra,Confirmed,10/05/2020,Female,30 to 39,Auckland,No,null,null,null,null
+FORMER,Kennedy,Confirmed,10/05/2020,Female,50 to 59,Waikato,null,null,null,null,null
+UPDATE,Kennedy,Confirmed,10/05/2020,Female,50 to 59,Waikato,Yes,France,EK448,null,15/03/2020
+FORMER,Finn,Confirmed,04/04/2020,Male,60 to 69,Waitematā,Yes,Australia,null,null,20/03/2020
+UPDATE,Finn,Confirmed,04/04/2020,Male,60 to 69,Waitematā,Yes,Australia,QF143,20/03/2020,20/03/2020
+FORMER,Chace,Confirmed,18/04/2020,Male,70+,Counties Manukau,Yes,Australia,null,null,13/04/2020
+UPDATE,Chace,Confirmed,18/04/2020,Male,70+,Counties Manukau,Yes,Australia,CHARTERED FLIGHT,13/04/2020,13/04/2020
+FORMER,Jacob,Confirmed,09/05/2020,Male,30 to 39,Waitematā,No,null,null,null,null
+UPDATE,Jacob,Confirmed,06/05/2020,Male,30 to 39,Waitematā,No,null,null,null,null
+FORMER,Kiwa,Confirmed,06/05/2020,Male,30 to 39,Waitematā,No,null,null,null,null
+UPDATE,Kiwa,Confirmed,27/04/2020,Male,30 to 39,Waitematā,No,null,null,null,null

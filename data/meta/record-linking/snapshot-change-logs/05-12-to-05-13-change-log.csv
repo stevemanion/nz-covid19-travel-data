@@ -1,0 +1,5 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+FORMER,Samual,Confirmed,21/03/2020,Male,30 to 39,Nelson Marlborough,null,null,null,null,null
+UPDATE,Samual,Confirmed,21/03/2020,Male,30 to 39,Nelson Marlborough,No,null,null,null,null
+FORMER,Darrel,Confirmed,03/04/2020,Male,70+,Waikato,null,null,null,null,null
+UPDATE,Darrel,Confirmed,03/04/2020,Male,70+,Waikato,No,null,null,null,null
