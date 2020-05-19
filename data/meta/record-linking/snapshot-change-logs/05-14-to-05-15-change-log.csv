@@ -1,0 +1,18 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+INSERT,Celeste,Confirmed,14/05/2020,Female,15 to 19,Waitematā,No,null,null,null,null
+FORMER,Mellissa,Confirmed,08/04/2020,Female,20 to 29,Waitematā,Yes,Canada,NZ23,null,23/03/2020
+UPDATE,Mellissa,Confirmed,08/04/2020,Female,20 to 29,Waitematā,Yes,Canada,NZ23,20/03/2020,21/03/2020
+FORMER,Wilma,Probable,11/04/2020,Female,20 to 29,Auckland,Yes,United Kingdom,QR920,26/03/2020,27/03/2020
+UPDATE,Wilma,Probable,11/04/2020,Female,20 to 29,Auckland,Yes,Qatar,QR920,26/03/2020,27/03/2020
+FORMER,Alexia,Confirmed,26/03/2020,Female,60 to 69,Counties Manukau,Yes,Qatar,null,null,17/03/2020
+UPDATE,Alexia,Confirmed,26/03/2020,Female,60 to 69,Counties Manukau,Yes,Qatar,QR920,15/03/2020,17/03/2020
+FORMER,Roland,Confirmed,01/04/2020,Male,20 to 29,Waikato,Yes,New Zealand,EK488,23/03/2020,24/03/2020
+UPDATE,Roland,Confirmed,01/04/2020,Male,20 to 29,Waikato,Yes,United Arab Emirates,EK488,23/03/2020,24/03/2020
+FORMER,Sylvia,Confirmed,22/03/2020,Female,60 to 69,Canterbury,Yes,Egypt,NZ884,18/03/2020,18/03/2020
+UPDATE,Sylvia,Confirmed,26/03/2020,Female,60 to 69,Canterbury,Yes,Egypt,NZ884,18/03/2020,18/03/2020
+FORMER,Una,Probable,01/04/2020,Female,50 to 59,Canterbury,null,null,null,null,null
+UPDATE,Una,Probable,01/04/2020,Female,50 to 59,Canterbury,No,null,null,null,null
+FORMER,Stephan,Confirmed,11/04/2020,Male,30 to 39,Auckland,Yes,Qatar,null,null,27/03/2020
+UPDATE,Stephan,Confirmed,11/04/2020,Male,30 to 39,Auckland,Yes,Qatar,QR920,26/03/2020,27/03/2020
+FORMER,Colleen,Confirmed,26/03/2020,Female,20 to 29,Auckland,Yes,Australia,NZ178,25/03/2020,25/03/2020
+UPDATE,Colleen,Confirmed,26/03/2020,Female,20 to 29,Auckland,Yes,Australia,NZ178,24/03/2020,25/03/2020
