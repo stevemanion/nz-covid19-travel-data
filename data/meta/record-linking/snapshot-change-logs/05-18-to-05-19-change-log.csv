@@ -1,0 +1,11 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+INSERT,Violet,Confirmed,14/04/2020,Female,60 to 69,Counties Manukau,Yes,Australia,CHARTER MEL>AKL,12/04/2020,12/04/2020
+INSERT,Nicolas,Confirmed,14/04/2020,Male,60 to 69,Counties Manukau,Yes,Australia,CHARTER MEL>AKL,12/04/2020,12/04/2020
+INSERT,Carrol,Confirmed,16/04/2020,Female,60 to 69,Counties Manukau,Yes,Australia,CHARTER MEL>AKL,12/04/2020,12/04/2020
+INSERT,Rueben,Confirmed,03/05/2020,Male,60 to 69,Counties Manukau,Yes,Australia,null,12/04/2020,12/04/2020
+FORMER,Emilie,Confirmed,27/03/2020,Female,40 to 49,Waikato,null,null,null,null,null
+UPDATE,Emilie,Confirmed,27/03/2020,Female,40 to 49,Waikato,No,null,null,null,null
+FORMER,Iyla,Probable,10/04/2020,Female,20 to 29,Hawke's Bay,Yes,Singapore,null,null,19/03/2020
+UPDATE,Iyla,Probable,10/04/2020,Female,20 to 29,Hawke's Bay,Yes,Singapore,NZ5021,19/03/2020,19/03/2020
+FORMER,Garry,Confirmed,20/03/2020,Male,70+,Waitematā,No,null,NZ615,11/03/2020,null
+UPDATE,Garry,Confirmed,20/03/2020,Male,70+,Waitematā,No,null,NZ674,16/03/2020,null
