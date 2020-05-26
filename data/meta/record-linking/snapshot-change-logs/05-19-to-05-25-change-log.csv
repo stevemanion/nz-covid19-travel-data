@@ -1,0 +1,36 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+INSERT,Haidee,Confirmed,01/05/2020,Female,50 to 59,Auckland,No,null,null,null,null
+FORMER,Edie,Confirmed,29/03/2020,Female,50 to 59,Waitematā,Yes,United States of America,NZ1,24/03/2020,25/03/2020
+UPDATE,Edie,Confirmed,29/03/2020,Female,50 to 59,Waitematā,Yes,United States of America,NZ1,23/03/2020,25/03/2020
+FORMER,Violet,Confirmed,14/04/2020,Female,60 to 69,Counties Manukau,Yes,Australia,CHARTER MEL>AKL,12/04/2020,12/04/2020
+UPDATE,Violet,Confirmed,14/04/2020,Female,60 to 69,Counties Manukau,Yes,Australia,null,12/04/2020,12/04/2020
+FORMER,Carrol,Confirmed,16/04/2020,Female,60 to 69,Counties Manukau,Yes,Australia,CHARTER MEL>AKL,12/04/2020,12/04/2020
+UPDATE,Carrol,Confirmed,16/04/2020,Female,60 to 69,Counties Manukau,Yes,Australia,null,12/04/2020,12/04/2020
+FORMER,Zac,Confirmed,25/03/2020,Male,70+,Auckland,Yes,Argentina,LA801,19/03/2020,20/03/2020
+UPDATE,Zac,Confirmed,25/03/2020,Male,70+,Auckland,Yes,Chile,LA801,19/03/2020,20/03/2020
+FORMER,Nina,Confirmed,10/04/2020,Female,20 to 29,Waitematā,Yes,United Kingdom,EK448,23/03/2020,25/03/2020
+UPDATE,Nina,Confirmed,10/04/2020,Female,20 to 29,Waitematā,Yes,United Arab Emirates,EK448,23/03/2020,24/03/2020
+FORMER,Bobby,Confirmed,03/04/2020,Male,60 to 69,Waitematā,Yes,United States of America,NZ1,25/03/2020,25/03/2020
+UPDATE,Bobby,Confirmed,03/04/2020,Male,60 to 69,Waitematā,Yes,United States of America,NZ1,23/03/2020,25/03/2020
+FORMER,Cindy,Confirmed,08/04/2020,Female,50 to 59,Auckland,Yes,Qatar,null,null,31/03/2020
+UPDATE,Cindy,Confirmed,08/04/2020,Female,50 to 59,Auckland,Yes,Qatar,QR920,29/03/2020,31/03/2020
+FORMER,Nicholas,Confirmed,26/03/2020,Male,50 to 59,Waitematā,Yes,United States of America,WGN-AKL,null,19/03/2020
+UPDATE,Nicholas,Confirmed,26/03/2020,Male,50 to 59,Waitematā,Yes,United States of America,null,null,19/03/2020
+FORMER,Nicolas,Confirmed,14/04/2020,Male,60 to 69,Counties Manukau,Yes,Australia,CHARTER MEL>AKL,12/04/2020,12/04/2020
+UPDATE,Nicolas,Confirmed,14/04/2020,Male,60 to 69,Counties Manukau,Yes,Australia,null,12/04/2020,12/04/2020
+FORMER,Chace,Confirmed,18/04/2020,Male,70+,Counties Manukau,Yes,Australia,CHARTERED FLIGHT,13/04/2020,13/04/2020
+UPDATE,Chace,Confirmed,18/04/2020,Male,70+,Counties Manukau,Yes,Australia,null,13/04/2020,13/04/2020
+FORMER,Storm,Confirmed,27/03/2020,null,40 to 49,Canterbury,Yes,United Kingdom,TG917,20/03/2020,22/03/2020
+UPDATE,Storm,Confirmed,27/03/2020,Female,40 to 49,Canterbury,Yes,United Kingdom,TG917,20/03/2020,22/03/2020
+FORMER,Elisabeth,Probable,17/04/2020,Female,30 to 39,Auckland,No,null,null,null,null
+UPDATE,Elisabeth,Probable,17/04/2020,Female,30 to 39,Counties Manukau,No,null,null,null,null
+FORMER,Neale,Confirmed,21/03/2020,Male,60 to 69,Nelson Marlborough,Yes,Australia,null,null,8/03/2020
+UPDATE,Neale,Confirmed,21/03/2020,Male,60 to 69,Nelson Marlborough,Yes,Australia,null,8/03/2020,8/03/2020
+FORMER,Cary,Confirmed,14/04/2020,Male,50 to 59,Counties Manukau,Yes,Australia,MFAT,12/04/2020,12/04/2020
+UPDATE,Cary,Confirmed,14/04/2020,Male,50 to 59,Counties Manukau,Yes,Australia,null,12/04/2020,12/04/2020
+FORMER,Rayan,Confirmed,06/04/2020,Male,30 to 39,Counties Manukau,Yes,United States of America,NZ29,31/03/2020,31/03/2020
+UPDATE,Rayan,Confirmed,06/04/2020,Male,30 to 39,Counties Manukau,Yes,United States of America,NZ29,30/03/2020,31/03/2020
+FORMER,Maui,Probable,11/04/2020,Male,40 to 49,Auckland,Yes,Qatar,null,null,31/03/2020
+UPDATE,Maui,Probable,11/04/2020,Male,40 to 49,Auckland,Yes,Qatar,QR920,29/03/2020,31/03/2020
+FORMER,Rylan,Confirmed,01/04/2020,Male,60 to 69,Waitematā,Yes,Australia,null,null,22/03/2020
+UPDATE,Rylan,Confirmed,01/04/2020,Male,60 to 69,Waitematā,Yes,Australia,NZ706,22/03/2020,22/03/2020
