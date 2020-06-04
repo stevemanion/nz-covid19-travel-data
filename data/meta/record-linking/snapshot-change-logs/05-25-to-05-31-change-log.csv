@@ -1,0 +1,25 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+FORMER,Caitlin,Confirmed,07/04/2020,Female,15 to 19,Hawke's Bay,No,null,null,null,null
+UPDATE,Caitlin,Confirmed,07/04/2020,Female,15 to 19,Hawke's Bay,No,null,NZ610,21/03/2020,null
+FORMER,Coralie,Confirmed,05/04/2020,Female,40 to 49,Counties Manukau,No,null,null,null,null
+UPDATE,Coralie,Confirmed,05/04/2020,Female,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Wade,Confirmed,02/04/2020,Male,60 to 69,Counties Manukau,No,null,null,null,null
+UPDATE,Wade,Confirmed,02/04/2020,Male,60 to 69,Counties Manukau,No,null,NZ5717,22/03/2020,null
+FORMER,Caius,Confirmed,08/04/2020,Male,40 to 49,Capital and Coast,Yes,Japan,null,null,28/03/2020
+UPDATE,Caius,Confirmed,08/04/2020,Male,40 to 49,Capital and Coast,Yes,Japan,NZ1919,null,28/03/2020
+FORMER,Shauna,Confirmed,03/04/2020,Female,15 to 19,Hawke's Bay,Yes,South Africa,null,null,27/03/2020
+UPDATE,Shauna,Confirmed,03/04/2020,Female,15 to 19,Hawke's Bay,Yes,South Africa,QR920,27/03/2020,27/03/2020
+FORMER,Lola,Probable,05/04/2020,Female,50 to 59,Counties Manukau,No,null,null,null,null
+UPDATE,Lola,Probable,05/04/2020,Female,50 to 59,Counties Manukau,No,null,NZ578,22/03/2020,null
+FORMER,Tricia,Confirmed,03/04/2020,Female,20 to 29,Hawke's Bay,Yes,South Africa,null,null,27/03/2020
+UPDATE,Tricia,Confirmed,03/04/2020,Female,20 to 29,Hawke's Bay,Yes,South Africa,QR920,27/03/2020,27/03/2020
+FORMER,Benedict,Confirmed,16/04/2020,Male,70+,Counties Manukau,Yes,Uruguay,null,null,12/04/2020
+UPDATE,Benedict,Confirmed,16/04/2020,Male,70+,Counties Manukau,Yes,Uruguay,REPAT FLIGHT FROM MELBOURNE,12/03/2020,12/04/2020
+FORMER,Hugo,Confirmed,01/04/2020,Male,60 to 69,Counties Manukau,No,null,null,null,null
+UPDATE,Hugo,Confirmed,01/04/2020,Male,60 to 69,Counties Manukau,No,null,NZ570,25/03/2020,null
+FORMER,Naia,Confirmed,01/04/2020,Female,60 to 69,Counties Manukau,No,null,null,null,null
+UPDATE,Naia,Confirmed,01/04/2020,Female,60 to 69,Counties Manukau,No,null,NZ570,25/03/2020,null
+FORMER,Lyndon,Confirmed,05/04/2020,Male,40 to 49,Counties Manukau,Yes,United States of America,null,null,25/03/2020
+UPDATE,Lyndon,Confirmed,05/04/2020,Male,40 to 49,Counties Manukau,Yes,United States of America,NZ1,23/03/2020,25/03/2020
+FORMER,Erena,Confirmed,31/03/2020,Female,30 to 39,Counties Manukau,No,null,null,null,null
+UPDATE,Erena,Confirmed,31/03/2020,Female,30 to 39,Counties Manukau,No,null,NZ409,19/03/2020,null
