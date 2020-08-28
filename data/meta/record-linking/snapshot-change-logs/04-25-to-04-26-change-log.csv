@@ -1,0 +1,486 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+INSERT,Corbin,Confirmed,26/04/2020,Male,40 to 49,Hawke's Bay,No,null,null,null,null
+INSERT,McKenna,Probable,25/04/2020,Female,40 to 49,Auckland,No,null,null,null,null
+INSERT,Rosaline,Probable,19/04/2020,Female,30 to 39,Waitematā,No,null,null,null,null
+INSERT,Carter,Probable,21/04/2020,Male,40 to 49,Counties Manukau,null,null,null,null,null
+INSERT,Brylee,Confirmed,25/04/2020,Female,50 to 59,Taranaki,Yes,France,NZ,15/03/2020,15/03/2020
+INSERT,Rhoda,Confirmed,23/04/2020,Female,20 to 29,Canterbury,Yes,Scotland,null,null,23/03/2020
+INSERT,Kirsten,Probable,21/04/2020,Female,30 to 39,Waikato,null,null,null,null,null
+INSERT,John,Confirmed,24/04/2020,Male,20 to 29,Canterbury,No,null,null,null,null
+INSERT,Huxley,Probable,25/04/2020,Male,20 to 29,Waikato,null,null,null,null,null
+INSERT,Denise,Probable,21/04/2020,Female,10 to 14,Counties Manukau,No,null,null,null,null
+DELETE,Sina,Probable,24/04/2020,Female,40 to 49,Waikato,null,null,null,null,null
+FORMER,Cullen,Confirmed,07/04/2020,Male,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Cullen,Confirmed,07/04/2020,Male,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Clayton,Confirmed,30/03/2020,Male,15 to 19,Waitemata,Yes,United Kingdom,EK448,23/03/2020,24/03/2020
+UPDATE,Clayton,Confirmed,30/03/2020,Male,15 to 19,Waitematā,Yes,United Kingdom,EK448,23/03/2020,24/03/2020
+FORMER,Campbell,Confirmed,16/03/2020,Male,70+,Waikato,Yes,Singapore,null,null,null
+UPDATE,Campbell,Confirmed,16/03/2020,Male,70+,Waikato,Yes,Singapore,null,null,15/03/2020
+FORMER,Layton,Confirmed,07/04/2020,Male,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Layton,Confirmed,07/04/2020,Male,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Arna,Probable,05/04/2020,Female,30 to 39,Waitemata,No,null,null,null,null
+UPDATE,Arna,Probable,05/04/2020,Female,30 to 39,Waitematā,No,null,null,null,null
+FORMER,Pyper,Confirmed,31/03/2020,Female,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Pyper,Confirmed,31/03/2020,Female,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Christa,Confirmed,10/04/2020,Female,70+,Waitemata,No,null,null,null,null
+UPDATE,Christa,Confirmed,10/04/2020,Female,70+,Waitematā,No,null,null,null,null
+FORMER,Leilani,Confirmed,22/03/2020,Female,20 to 29,Waitemata,Yes,United Arab Emirates,EK448,19/03/2020,19/03/2020
+UPDATE,Leilani,Confirmed,22/03/2020,Female,20 to 29,Waitematā,Yes,United Arab Emirates,EK448,19/03/2020,19/03/2020
+FORMER,Kaylee,Probable,17/04/2020,Female,20 to 29,Southern,Yes,Canada,NZ0023,21/03/2020,23/03/2020
+UPDATE,Kaylee,Probable,17/04/2020,Female,20 to 29,Southern,Yes,Canada,NZ23,21/03/2020,23/03/2020
+FORMER,Rafael,Confirmed,26/03/2020,Male,50 to 59,Tairawhiti,Yes,United States of America,NZ8161,20/03/2020,20/03/2020
+UPDATE,Rafael,Confirmed,26/03/2020,Male,50 to 59,Tairāwhiti,Yes,United States of America,NZ8161,20/03/2020,20/03/2020
+FORMER,Shayden,Confirmed,27/03/2020,Male,20 to 29,Waitemata,Yes,Japan,NZ90,25/03/2020,26/03/2020
+UPDATE,Shayden,Confirmed,27/03/2020,Male,20 to 29,Waitematā,Yes,Japan,NZ90,25/03/2020,26/03/2020
+FORMER,Jennie,Confirmed,28/03/2020,Female,10 to 14,Waitemata,No,null,null,null,null
+UPDATE,Jennie,Confirmed,28/03/2020,Female,10 to 14,Waitematā,No,null,null,null,null
+FORMER,Carmen,Confirmed,31/03/2020,Female,60 to 69,Waitemata,No,null,null,null,null
+UPDATE,Carmen,Confirmed,31/03/2020,Female,60 to 69,Waitematā,No,null,null,null,null
+FORMER,Hine,Confirmed,31/03/2020,Female,30 to 39,Waitemata,Yes,Indonesia,EK450,23/03/2020,23/03/2020
+UPDATE,Hine,Confirmed,31/03/2020,Female,30 to 39,Waitematā,Yes,Indonesia,EK450,23/03/2020,23/03/2020
+FORMER,Edie,Confirmed,29/03/2020,Female,50 to 59,Waitemata,Yes,United States of America,NZ1,24/03/2020,25/03/2020
+UPDATE,Edie,Confirmed,29/03/2020,Female,50 to 59,Waitematā,Yes,United States of America,NZ1,24/03/2020,25/03/2020
+FORMER,Aliya,Probable,13/04/2020,Female,15 to 19,Waitemata,No,null,null,null,null
+UPDATE,Aliya,Probable,13/04/2020,Female,15 to 19,Waitematā,No,null,null,null,null
+FORMER,Emelia,Confirmed,20/03/2020,Female,30 to 39,Waitemata,Yes,United States of America,AA83,13/03/2020,14/03/2020
+UPDATE,Emelia,Confirmed,20/03/2020,Female,30 to 39,Waitematā,Yes,United States of America,AA83,13/03/2020,14/03/2020
+FORMER,Leanne,Confirmed,11/04/2020,Female,30 to 39,Waitemata,Yes,Canada,AC51,23/03/2020,25/03/2020
+UPDATE,Leanne,Confirmed,11/04/2020,Female,30 to 39,Waitematā,Yes,Canada,AC51,23/03/2020,25/03/2020
+FORMER,Donald,Probable,04/04/2020,Male,20 to 29,Waitemata,Yes,United States of America,null,null,18/03/2020
+UPDATE,Donald,Probable,04/04/2020,Male,20 to 29,Waitematā,Yes,United States of America,null,null,18/03/2020
+FORMER,Belle,Confirmed,01/04/2020,Female,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Belle,Confirmed,01/04/2020,Female,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Dayton,Probable,18/04/2020,Male,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Dayton,Probable,18/04/2020,Male,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Nelson,Probable,02/04/2020,Male,40 to 49,Waitemata,Yes,United States of America,null,null,11/03/2020
+UPDATE,Nelson,Probable,02/04/2020,Male,40 to 49,Waitematā,Yes,United States of America,null,null,11/03/2020
+FORMER,Sasha,Confirmed,24/03/2020,Female,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Sasha,Confirmed,24/03/2020,Female,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Delta,Confirmed,29/03/2020,Female,20 to 29,Waitemata,Yes,Chile,LA801,19/03/2020,20/03/2020
+UPDATE,Delta,Confirmed,29/03/2020,Female,20 to 29,Waitematā,Yes,Chile,LA801,19/03/2020,20/03/2020
+FORMER,Mellissa,Confirmed,08/04/2020,Female,20 to 29,Waitemata,Yes,Canada,NZ23,null,23/03/2020
+UPDATE,Mellissa,Confirmed,08/04/2020,Female,20 to 29,Waitematā,Yes,Canada,NZ23,null,23/03/2020
+FORMER,Maureen,Probable,06/04/2020,Female,15 to 19,Waikato,null,null,null,null,null
+UPDATE,Maureen,Probable,06/04/2020,Female,15 to 19,Waikato,No,null,null,null,null
+FORMER,Clint,Confirmed,04/03/2020,Male,40 to 49,Waitemata,Yes,Singapore,NZ283,25/02/2020,26/02/2020
+UPDATE,Clint,Confirmed,04/03/2020,Male,40 to 49,Waitematā,Yes,Singapore,NZ283,25/02/2020,26/02/2020
+FORMER,Maurice,Probable,05/04/2020,Male,10 to 14,Waitemata,No,null,null,null,null
+UPDATE,Maurice,Probable,05/04/2020,Male,10 to 14,Waitematā,No,null,null,null,null
+FORMER,Portia,Confirmed,16/04/2020,Female,70+,Waitemata,No,null,null,null,null
+UPDATE,Portia,Confirmed,16/04/2020,Female,70+,Waitematā,No,null,null,null,null
+FORMER,Enid,Confirmed,02/04/2020,Female,50 to 59,Waitemata,Yes,United Arab Emirates,EK448,20/03/2020,21/03/2020
+UPDATE,Enid,Confirmed,02/04/2020,Female,50 to 59,Waitematā,Yes,United Arab Emirates,EK448,20/03/2020,21/03/2020
+FORMER,Nash,Probable,01/04/2020,Male,60 to 69,Waitemata,No,null,null,null,null
+UPDATE,Nash,Probable,01/04/2020,Male,60 to 69,Waitematā,No,null,null,null,null
+FORMER,Loraine,Confirmed,31/03/2020,Female,20 to 29,Waitemata,Yes,United Kingdom,EK448,20/03/2020,21/03/2020
+UPDATE,Loraine,Confirmed,31/03/2020,Female,20 to 29,Waitematā,Yes,United Kingdom,EK448,20/03/2020,21/03/2020
+FORMER,Ronald,Confirmed,31/03/2020,Male,40 to 49,Waitemata,Yes,United Arab Emirates,EK448,22/03/2020,22/03/2020
+UPDATE,Ronald,Confirmed,31/03/2020,Male,40 to 49,Waitematā,Yes,United Arab Emirates,EK448,22/03/2020,22/03/2020
+FORMER,Nickolas,Probable,31/03/2020,Male,20 to 29,Waitemata,Yes,Australia,QF143,18/03/2020,18/03/2020
+UPDATE,Nickolas,Probable,31/03/2020,Male,20 to 29,Waitematā,Yes,Australia,QF143,18/03/2020,18/03/2020
+FORMER,Annemarie,Probable,02/04/2020,Female,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Annemarie,Probable,02/04/2020,Female,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Finn,Confirmed,04/04/2020,Male,60 to 69,Waitemata,Yes,Australia,null,null,20/03/2020
+UPDATE,Finn,Confirmed,04/04/2020,Male,60 to 69,Waitematā,Yes,Australia,null,null,20/03/2020
+FORMER,Arjun,Probable,23/04/2020,Male,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Arjun,Probable,23/04/2020,Male,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Devlin,Confirmed,12/04/2020,Male,60 to 69,Waitemata,Yes,Qatar,QR920,28/03/2020,29/03/2020
+UPDATE,Devlin,Confirmed,12/04/2020,Male,60 to 69,Waitematā,Yes,Qatar,QR920,28/03/2020,29/03/2020
+FORMER,Kate,Confirmed,29/03/2020,Female,15 to 19,Waitemata,No,null,null,null,null
+UPDATE,Kate,Confirmed,29/03/2020,Female,15 to 19,Waitematā,No,null,null,null,null
+FORMER,Meegan,Probable,04/04/2020,Female,20 to 29,Waitemata,Yes,Australia,QF141,18/03/2020,18/03/2020
+UPDATE,Meegan,Probable,04/04/2020,Female,20 to 29,Waitematā,Yes,Australia,QF141,18/03/2020,18/03/2020
+FORMER,Kruz,Confirmed,03/04/2020,Male,50 to 59,Waitemata,Yes,United States of America,NZ9,28/03/2020,30/03/2020
+UPDATE,Kruz,Confirmed,03/04/2020,Male,50 to 59,Waitematā,Yes,United States of America,NZ9,28/03/2020,30/03/2020
+FORMER,Caine,Confirmed,29/03/2020,Male,20 to 29,Waitemata,Yes,United Arab Emirates,EK448,20/03/2020,21/03/2020
+UPDATE,Caine,Confirmed,29/03/2020,Male,20 to 29,Waitematā,Yes,United Arab Emirates,EK448,20/03/2020,21/03/2020
+FORMER,Jeanne,Confirmed,18/04/2020,Female,30 to 39,Waitemata,No,null,null,null,null
+UPDATE,Jeanne,Confirmed,18/04/2020,Female,30 to 39,Waitematā,No,null,null,null,null
+FORMER,Claude,Confirmed,25/03/2020,Male,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Claude,Confirmed,25/03/2020,Male,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Clark,Probable,30/03/2020,Male,20 to 29,Waitemata,Yes,Australia,QF143,18/03/2020,18/03/2020
+UPDATE,Clark,Probable,30/03/2020,Male,20 to 29,Waitematā,Yes,Australia,QF143,18/03/2020,18/03/2020
+FORMER,Willow,Confirmed,23/03/2020,Female,60 to 69,Waitemata,Yes,Australia,null,null,22/03/2020
+UPDATE,Willow,Confirmed,23/03/2020,Female,60 to 69,Waitematā,Yes,Australia,null,null,22/03/2020
+FORMER,Kym,Probable,05/04/2020,Female,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Kym,Probable,05/04/2020,Female,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Shane,Confirmed,28/03/2020,Male,40 to 49,Waitemata,Yes,United Kingdom,null,null,15/03/2020
+UPDATE,Shane,Confirmed,28/03/2020,Male,40 to 49,Waitematā,Yes,United Kingdom,null,null,15/03/2020
+FORMER,Flynn,Confirmed,05/04/2020,Male,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Flynn,Confirmed,05/04/2020,Male,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Reneé,Confirmed,22/03/2020,Female,40 to 49,Waitemata,Yes,United States of America,null,14/03/2020,16/03/2020
+UPDATE,Reneé,Confirmed,22/03/2020,Female,40 to 49,Waitematā,Yes,United States of America,null,14/03/2020,16/03/2020
+FORMER,Miah,Confirmed,19/04/2020,Female,60 to 69,Waitemata,Yes,Australia,null,null,13/04/2020
+UPDATE,Miah,Confirmed,19/04/2020,Female,60 to 69,Waitematā,Yes,Australia,null,null,13/04/2020
+FORMER,Skylar,Confirmed,18/03/2020,Female,50 to 59,Auckland,No,null,null,4/03/2020,null
+UPDATE,Skylar,Confirmed,18/03/2020,Female,50 to 59,Auckland,No,null,NZ,4/03/2020,null
+FORMER,Indy,Confirmed,08/04/2020,Female,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Indy,Confirmed,08/04/2020,Female,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Hilda,Confirmed,04/04/2020,Female,10 to 14,Waitemata,No,null,null,null,null
+UPDATE,Hilda,Confirmed,04/04/2020,Female,10 to 14,Waitematā,No,null,null,null,null
+FORMER,Fletcher,Probable,07/04/2020,Male,20 to 29,Waitemata,Yes,United Arab Emirates,null,null,24/03/2020
+UPDATE,Fletcher,Probable,07/04/2020,Male,20 to 29,Waitematā,Yes,United Arab Emirates,null,null,24/03/2020
+FORMER,Clara,Confirmed,25/03/2020,Female,20 to 29,Waitemata,Yes,United States of America,NZ29,20/03/2020,22/03/2020
+UPDATE,Clara,Confirmed,25/03/2020,Female,20 to 29,Waitematā,Yes,United States of America,NZ29,20/03/2020,22/03/2020
+FORMER,Mana,Probable,04/04/2020,Male,30 to 39,Waitemata,No,null,null,null,null
+UPDATE,Mana,Probable,04/04/2020,Male,30 to 39,Waitematā,No,null,null,null,null
+FORMER,Anna,Confirmed,11/04/2020,Female,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Anna,Confirmed,11/04/2020,Female,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Christine,Probable,04/04/2020,Female,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Christine,Probable,04/04/2020,Female,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Doreen,Confirmed,29/03/2020,Female,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Doreen,Confirmed,29/03/2020,Female,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Hendrix,Confirmed,03/04/2020,Male,60 to 69,Waitemata,No,null,null,null,null
+UPDATE,Hendrix,Confirmed,03/04/2020,Male,60 to 69,Waitematā,No,null,null,null,null
+FORMER,Nancy,Confirmed,02/03/2020,Female,30 to 39,Waitemata,Yes,Singapore,NZ283,25/02/2020,26/02/2020
+UPDATE,Nancy,Confirmed,02/03/2020,Female,30 to 39,Waitematā,Yes,Singapore,NZ283,25/02/2020,26/02/2020
+FORMER,Sean,Probable,10/04/2020,Male,30 to 39,Waitemata,No,null,null,null,null
+UPDATE,Sean,Probable,10/04/2020,Male,30 to 39,Waitematā,No,null,null,null,null
+FORMER,Coralie,Confirmed,05/04/2020,Female,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Coralie,Confirmed,05/04/2020,Female,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Fred,Confirmed,03/04/2020,Male,30 to 39,Hawke's Bay,Yes,Singapore,null,null,19/03/2020
+UPDATE,Fred,Confirmed,03/04/2020,Male,30 to 39,Hawke's Bay,Yes,Singapore,NZ5021,19/03/2020,19/03/2020
+FORMER,Pania,Probable,26/03/2020,Female,60 to 69,Waitemata,Yes,Indonesia,null,null,15/03/2020
+UPDATE,Pania,Probable,26/03/2020,Female,60 to 69,Waitematā,Yes,Indonesia,null,null,15/03/2020
+FORMER,Bryony,Confirmed,21/03/2020,Female,60 to 69,Waitemata,No,null,null,null,null
+UPDATE,Bryony,Confirmed,21/03/2020,Female,60 to 69,Waitematā,No,null,null,null,null
+FORMER,Lyla,Probable,25/03/2020,Female,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Lyla,Probable,25/03/2020,Female,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Roger,Confirmed,29/03/2020,Male,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Roger,Confirmed,29/03/2020,Male,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Gemma,Probable,16/04/2020,Female,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Gemma,Probable,16/04/2020,Female,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Wilfrid,Confirmed,12/04/2020,Male,60 to 69,Waitemata,No,null,null,null,null
+UPDATE,Wilfrid,Confirmed,12/04/2020,Male,60 to 69,Waitematā,No,null,null,null,null
+FORMER,Emmeline,Confirmed,30/03/2020,Female,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Emmeline,Confirmed,30/03/2020,Female,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Joycelyn,Confirmed,29/03/2020,Female,60 to 69,Waitemata,Yes,Qatar,null,null,19/03/2020
+UPDATE,Joycelyn,Confirmed,29/03/2020,Female,60 to 69,Waitematā,Yes,Qatar,null,null,19/03/2020
+FORMER,Basil,Confirmed,31/03/2020,Male,10 to 14,Waitemata,No,null,null,null,null
+UPDATE,Basil,Confirmed,31/03/2020,Male,10 to 14,Waitematā,No,null,null,null,null
+FORMER,Kobe,Confirmed,04/04/2020,Male,50 to 59,Waitemata,Yes,United States of America,NZ1,25/03/2020,25/03/2020
+UPDATE,Kobe,Confirmed,04/04/2020,Male,50 to 59,Waitematā,Yes,United States of America,NZ1,25/03/2020,25/03/2020
+FORMER,Vivien,Probable,13/04/2020,Female,15 to 19,Waitemata,No,null,null,null,null
+UPDATE,Vivien,Probable,13/04/2020,Female,15 to 19,Waitematā,No,null,null,null,null
+FORMER,Lauren,Confirmed,28/03/2020,Female,15 to 19,Waitemata,No,null,null,null,null
+UPDATE,Lauren,Confirmed,28/03/2020,Female,15 to 19,Waitematā,No,null,null,null,null
+FORMER,Gurfateh,Confirmed,07/04/2020,Male,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Gurfateh,Confirmed,07/04/2020,Male,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Laura,Confirmed,31/03/2020,Female,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Laura,Confirmed,31/03/2020,Female,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Kirby,Confirmed,07/04/2020,Female,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Kirby,Confirmed,07/04/2020,Female,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Soul,Probable,02/04/2020,Male,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Soul,Probable,02/04/2020,Male,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Cleo,Confirmed,30/03/2020,Female,70+,Waitemata,Yes,Qatar,QR920,23/03/2020,24/03/2020
+UPDATE,Cleo,Confirmed,30/03/2020,Female,70+,Waitematā,Yes,Qatar,QR920,23/03/2020,24/03/2020
+FORMER,Meera,Probable,29/03/2020,Female,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Meera,Probable,29/03/2020,Female,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Tylah,Confirmed,09/04/2020,Female,10 to 14,Waitemata,No,null,null,null,null
+UPDATE,Tylah,Confirmed,09/04/2020,Female,10 to 14,Waitematā,No,null,null,null,null
+FORMER,Dionne,Confirmed,28/03/2020,Female,10 to 14,Waitemata,No,null,null,null,null
+UPDATE,Dionne,Confirmed,28/03/2020,Female,10 to 14,Waitematā,No,null,null,null,null
+FORMER,Avah,Confirmed,04/04/2020,Female,20 to 29,MidCentral,No,null,null,null,null
+UPDATE,Avah,Confirmed,04/04/2020,Female,20 to 29,MidCentral,No,null,NZ602,21/03/2020,null
+FORMER,Arnav,Probable,31/03/2020,Male,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Arnav,Probable,31/03/2020,Male,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Antonio,Confirmed,02/04/2020,Male,20 to 29,Waitemata,Yes,United States of America,QF143,18/03/2020,18/03/2020
+UPDATE,Antonio,Confirmed,02/04/2020,Male,20 to 29,Waitematā,Yes,United States of America,QF143,18/03/2020,18/03/2020
+FORMER,Ethan,Confirmed,25/03/2020,Male,70+,Waitemata,Yes,Australia,null,null,20/03/2020
+UPDATE,Ethan,Confirmed,25/03/2020,Male,70+,Waitematā,Yes,Australia,null,null,20/03/2020
+FORMER,Johnson,Confirmed,05/04/2020,Male,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Johnson,Confirmed,05/04/2020,Male,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Michaela,Probable,13/04/2020,Female,70+,Waitemata,No,null,null,null,null
+UPDATE,Michaela,Probable,13/04/2020,Female,70+,Waitematā,No,null,null,null,null
+FORMER,Jude,Probable,02/04/2020,Male,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Jude,Probable,02/04/2020,Male,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Katherine,Confirmed,28/03/2020,Female,20 to 29,Waitemata,Yes,United Arab Emirates,EK448,23/03/2020,24/03/2020
+UPDATE,Katherine,Confirmed,28/03/2020,Female,20 to 29,Waitematā,Yes,United Arab Emirates,EK448,23/03/2020,24/03/2020
+FORMER,Robina,Confirmed,26/03/2020,Female,20 to 29,Waitemata,Yes,Malaysia,MH133,19/03/2020,19/03/2020
+UPDATE,Robina,Confirmed,26/03/2020,Female,20 to 29,Waitematā,Yes,Malaysia,MH133,19/03/2020,19/03/2020
+FORMER,Benson,Confirmed,11/04/2020,Male,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Benson,Confirmed,11/04/2020,Male,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Scarlet,Confirmed,28/03/2020,Female,15 to 19,Waitemata,No,null,null,null,null
+UPDATE,Scarlet,Confirmed,28/03/2020,Female,15 to 19,Waitematā,No,null,null,null,null
+FORMER,Clementine,Confirmed,24/03/2020,Female,30 to 39,Waitemata,Yes,New Zealand,EK448,21/03/2020,23/03/2020
+UPDATE,Clementine,Confirmed,24/03/2020,Female,30 to 39,Waitematā,Yes,New Zealand,EK448,21/03/2020,23/03/2020
+FORMER,Curtis,Confirmed,23/04/2020,Male,20 to 29,Waitemata,Yes,Qatar,QR920,31/03/2020,31/03/2020
+UPDATE,Curtis,Confirmed,23/04/2020,Male,20 to 29,Waitematā,Yes,Qatar,QR920,31/03/2020,31/03/2020
+FORMER,Kaden,Confirmed,29/03/2020,Male,15 to 19,Waitemata,No,null,null,null,null
+UPDATE,Kaden,Confirmed,29/03/2020,Male,15 to 19,Waitematā,No,null,null,null,null
+FORMER,Anthony,Confirmed,22/03/2020,Male,30 to 39,Waitemata,Yes,United States of America,NZ5,17/03/2020,18/03/2020
+UPDATE,Anthony,Confirmed,22/03/2020,Male,30 to 39,Waitematā,Yes,United States of America,NZ5,17/03/2020,18/03/2020
+FORMER,Ryley,Probable,11/04/2020,Male,5 to 9,Waitemata,No,null,null,null,null
+UPDATE,Ryley,Probable,11/04/2020,Male,5 to 9,Waitematā,No,null,null,null,null
+FORMER,Kingsley,Confirmed,03/04/2020,Male,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Kingsley,Confirmed,03/04/2020,Male,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Valarie,Confirmed,28/03/2020,Female,20 to 29,Waitemata,Yes,United Arab Emirates,EK448,23/03/2020,24/03/2020
+UPDATE,Valarie,Confirmed,28/03/2020,Female,20 to 29,Waitematā,Yes,United Arab Emirates,EK448,23/03/2020,24/03/2020
+FORMER,Malcolm,Confirmed,02/04/2020,Male,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Malcolm,Confirmed,02/04/2020,Male,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Eleanor,Confirmed,16/04/2020,Female,70+,Waitemata,No,null,null,null,null
+UPDATE,Eleanor,Confirmed,16/04/2020,Female,70+,Waitematā,No,null,null,null,null
+FORMER,Amelia,Confirmed,08/04/2020,Female,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Amelia,Confirmed,08/04/2020,Female,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Leia,Probable,13/04/2020,Female,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Leia,Probable,13/04/2020,Female,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Clinton,Confirmed,02/04/2020,Male,60 to 69,Waitemata,No,null,null,null,null
+UPDATE,Clinton,Confirmed,02/04/2020,Male,60 to 69,Waitematā,No,null,null,null,null
+FORMER,Nyla,Confirmed,29/03/2020,Female,15 to 19,Waitemata,No,null,null,null,null
+UPDATE,Nyla,Confirmed,29/03/2020,Female,15 to 19,Waitematā,No,null,null,null,null
+FORMER,Jed,Probable,05/04/2020,Male,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Jed,Probable,05/04/2020,Male,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Ailsa,Confirmed,26/03/2020,Female,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Ailsa,Confirmed,26/03/2020,Female,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Nina,Confirmed,10/04/2020,Female,20 to 29,Waitemata,Yes,United Kingdom,EK448,23/03/2020,25/03/2020
+UPDATE,Nina,Confirmed,10/04/2020,Female,20 to 29,Waitematā,Yes,United Kingdom,EK448,23/03/2020,25/03/2020
+FORMER,Edwina,Confirmed,03/04/2020,Female,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Edwina,Confirmed,03/04/2020,Female,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Cadence,Confirmed,01/04/2020,Female,30 to 39,Waitemata,Yes,United Kingdom,EK450,23/03/2020,24/03/2020
+UPDATE,Cadence,Confirmed,01/04/2020,Female,30 to 39,Waitematā,Yes,United Kingdom,EK450,23/03/2020,24/03/2020
+FORMER,Kezia,Confirmed,28/03/2020,Female,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Kezia,Confirmed,28/03/2020,Female,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Miya,Probable,08/04/2020,Female,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Miya,Probable,08/04/2020,Female,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Yvonne,Confirmed,08/04/2020,Female,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Yvonne,Confirmed,08/04/2020,Female,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Te Ariki,Confirmed,29/03/2020,Male,15 to 19,Waitemata,No,null,null,null,null
+UPDATE,Te Ariki,Confirmed,29/03/2020,Male,15 to 19,Waitematā,No,null,null,null,null
+FORMER,Ewen,Confirmed,13/04/2020,Male,70+,Waitemata,No,null,null,null,null
+UPDATE,Ewen,Confirmed,13/04/2020,Male,70+,Waitematā,No,null,null,null,null
+FORMER,Gia,Confirmed,01/04/2020,Female,20 to 29,Waitemata,Yes,Australia,QF143,17/03/2020,17/04/2020
+UPDATE,Gia,Confirmed,01/04/2020,Female,20 to 29,Waitematā,Yes,Australia,QF143,17/03/2020,17/04/2020
+FORMER,Amanda,Confirmed,25/03/2020,Female,30 to 39,Waitemata,No,null,null,null,null
+UPDATE,Amanda,Confirmed,25/03/2020,Female,30 to 39,Waitematā,No,null,null,null,null
+FORMER,Kathryn,Probable,06/04/2020,Female,30 to 39,Waitemata,No,null,null,null,null
+UPDATE,Kathryn,Probable,06/04/2020,Female,30 to 39,Waitematā,No,null,null,null,null
+FORMER,Edward,Probable,13/04/2020,Male,10 to 14,Waitemata,No,null,null,null,null
+UPDATE,Edward,Probable,13/04/2020,Male,10 to 14,Waitematā,No,null,null,null,null
+FORMER,Dillan,Probable,01/04/2020,Male,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Dillan,Probable,01/04/2020,Male,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Joffre,Probable,30/03/2020,Male,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Joffre,Probable,30/03/2020,Male,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Sonia,Confirmed,26/03/2020,Female,40 to 49,Waitemata,Yes,United States of America,NZ1,23/03/2020,25/03/2020
+UPDATE,Sonia,Confirmed,26/03/2020,Female,40 to 49,Waitematā,Yes,United States of America,NZ1,23/03/2020,25/03/2020
+FORMER,Karin,Confirmed,10/04/2020,Female,70+,Waitemata,No,null,null,null,null
+UPDATE,Karin,Confirmed,10/04/2020,Female,70+,Waitematā,No,null,null,null,null
+FORMER,Freya,Confirmed,28/03/2020,Female,20 to 29,Waitemata,Yes,United States of America,null,null,19/03/2020
+UPDATE,Freya,Confirmed,28/03/2020,Female,20 to 29,Waitematā,Yes,United States of America,null,null,19/03/2020
+FORMER,Diana,Probable,24/03/2020,Female,15 to 19,Waitemata,No,null,null,null,null
+UPDATE,Diana,Probable,24/03/2020,Female,15 to 19,Waitematā,No,null,null,null,null
+FORMER,Kyra,Confirmed,24/03/2020,Female,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Kyra,Confirmed,24/03/2020,Female,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Corina,Probable,10/04/2020,Female,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Corina,Probable,10/04/2020,Female,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Alan,Confirmed,01/04/2020,Male,60 to 69,Waitemata,No,null,null,null,null
+UPDATE,Alan,Confirmed,01/04/2020,Male,60 to 69,Waitematā,No,null,null,null,null
+FORMER,Koa,Confirmed,07/04/2020,Male,20 to 29,Waitemata,Yes,Indonesia,null,null,23/03/2020
+UPDATE,Koa,Confirmed,07/04/2020,Male,20 to 29,Waitematā,Yes,Indonesia,null,null,23/03/2020
+FORMER,Eseta,Probable,04/04/2020,Female,15 to 19,Waitemata,No,null,null,null,null
+UPDATE,Eseta,Probable,04/04/2020,Female,15 to 19,Waitematā,No,null,null,null,null
+FORMER,Blanche,Probable,18/04/2020,Female,5 to 9,Waitemata,No,null,null,null,null
+UPDATE,Blanche,Probable,18/04/2020,Female,5 to 9,Waitematā,No,null,null,null,null
+FORMER,Tevita,Confirmed,24/03/2020,Male,20 to 29,Waitemata,Yes,United Arab Emirates,EK448,20/03/2020,21/03/2020
+UPDATE,Tevita,Confirmed,24/03/2020,Male,20 to 29,Waitematā,Yes,United Arab Emirates,EK448,20/03/2020,21/03/2020
+FORMER,Ayla,Confirmed,31/03/2020,Female,40 to 49,Waikato,null,null,null,null,null
+UPDATE,Ayla,Confirmed,31/03/2020,Female,40 to 49,Waikato,No,null,null,null,null
+FORMER,Duane,Confirmed,22/03/2020,Male,20 to 29,Waitemata,Yes,United States of America,QF143,18/03/2020,18/03/2020
+UPDATE,Duane,Confirmed,22/03/2020,Male,20 to 29,Waitematā,Yes,United States of America,QF143,18/03/2020,18/03/2020
+FORMER,Navy,Confirmed,30/03/2020,Female,20 to 29,Waitemata,Yes,Chile,LA801,17/03/2020,20/03/2020
+UPDATE,Navy,Confirmed,30/03/2020,Female,20 to 29,Waitematā,Yes,Chile,LA801,17/03/2020,20/03/2020
+FORMER,Sade,Confirmed,05/04/2020,Female,30 to 39,Waitemata,No,null,null,null,null
+UPDATE,Sade,Confirmed,05/04/2020,Female,30 to 39,Waitematā,No,null,null,null,null
+FORMER,Moesha,Confirmed,09/04/2020,Female,10 to 14,Waitemata,No,null,null,null,null
+UPDATE,Moesha,Confirmed,09/04/2020,Female,10 to 14,Waitematā,No,null,null,null,null
+FORMER,Ernest,Probable,02/04/2020,Male,30 to 39,Waitemata,Yes,United States of America,QF143,null,18/03/2020
+UPDATE,Ernest,Probable,02/04/2020,Male,30 to 39,Waitematā,Yes,United States of America,QF143,null,18/03/2020
+FORMER,Daryn,Probable,04/04/2020,Male,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Daryn,Probable,04/04/2020,Male,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Ewan,Confirmed,23/03/2020,Male,50 to 59,Nelson Marlborough,Yes,Australia,null,null,19/03/2020
+UPDATE,Ewan,Confirmed,23/03/2020,Male,50 to 59,Nelson Marlborough,Yes,Australia,PILOT?,null,19/03/2020
+FORMER,Chanel,Confirmed,24/03/2020,Female,20 to 29,Waitemata,Yes,United States of America,NZ8,17/03/2020,19/03/2020
+UPDATE,Chanel,Confirmed,24/03/2020,Female,20 to 29,Waitematā,Yes,United States of America,NZ8,17/03/2020,19/03/2020
+FORMER,Zoë,Confirmed,14/04/2020,Female,40 to 49,Tairawhiti,No,null,null,null,null
+UPDATE,Zoë,Confirmed,14/04/2020,Female,40 to 49,Tairāwhiti,No,null,null,null,null
+FORMER,Tanisha,Confirmed,01/04/2020,Female,15 to 19,Waitemata,No,null,null,null,null
+UPDATE,Tanisha,Confirmed,01/04/2020,Female,15 to 19,Waitematā,No,null,null,null,null
+FORMER,Lucan,Confirmed,24/03/2020,Male,60 to 69,Waitemata,Yes,Argentina,NZ31,15/03/2020,17/03/2020
+UPDATE,Lucan,Confirmed,24/03/2020,Male,60 to 69,Waitematā,Yes,Argentina,NZ31,15/03/2020,17/03/2020
+FORMER,Coral,Probable,29/03/2020,Female,70+,Waitemata,Yes,Australia,null,null,20/03/2020
+UPDATE,Coral,Probable,29/03/2020,Female,70+,Waitematā,Yes,Australia,null,null,20/03/2020
+FORMER,Fabian,Confirmed,17/03/2020,Male,60 to 69,Waitemata,Yes,Canada,null,null,12/03/2020
+UPDATE,Fabian,Confirmed,17/03/2020,Male,60 to 69,Waitematā,Yes,Canada,null,null,12/03/2020
+FORMER,Kayla,Probable,04/04/2020,Female,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Kayla,Probable,04/04/2020,Female,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Marama,Confirmed,24/04/2020,Female,60 to 69,Waitemata,No,null,null,null,null
+UPDATE,Marama,Confirmed,24/04/2020,Female,60 to 69,Waitematā,No,null,null,null,null
+FORMER,Daren,Probable,01/04/2020,Male,20 to 29,Waitemata,Yes,Australia,null,null,18/03/2020
+UPDATE,Daren,Probable,01/04/2020,Male,20 to 29,Waitematā,Yes,Australia,null,null,18/03/2020
+FORMER,Angelique,Confirmed,24/03/2020,Female,30 to 39,Waitemata,No,null,null,null,null
+UPDATE,Angelique,Confirmed,24/03/2020,Female,30 to 39,Waitematā,No,null,null,null,null
+FORMER,Gillian,Confirmed,22/03/2020,Female,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Gillian,Confirmed,22/03/2020,Female,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Carolyn,Confirmed,31/03/2020,Female,10 to 14,Waitemata,No,null,null,null,null
+UPDATE,Carolyn,Confirmed,31/03/2020,Female,10 to 14,Waitematā,No,null,null,null,null
+FORMER,Ali,Probable,02/04/2020,Male,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Ali,Probable,02/04/2020,Male,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Rhythm,Confirmed,27/03/2020,Male,30 to 39,Waitemata,Yes,United States of America,null,null,16/03/2020
+UPDATE,Rhythm,Confirmed,27/03/2020,Male,30 to 39,Waitematā,Yes,United States of America,null,null,16/03/2020
+FORMER,Bobby,Confirmed,03/04/2020,Male,60 to 69,Waitemata,Yes,United States of America,NZ1,25/03/2020,25/03/2020
+UPDATE,Bobby,Confirmed,03/04/2020,Male,60 to 69,Waitematā,Yes,United States of America,NZ1,25/03/2020,25/03/2020
+FORMER,Breana,Probable,26/03/2020,Female,5 to 9,Waitemata,No,null,null,null,null
+UPDATE,Breana,Probable,26/03/2020,Female,5 to 9,Waitematā,No,null,null,null,null
+FORMER,Alana,Confirmed,30/03/2020,Female,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Alana,Confirmed,30/03/2020,Female,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Sharyn,Confirmed,15/03/2020,Female,40 to 49,Waitemata,Yes,Portugal,null,null,8/03/2020
+UPDATE,Sharyn,Confirmed,15/03/2020,Female,40 to 49,Waitematā,Yes,Portugal,null,null,8/03/2020
+FORMER,Zephyr,Confirmed,01/04/2020,Male,30 to 39,Waitemata,Yes,United States of America,NZ5,17/03/2020,19/03/2020
+UPDATE,Zephyr,Confirmed,01/04/2020,Male,30 to 39,Waitematā,Yes,United States of America,NZ5,17/03/2020,19/03/2020
+FORMER,Vilma,Probable,18/04/2020,Female,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Vilma,Probable,18/04/2020,Female,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Genna,Confirmed,23/03/2020,Female,30 to 39,Waitemata,No,null,null,null,null
+UPDATE,Genna,Confirmed,23/03/2020,Female,30 to 39,Waitematā,No,null,null,null,null
+FORMER,Georgie,Confirmed,25/03/2020,Female,60 to 69,Waitemata,Yes,Argentina,NZ31,15/03/2020,17/03/2020
+UPDATE,Georgie,Confirmed,25/03/2020,Female,60 to 69,Waitematā,Yes,Argentina,NZ31,15/03/2020,17/03/2020
+FORMER,Raewyne,Confirmed,16/04/2020,Female,70+,Waitemata,No,null,null,null,null
+UPDATE,Raewyne,Confirmed,16/04/2020,Female,70+,Waitematā,No,null,null,null,null
+FORMER,Kyah,Confirmed,28/03/2020,Female,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Kyah,Confirmed,28/03/2020,Female,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Daniel,Probable,27/03/2020,Male,20 to 29,Waitemata,Yes,Malaysia,MH133,19/03/2020,19/03/2020
+UPDATE,Daniel,Probable,27/03/2020,Male,20 to 29,Waitematā,Yes,Malaysia,MH133,19/03/2020,19/03/2020
+FORMER,Kieran,Confirmed,26/03/2020,Male,50 to 59,Waitemata,Yes,United States of America,NZ409,19/03/2020,19/03/2020
+UPDATE,Kieran,Confirmed,26/03/2020,Male,50 to 59,Waitematā,Yes,United States of America,NZ409,19/03/2020,19/03/2020
+FORMER,Grant,Probable,01/04/2020,Male,60 to 69,Waitemata,Yes,United Arab Emirates,EK448,20/03/2020,21/03/2020
+UPDATE,Grant,Probable,01/04/2020,Male,60 to 69,Waitematā,Yes,United Arab Emirates,EK448,20/03/2020,21/03/2020
+FORMER,Ben,Confirmed,04/04/2020,Male,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Ben,Confirmed,04/04/2020,Male,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Marlee,Confirmed,03/04/2020,Female,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Marlee,Confirmed,03/04/2020,Female,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Nanette,Confirmed,19/04/2020,Female,30 to 39,Bay of Plenty,null,null,null,null,null
+UPDATE,Nanette,Confirmed,19/04/2020,Female,30 to 39,Bay of Plenty,No,null,null,null,null
+FORMER,Maud,Probable,11/04/2020,Female,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Maud,Probable,11/04/2020,Female,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Noleen,Confirmed,15/04/2020,Female,70+,Waitemata,No,null,null,null,null
+UPDATE,Noleen,Confirmed,15/04/2020,Female,70+,Waitematā,No,null,null,null,null
+FORMER,Constance,Confirmed,01/04/2020,Female,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Constance,Confirmed,01/04/2020,Female,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Solomon,Confirmed,01/04/2020,Male,30 to 39,Waitemata,No,null,null,null,null
+UPDATE,Solomon,Confirmed,01/04/2020,Male,30 to 39,Waitematā,No,null,null,null,null
+FORMER,Valma,Confirmed,07/04/2020,Female,20 to 29,Waitemata,Yes,Australia,NZ102,28/03/2020,29/03/2020
+UPDATE,Valma,Confirmed,07/04/2020,Female,20 to 29,Waitematā,Yes,Australia,NZ102,28/03/2020,29/03/2020
+FORMER,Vera,Confirmed,12/04/2020,Female,30 to 39,Waitemata,No,null,null,null,null
+UPDATE,Vera,Confirmed,12/04/2020,Female,30 to 39,Waitematā,No,null,null,null,null
+FORMER,Taika,Confirmed,25/03/2020,Male,30 to 39,Waitemata,Yes,United Arab Emirates,EK448,16/03/2020,17/03/2020
+UPDATE,Taika,Confirmed,25/03/2020,Male,30 to 39,Waitematā,Yes,United Arab Emirates,EK448,16/03/2020,17/03/2020
+FORMER,Mervyn,Confirmed,28/03/2020,Male,70+,Waitemata,Yes,Australia,NZ104,18/03/2020,18/03/2020
+UPDATE,Mervyn,Confirmed,28/03/2020,Male,70+,Waitematā,Yes,Australia,NZ104,18/03/2020,18/03/2020
+FORMER,Carwyn,Probable,03/04/2020,Male,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Carwyn,Probable,03/04/2020,Male,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Chelsea,Confirmed,21/03/2020,Female,60 to 69,Waikato,Yes,Middle East,null,null,17/03/2020
+UPDATE,Chelsea,Confirmed,21/03/2020,Female,60 to 69,Waikato,Yes,Australia,null,null,17/03/2020
+FORMER,Sawyer,Probable,30/03/2020,Male,20 to 29,Waitemata,Yes,Chile,LA801,19/03/2020,20/03/2020
+UPDATE,Sawyer,Probable,30/03/2020,Male,20 to 29,Waitematā,Yes,Chile,LA801,19/03/2020,20/03/2020
+FORMER,Lakyn,Probable,04/04/2020,Male,10 to 14,Waitemata,No,null,null,null,null
+UPDATE,Lakyn,Probable,04/04/2020,Male,10 to 14,Waitematā,No,null,null,null,null
+FORMER,Winston,Confirmed,25/03/2020,Male,50 to 59,Waitemata,Yes,Indonesia,FEK450,13/03/2020,15/03/2020
+UPDATE,Winston,Confirmed,25/03/2020,Male,50 to 59,Waitematā,Yes,Indonesia,FEK450,13/03/2020,15/03/2020
+FORMER,Garry,Confirmed,20/03/2020,Male,70+,Waitemata,No,null,null,null,null
+UPDATE,Garry,Confirmed,20/03/2020,Male,70+,Waitematā,No,null,null,null,null
+FORMER,McKenzie,Probable,01/04/2020,Female,20 to 29,Waitemata,Yes,United Arab Emirates,EK448,20/03/2020,21/03/2020
+UPDATE,McKenzie,Probable,01/04/2020,Female,20 to 29,Waitematā,Yes,United Arab Emirates,EK448,20/03/2020,21/03/2020
+FORMER,Ava,Probable,11/04/2020,Female,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Ava,Probable,11/04/2020,Female,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Joanna,Confirmed,24/03/2020,Female,15 to 19,Waitemata,Yes,United States of America,NZ29,16/03/2020,18/03/2020
+UPDATE,Joanna,Confirmed,24/03/2020,Female,15 to 19,Waitematā,Yes,United States of America,NZ29,16/03/2020,18/03/2020
+FORMER,Emily,Confirmed,23/03/2020,Female,15 to 19,Auckland,Yes,Australia,QF0141,19/03/2020,21/03/2020
+UPDATE,Emily,Confirmed,23/03/2020,Female,15 to 19,Auckland,Yes,Australia,QF141,19/03/2020,21/03/2020
+FORMER,Conan,Confirmed,29/03/2020,Male,20 to 29,Waitemata,Yes,Qatar,QR920,20/03/2020,22/03/2020
+UPDATE,Conan,Confirmed,29/03/2020,Male,20 to 29,Waitematā,Yes,Qatar,QR920,20/03/2020,22/03/2020
+FORMER,Jaydah,Probable,02/04/2020,Female,15 to 19,Waitemata,No,null,null,null,null
+UPDATE,Jaydah,Probable,02/04/2020,Female,15 to 19,Waitematā,No,null,null,null,null
+FORMER,Jordis,Probable,26/03/2020,Female,60 to 69,Waitemata,Yes,United States of America,NZ5,17/03/2020,19/03/2020
+UPDATE,Jordis,Probable,26/03/2020,Female,60 to 69,Waitematā,Yes,United States of America,NZ5,17/03/2020,19/03/2020
+FORMER,Stephan,Confirmed,11/04/2020,Male,30 to 39,Auckland,Yes,null,null,null,27/03/2020
+UPDATE,Stephan,Confirmed,11/04/2020,Male,30 to 39,Auckland,Yes,Qatar,null,null,27/03/2020
+FORMER,April,Probable,31/03/2020,Female,10 to 14,Waitemata,No,null,null,null,null
+UPDATE,April,Probable,31/03/2020,Female,10 to 14,Waitematā,No,null,null,null,null
+FORMER,Cary,Confirmed,14/04/2020,Male,50 to 59,Counties Manukau,Yes,Australia,null,12/04/2020,12/04/2020
+UPDATE,Cary,Confirmed,14/04/2020,Male,50 to 59,Counties Manukau,Yes,Australia,MFAT,12/04/2020,12/04/2020
+FORMER,Ashlea,Confirmed,12/04/2020,Female,30 to 39,Waitemata,No,null,null,null,null
+UPDATE,Ashlea,Confirmed,12/04/2020,Female,30 to 39,Waitematā,No,null,null,null,null
+FORMER,Sarai,Confirmed,26/03/2020,Female,20 to 29,Waitemata,Yes,United States of America,NZ01,23/03/2020,23/03/2020
+UPDATE,Sarai,Confirmed,26/03/2020,Female,20 to 29,Waitematā,Yes,United States of America,NZ01,23/03/2020,23/03/2020
+FORMER,Cortez,Confirmed,14/04/2020,Male,50 to 59,Tairawhiti,No,null,null,null,null
+UPDATE,Cortez,Confirmed,14/04/2020,Male,50 to 59,Tairāwhiti,No,null,null,null,null
+FORMER,Zach,Confirmed,26/03/2020,Male,40 to 49,Waitemata,Yes,Australia,QF143,18/03/2020,18/03/2020
+UPDATE,Zach,Confirmed,26/03/2020,Male,40 to 49,Waitematā,Yes,Australia,QF143,18/03/2020,18/03/2020
+FORMER,Norton,Confirmed,25/03/2020,Male,70+,Waitemata,Yes,United States of America,NZ5,17/03/2020,19/03/2020
+UPDATE,Norton,Confirmed,25/03/2020,Male,70+,Waitematā,Yes,United States of America,NZ5,17/03/2020,19/03/2020
+FORMER,Alisa,Probable,11/04/2020,Female,30 to 39,Waikato,null,null,null,null,null
+UPDATE,Alisa,Probable,11/04/2020,Female,30 to 39,Waikato,No,null,null,null,null
+FORMER,Meadow,Confirmed,07/04/2020,Female,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Meadow,Confirmed,07/04/2020,Female,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Calum,Confirmed,29/03/2020,Male,20 to 29,Waitemata,Yes,Australia,null,null,18/03/2020
+UPDATE,Calum,Confirmed,29/03/2020,Male,20 to 29,Waitematā,Yes,Australia,null,null,18/03/2020
+FORMER,Kanye,Probable,04/04/2020,Male,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Kanye,Probable,04/04/2020,Male,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Milton,Confirmed,28/03/2020,Male,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Milton,Confirmed,28/03/2020,Male,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Nakita,Probable,17/04/2020,Female,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Nakita,Probable,17/04/2020,Female,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Ollie,Confirmed,16/04/2020,Male,60 to 69,Waitemata,Yes,Australia,null,null,13/04/2020
+UPDATE,Ollie,Confirmed,16/04/2020,Male,60 to 69,Waitematā,Yes,Australia,null,null,13/04/2020
+FORMER,Helena,Probable,05/03/2020,Female,70+,Waitemata,Yes,United States of America,NZ7,23/02/2020,25/02/2020
+UPDATE,Helena,Probable,05/03/2020,Female,70+,Waitematā,Yes,United States of America,NZ7,23/02/2020,25/02/2020
+FORMER,Maci,Probable,27/03/2020,Female,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Maci,Probable,27/03/2020,Female,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Hudson,Confirmed,11/04/2020,Male,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Hudson,Confirmed,11/04/2020,Male,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Keeley,Confirmed,26/03/2020,Female,30 to 39,Waitemata,No,null,null,null,null
+UPDATE,Keeley,Confirmed,26/03/2020,Female,30 to 39,Waitematā,No,null,null,null,null
+FORMER,Phillip,Confirmed,17/03/2020,Male,60 to 69,Waitemata,Yes,United States of America,NZ5,11/03/2020,13/03/2020
+UPDATE,Phillip,Confirmed,17/03/2020,Male,60 to 69,Waitematā,Yes,United States of America,NZ5,11/03/2020,13/03/2020
+FORMER,Evander,Probable,03/04/2020,Male,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Evander,Probable,03/04/2020,Male,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Autumn,Probable,07/04/2020,Female,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Autumn,Probable,07/04/2020,Female,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Leeanne,Confirmed,09/04/2020,Female,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Leeanne,Confirmed,09/04/2020,Female,40 to 49,Waitematā,No,null,null,null,null
+FORMER,Preston,Probable,10/04/2020,Male,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Preston,Probable,10/04/2020,Male,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Azaria,Confirmed,16/04/2020,Female,50 to 59,Waitemata,No,null,null,null,null
+UPDATE,Azaria,Confirmed,16/04/2020,Female,50 to 59,Waitematā,No,null,null,null,null
+FORMER,Rylan,Confirmed,01/04/2020,Male,60 to 69,Waitemata,Yes,Australia,null,null,22/03/2020
+UPDATE,Rylan,Confirmed,01/04/2020,Male,60 to 69,Waitematā,Yes,Australia,null,null,22/03/2020
+FORMER,Nicholas,Confirmed,26/03/2020,Male,50 to 59,Waitemata,Yes,United States of America,null,null,19/03/2020
+UPDATE,Nicholas,Confirmed,26/03/2020,Male,50 to 59,Waitematā,Yes,United States of America,null,null,19/03/2020
+FORMER,Van,Confirmed,31/03/2020,Male,70+,Waitemata,Yes,Qatar,QR920,23/03/2020,24/03/2020
+UPDATE,Van,Confirmed,31/03/2020,Male,70+,Waitematā,Yes,Qatar,QR920,23/03/2020,24/03/2020
+FORMER,Franciscus,Confirmed,28/03/2020,Male,40 to 49,Waitemata,Yes,United States of America,QF143,18/03/2020,18/03/2020
+UPDATE,Franciscus,Confirmed,28/03/2020,Male,40 to 49,Waitematā,Yes,United States of America,QF143,18/03/2020,18/03/2020
+FORMER,Harlen,Confirmed,24/03/2020,Male,40 to 49,Waitemata,Yes,United States of America,AA83,19/03/2020,21/03/2020
+UPDATE,Harlen,Confirmed,24/03/2020,Male,40 to 49,Waitematā,Yes,United States of America,AA83,19/03/2020,21/03/2020
+FORMER,Ariana,Confirmed,02/04/2020,Female,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Ariana,Confirmed,02/04/2020,Female,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Ajay,Confirmed,30/03/2020,Male,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Ajay,Confirmed,30/03/2020,Male,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Ramona,Confirmed,11/04/2020,Female,10 to 14,Waitemata,No,null,null,null,null
+UPDATE,Ramona,Confirmed,11/04/2020,Female,10 to 14,Waitematā,No,null,null,null,null
+FORMER,Moreen,Confirmed,05/04/2020,Female,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Moreen,Confirmed,05/04/2020,Female,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Eliza,Confirmed,10/04/2020,Female,30 to 39,Waitemata,No,null,null,null,null
+UPDATE,Eliza,Confirmed,10/04/2020,Female,30 to 39,Waitematā,No,null,null,null,null
+FORMER,Jodi,Confirmed,25/03/2020,Female,30 to 39,Waitemata,No,null,null,null,null
+UPDATE,Jodi,Confirmed,25/03/2020,Female,30 to 39,Waitematā,No,null,null,null,null
+FORMER,Todd,Confirmed,29/03/2020,Male,50 to 59,Waitemata,Yes,United States of America,null,null,20/03/2020
+UPDATE,Todd,Confirmed,29/03/2020,Male,50 to 59,Waitematā,Yes,United States of America,null,null,20/03/2020
+FORMER,Nikolai,Probable,04/04/2020,Male,20 to 29,Waitemata,No,null,null,null,null
+UPDATE,Nikolai,Probable,04/04/2020,Male,20 to 29,Waitematā,No,null,null,null,null
+FORMER,Marissa,Probable,11/04/2020,Female,40 to 49,Tairawhiti,Yes,Australia,null,null,24/03/2020
+UPDATE,Marissa,Probable,11/04/2020,Female,40 to 49,Tairāwhiti,Yes,Australia,null,null,24/03/2020
+FORMER,Evangeline,Confirmed,19/03/2020,Female,40 to 49,Waitemata,Yes,Qatar,QR920,14/03/2020,15/03/2020
+UPDATE,Evangeline,Confirmed,19/03/2020,Female,40 to 49,Waitematā,Yes,Qatar,QR920,14/03/2020,15/03/2020
+FORMER,Kylo,Confirmed,09/04/2020,Male,30 to 39,Waitemata,No,null,null,null,null
+UPDATE,Kylo,Confirmed,09/04/2020,Male,30 to 39,Waitematā,No,null,null,null,null
+FORMER,Sharn,Confirmed,29/03/2020,Male,40 to 49,Waitemata,No,null,null,null,null
+UPDATE,Sharn,Confirmed,29/03/2020,Male,40 to 49,Waitematā,No,null,null,null,null

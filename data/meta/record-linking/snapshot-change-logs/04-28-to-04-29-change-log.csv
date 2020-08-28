@@ -1,0 +1,51 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+INSERT,Terence,Confirmed,28/04/2020,Male,40to49,Counties Manukau,null,null,null,null,null
+INSERT,Arie,Probable,28/04/2020,Male,5to9,Waikato,null,null,null,null,null
+FORMER,Kylah,Probable,12/04/2020,Female,40 to 49,Auckland,No,null,null,null,null
+UPDATE,Kylah,Probable,12/04/2020,Female,40to49,Auckland,No,null,null,null,null
+FORMER,Thea,Probable,18/04/2020,Female,50 to 59,Waikato,null,null,null,null,null
+UPDATE,Thea,Probable,18/04/2020,Female,50 to 59,Waikato,No,null,null,null,null
+FORMER,Kye,Confirmed,11/04/2020,Male,20 to 29,Waikato,Yes,England,QR8,1/04/2020,3/04/2020
+UPDATE,Kye,Confirmed,11/04/2020,Male,20 to 29,Waikato,Yes,England,QR8,01/04/2020,03/04/2020
+FORMER,Mitchell,Confirmed,08/04/2020,Male,20 to 29,Counties Manukau,Yes,England,QR920,2/04/2020,3/04/2020
+UPDATE,Mitchell,Confirmed,08/04/2020,Male,20 to 29,Counties Manukau,Yes,England,QR920,02/04/2020,03/04/2020
+FORMER,Elma,Confirmed,12/04/2020,Female,60 to 69,Lakes,Yes,United States of America,NZ1,5/04/2020,6/04/2020
+UPDATE,Elma,Confirmed,12/04/2020,Female,60 to 69,Lakes,Yes,United States of America,NZ1,05/04/2020,06/04/2020
+FORMER,Sariah,Confirmed,03/04/2020,Female,40 to 49,Counties Manukau,Yes,United States of America,null,null,8/03/2020
+UPDATE,Sariah,Confirmed,03/04/2020,Female,40 to 49,Counties Manukau,Yes,United States of America,null,null,08/03/2020
+FORMER,Ingrid,Probable,11/04/2020,Female,1 to 4,Waikato,null,null,null,null,null
+UPDATE,Ingrid,Probable,11/04/2020,Female,1 to 4,Waikato,No,null,null,null,null
+FORMER,Kylee,Confirmed,01/04/2020,Female,20 to 29,Southern,Yes,Australia,null,null,23/03/2020
+UPDATE,Kylee,Confirmed,01/04/2020,Female,20 to 29,Southern,Yes,Australia,QF121,23/03/2020,23/03/2020
+FORMER,Madden,Probable,12/04/2020,Male,10 to 14,Canterbury,null,null,null,null,null
+UPDATE,Madden,Probable,12/04/2020,Male,10 to 14,Canterbury,No,null,null,null,null
+FORMER,Steve,Confirmed,02/04/2020,Male,60 to 69,Waikato,Yes,United States of America,NZ1,30/03/2020,1/04/2020
+UPDATE,Steve,Confirmed,02/04/2020,Male,60 to 69,Waikato,Yes,United States of America,NZ1,30/03/2020,01/04/2020
+FORMER,Ace,Confirmed,05/04/2020,Male,20 to 29,Auckland,Yes,Qatar,QR920,2/04/2020,3/04/2020
+UPDATE,Ace,Confirmed,05/04/2020,Male,20 to 29,Auckland,Yes,Qatar,QR920,02/04/2020,03/04/2020
+FORMER,Katrina,Confirmed,10/04/2020,Female,50 to 59,Counties Manukau,Yes,Qatar,QR920,7/04/2020,8/04/2020
+UPDATE,Katrina,Confirmed,10/04/2020,Female,50 to 59,Counties Manukau,Yes,Qatar,QR920,07/04/2020,08/04/2020
+FORMER,Janet,Confirmed,09/04/2020,Female,70+,Waikato,Yes,United States of America,null,null,1/04/2020
+UPDATE,Janet,Confirmed,09/04/2020,Female,70+,Waikato,Yes,United States of America,null,null,01/04/2020
+FORMER,Russell,Confirmed,09/04/2020,Male,40 to 49,Capital and Coast,Yes,Qatar,NZ19K,3/03/2020,31/03/2020
+UPDATE,Russell,Confirmed,09/04/2020,Male,40 to 49,Capital and Coast,Yes,Qatar,NZ19K,03/03/2020,31/03/2020
+FORMER,Celine,Confirmed,14/04/2020,Female,20 to 29,Canterbury,null,null,null,null,null
+UPDATE,Celine,Confirmed,14/04/2020,Female,20 to 29,Canterbury,No,null,null,null,null
+FORMER,Elton,Confirmed,01/04/2020,Male,60 to 69,Counties Manukau,Yes,Australia,null,null,7/03/2020
+UPDATE,Elton,Confirmed,01/04/2020,Male,60 to 69,Counties Manukau,Yes,Australia,null,null,07/03/2020
+FORMER,Karson,Confirmed,03/04/2020,Male,60 to 69,Waikato,null,null,null,null,null
+UPDATE,Karson,Confirmed,03/04/2020,Male,60 to 69,Waikato,No,null,null,null,null
+FORMER,Stefanie,Probable,05/04/2020,Female,30 to 39,Waikato,Yes,null,EK448,21/03/2020,22/03/2020
+UPDATE,Stefanie,Probable,05/04/2020,Female,30 to 39,Waikato,Yes,United Arab Emirates,EK448,21/03/2020,22/03/2020
+FORMER,Raiden,Confirmed,11/04/2020,Male,50 to 59,Counties Manukau,Yes,Qatar,QR920,7/04/2020,8/04/2020
+UPDATE,Raiden,Confirmed,11/04/2020,Male,50 to 59,Counties Manukau,Yes,Qatar,QR920,07/04/2020,08/04/2020
+FORMER,Poppy,Probable,20/04/2020,Female,30 to 39,Capital and Coast,null,null,null,null,null
+UPDATE,Poppy,Probable,20/04/2020,Female,30 to 39,Capital and Coast,No,null,null,null,null
+FORMER,Aaron,Confirmed,12/04/2020,Male,60 to 69,Lakes,Yes,United States of America,NZ1,5/04/2020,6/04/2020
+UPDATE,Aaron,Confirmed,12/04/2020,Male,60 to 69,Lakes,Yes,United States of America,NZ1,05/04/2020,06/04/2020
+FORMER,Tom,Confirmed,01/04/2020,Male,50 to 59,Southern,Yes,Australia,null,null,23/03/2020
+UPDATE,Tom,Confirmed,01/04/2020,Male,50 to 59,Southern,Yes,Australia,QF121,23/03/2020,23/03/2020
+FORMER,Taine,Confirmed,06/04/2020,Male,20 to 29,Counties Manukau,Yes,Qatar,QR920,4/04/2020,5/04/2020
+UPDATE,Taine,Confirmed,06/04/2020,Male,20 to 29,Counties Manukau,Yes,Qatar,QR920,04/04/2020,05/04/2020
+FORMER,Rhoda,Confirmed,23/04/2020,Female,20 to 29,Canterbury,Yes,Scotland,null,null,23/03/2020
+UPDATE,Rhoda,Confirmed,23/04/2020,Female,20 to 29,Canterbury,No,null,null,null,null

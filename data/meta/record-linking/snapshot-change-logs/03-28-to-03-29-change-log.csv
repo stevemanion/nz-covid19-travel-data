@@ -1,0 +1,608 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+INSERT,Letitia,Confirmed,26/03/2020,Female,40 to 49,Auckland,No,null,null,null,null
+INSERT,Cecily,Confirmed,28/03/2020,Female,20 to 29,Bay of Plenty,Yes,United Kingdom,null,null,26/03/2020
+INSERT,Annaliese,Confirmed,28/03/2020,Female,60 to 69,Auckland,Yes,United States of America,null,null,null
+INSERT,Tia,Probable,28/03/2020,Female,50 to 59,Counties Manukau,null,null,null,null,null
+INSERT,Pare,Confirmed,28/03/2020,Female,20 to 29,Capital and Coast,Yes,Australia,NZ443,25/03/2020,25/03/2020
+INSERT,Julie,Confirmed,28/02/2020,Female,40 to 49,Southern,null,null,null,null,null
+INSERT,Beulah,Probable,28/03/2020,Female,40 to 49,Auckland,null,null,null,null,null
+INSERT,Jacquelyn,Confirmed,28/03/2020,Female,10 to 14,Auckland,null,null,null,null,null
+INSERT,Deirdre,Confirmed,28/03/2020,Female,30 to 39,Auckland,null,null,null,null,null
+INSERT,Amira,Confirmed,27/03/2020,Female,30 to 39,Taranaki,Yes,United Kingdom,null,null,20/03/2020
+INSERT,Theresa,Probable,26/03/2020,Female,40 to 49,Canterbury,No,null,null,null,null
+INSERT,Matekino,Confirmed,28/03/2020,Female,60 to 69,Southern,No,null,null,null,null
+INSERT,Jayme,Confirmed,28/03/2020,Female,40 to 49,Counties Manukau,null,null,null,null,null
+INSERT,Rhys,Confirmed,28/03/2020,Male,40 to 49,Southern,Yes,France,NZ615,19/03/2020,20/03/2020
+INSERT,Sandy,Confirmed,27/03/2020,Female,40 to 49,Waikato,No,null,null,null,null
+INSERT,Jennie,Confirmed,28/03/2020,Female,10 to 14,Waitemata,No,null,null,null,null
+INSERT,Micheal,Probable,22/03/2020,Male,60 to 69,Capital and Coast,No,null,null,null,null
+INSERT,Sarina,Confirmed,28/03/2020,Female,10 to 14,Auckland,null,null,null,null,null
+INSERT,Alison,Confirmed,28/03/2020,Female,1 to 4,Waikato,null,null,null,null,null
+INSERT,Harold,Confirmed,28/03/2020,Male,40 to 49,Counties Manukau,null,null,null,null,null
+INSERT,Aston,Confirmed,28/03/2020,Male,60 to 69,Auckland,null,null,null,null,null
+INSERT,Damon,Confirmed,28/02/2020,Male,40 to 49,Southern,null,null,null,null,null
+INSERT,Dorothy,Confirmed,28/03/2020,Female,50 to 59,Capital and Coast,Yes,United Kingdom,NZ433,17/03/2020,17/03/2020
+INSERT,Roseanna,Confirmed,25/03/2020,Female,20 to 29,Canterbury,No,null,null,null,null
+INSERT,Asher,Confirmed,28/03/2020,Male,60 to 69,South Canterbury,Yes,United States of America,NZ675,17/03/2020,17/03/2020
+INSERT,Lynda,Probable,26/03/2020,Female,60 to 69,Northland,null,null,null,null,null
+INSERT,Mia,Confirmed,28/03/2020,Female,30 to 39,Counties Manukau,Yes,United Kingdom,null,null,23/03/2020
+INSERT,Fox,Confirmed,28/03/2020,Male,20 to 29,Southern,null,null,null,null,null
+INSERT,Darran,Confirmed,28/03/2020,Male,30 to 39,Auckland,No,null,null,null,null
+INSERT,Lauren,Confirmed,28/03/2020,Female,15 to 19,Waitemata,null,null,null,null,null
+INSERT,Cynthia,Confirmed,28/03/2020,Female,50 to 59,Southern,null,null,null,null,null
+INSERT,Ethan,Confirmed,25/03/2020,Male,70+,Waitemata,Yes,Australia,null,null,19/03/2020
+INSERT,Shreya,Confirmed,28/03/2020,Female,20 to 29,Canterbury,Yes,United Kingdom,EK412,23/03/2020,23/03/2020
+INSERT,Katherine,Confirmed,28/03/2020,Female,20 to 29,Waitemata,null,null,null,null,null
+INSERT,Edison,Confirmed,27/03/2020,Male,20 to 29,Waikato,Yes,United Kingdom,EK010,null,24/03/2020
+INSERT,Richelle,Confirmed,27/03/2020,Female,1 to 4,South Canterbury,null,null,null,null,null
+INSERT,Scarlet,Confirmed,28/03/2020,Female,15 to 19,Waitemata,null,null,null,null,null
+INSERT,Danelle,Confirmed,28/03/2020,Female,70+,Bay of Plenty,Yes,null,null,null,8/03/2020
+INSERT,Jennifer,Probable,28/03/2020,Female,<1,Counties Manukau,null,null,null,null,null
+INSERT,Valarie,Confirmed,28/03/2020,Female,20 to 29,Waitemata,Yes,England,null,null,24/03/2020
+INSERT,Shaye,Confirmed,28/03/2020,Female,15 to 19,Capital and Coast,Yes,United Kingdom,NZ5374,24/03/2020,24/03/2020
+INSERT,Jeanette,Confirmed,28/03/2020,Female,40 to 49,Capital and Coast,No,null,null,null,null
+INSERT,Anjali,Confirmed,26/03/2020,Female,70+,West Coast,No,null,null,null,null
+INSERT,Kezia,Confirmed,28/03/2020,Female,40 to 49,Waitemata,No,null,null,null,null
+INSERT,Hadassah,Confirmed,28/03/2020,Female,20 to 29,Southern,null,null,null,null,null
+INSERT,Jethro,Confirmed,28/03/2020,Male,70+,Hawke's Bay,No,null,null,null,null
+INSERT,Freya,Confirmed,28/03/2020,Female,20 to 29,Waitemata,Yes,United States of America,null,null,19/03/2020
+INSERT,Ryan,Confirmed,27/03/2020,Male,20 to 29,Taranaki,Yes,United Arab Emirates,EK450,21/03/2020,22/03/2020
+INSERT,Alizae,Confirmed,28/03/2020,Female,20 to 29,Auckland,null,null,null,null,null
+INSERT,Willie,Confirmed,28/03/2020,Male,30 to 39,Nelson Marlborough,Yes,United Arab Emirates,null,null,16/03/2020
+INSERT,Kathy,Confirmed,28/03/2020,Female,40 to 49,Canterbury,Yes,Australia,QF133,24/03/2020,24/03/2020
+INSERT,Mercedez,Confirmed,28/03/2020,Female,30 to 39,Waikato,null,null,null,null,null
+INSERT,Shawn,Confirmed,27/03/2020,Male,40 to 49,Waikato,Yes,Ireland,EK448,null,21/03/2020
+INSERT,Sophia,Confirmed,27/03/2020,Female,20 to 29,Waikato,No,null,null,null,null
+INSERT,Kyah,Confirmed,28/03/2020,Female,50 to 59,Waitemata,null,null,null,null,null
+INSERT,Mervyn,Confirmed,28/03/2020,Male,70+,Waitemata,Yes,null,null,null,18/03/2020
+INSERT,Troy,Confirmed,28/03/2020,Male,40 to 49,Canterbury,Yes,Australia,QF133,24/03/2020,24/03/2020
+INSERT,Nerissa,Confirmed,28/03/2020,Female,40 to 49,Southern,No,null,null,null,null
+INSERT,Storm,Confirmed,27/03/2020,null,40 to 49,Canterbury,Yes,United Kingdom,TG917,20/03/2020,22/03/2020
+INSERT,Clifford,Confirmed,28/03/2020,Male,60 to 69,Auckland,null,null,null,null,null
+INSERT,Coby,Confirmed,28/03/2020,Male,20 to 29,Southern,Yes,United Kingdom,EK412,20/03/2020,20/03/2020
+INSERT,Mae,Confirmed,28/03/2020,Female,20 to 29,Southern,No,null,null,null,null
+INSERT,Hope,Confirmed,28/03/2020,Female,20 to 29,Southern,null,null,null,null,null
+INSERT,Aaliyah,Confirmed,28/03/2020,Female,50 to 59,Auckland,null,null,null,null,null
+INSERT,Aidan,Confirmed,27/03/2020,null,Unknown,Taranaki,Yes,null,null,null,18/03/2020
+INSERT,Fleur,Confirmed,28/03/2020,Female,15 to 19,Auckland,null,null,null,null,null
+DELETE,Alistair,Confirmed,22/03/2020,Male,60 to 69,Capital and Coast,No,null,null,null,null
+DELETE,Simran,Confirmed,26/03/2020,Female,40 to 49,Auckland,Yes,null,null,null,2/03/2020
+DELETE,Stacy,Confirmed,27/03/2020,null,null,Waikato,null,null,null,null,null
+FORMER,Abraham,Confirmed,26/03/2020,Male,20 to 29,Bay of Plenty,Yes,null,QR920,17/03/2020,18/03/2020
+UPDATE,Abraham,Confirmed,26/03/2020,Male,20 to 29,Bay of Plenty,Yes,Greece,QR920,17/03/2020,18/03/2020
+FORMER,Bronte,Confirmed,23/03/2020,Female,60 to 69,Capital and Coast,Yes,Auckland,NZ413,19/03/2020,19/03/2020
+UPDATE,Bronte,Confirmed,23/03/2020,Female,60 to 69,Capital and Coast,Yes,New Zealand,NZ413,19/03/2020,19/03/2020
+FORMER,Desmond,Confirmed,20/03/2020,Male,40 to 49,Southern,Yes,London,null,null,null
+UPDATE,Desmond,Confirmed,20/03/2020,Male,40 to 49,Southern,Yes,United Kingdom,null,null,null
+FORMER,Kiaan,Probable,25/03/2020,Male,20 to 29,Waitemata,Yes,Los Angeles,null,null,19/03/2020
+UPDATE,Kiaan,Probable,25/03/2020,Male,20 to 29,Waitemata,Yes,United States of America,null,null,19/03/2020
+FORMER,Leilani,Confirmed,22/03/2020,Female,20 to 29,Waitemata,Yes,Dubai,EK448,19/03/2020,19/03/2020
+UPDATE,Leilani,Confirmed,22/03/2020,Female,20 to 29,Waitemata,Yes,Qatar,EK448,19/03/2020,19/03/2020
+FORMER,Campbell,Confirmed,16/03/2020,Male,70+,Waikato,Yes,null,null,null,null
+UPDATE,Campbell,Confirmed,16/03/2020,Male,70+,Waikato,Yes,Singapore,null,null,null
+FORMER,Karla,Confirmed,23/03/2020,Female,20 to 29,Auckland,Yes,null,null,null,16/03/2020
+UPDATE,Karla,Confirmed,23/03/2020,Female,20 to 29,Auckland,Yes,Malaysia,null,null,16/03/2020
+FORMER,Teddy,Confirmed,23/03/2020,Male,70+,MidCentral,Yes,Dubai,NZ5115,17/03/2020,17/03/2020
+UPDATE,Teddy,Confirmed,23/03/2020,Male,70+,MidCentral,Yes,United Arab Emirates,NZ5115,17/03/2020,17/03/2020
+FORMER,Janelle,Confirmed,23/03/2020,Female,30 to 39,Auckland,Yes,Los Angeles,NZ05,17/03/2020,18/03/2020
+UPDATE,Janelle,Confirmed,23/03/2020,Female,30 to 39,Auckland,Yes,United States of America,NZ5,17/03/2020,18/03/2020
+FORMER,Mahalia,Confirmed,26/03/2020,Female,20 to 29,Hawke's Bay,Yes,Los Angeles,null,null,21/03/2020
+UPDATE,Mahalia,Confirmed,26/03/2020,Female,20 to 29,Hawke's Bay,Yes,United States of America,NZ8161,25/03/2020,25/03/2020
+FORMER,Jordon,Confirmed,22/03/2020,Male,50 to 59,Capital and Coast,Yes,New York,null,null,19/03/2020
+UPDATE,Jordon,Confirmed,22/03/2020,Male,50 to 59,Capital and Coast,Yes,United States of America,null,null,19/03/2020
+FORMER,Luke,Confirmed,19/03/2020,Male,40 to 49,Auckland,Yes,New Jersey,null,null,14/03/2020
+UPDATE,Luke,Confirmed,19/03/2020,Male,40 to 49,Auckland,Yes,United States of America,null,null,14/03/2020
+FORMER,Rafael,Confirmed,26/03/2020,Male,50 to 59,Tairawhiti,Yes,Los Angeles,NZ8161,18/03/2020,20/03/2020
+UPDATE,Rafael,Confirmed,26/03/2020,Male,50 to 59,Tairawhiti,Yes,United States of America,NZ8161,18/03/2020,20/03/2020
+FORMER,Zachery,Confirmed,27/03/2020,Male,20 to 29,Whanganui,Yes,Chicago,NZ6067,22/03/2020,23/03/2020
+UPDATE,Zachery,Confirmed,27/03/2020,Male,20 to 29,Whanganui,Yes,United States of America,NZ6067,22/03/2020,23/03/2020
+FORMER,Henry,Confirmed,23/03/2020,Male,30 to 39,Capital and Coast,Yes,London,NZ409,19/03/2020,19/03/2020
+UPDATE,Henry,Confirmed,23/03/2020,Male,30 to 39,Capital and Coast,Yes,United Kingdom,NZ409,19/03/2020,19/03/2020
+FORMER,Annabella,Confirmed,27/03/2020,Female,30 to 39,Hutt Valley,Yes,Manchester,JQ253,22/03/2020,22/03/2020
+UPDATE,Annabella,Confirmed,27/03/2020,Female,30 to 39,Hutt Valley,Yes,United Kingdom,JQ253,22/03/2020,22/03/2020
+FORMER,Cooper,Confirmed,25/03/2020,Male,50 to 59,Capital and Coast,Yes,New York,NZ409,19/03/2020,null
+UPDATE,Cooper,Confirmed,25/03/2020,Male,50 to 59,Capital and Coast,Yes,United States of America,NZ409,19/03/2020,null
+FORMER,Raewyn,Confirmed,25/03/2020,Female,20 to 29,Waikato,Yes,Dubai,null,null,15/03/2020
+UPDATE,Raewyn,Confirmed,25/03/2020,Female,20 to 29,Waikato,Yes,United Arab Emirates,null,null,15/03/2020
+FORMER,Darin,Confirmed,26/03/2020,Male,20 to 29,Waikato,Yes,Auckland,NZ7,20/03/2020,22/03/2020
+UPDATE,Darin,Confirmed,26/03/2020,Male,20 to 29,Waikato,Yes,null,NZ7,20/03/2020,22/03/2020
+FORMER,Parker,Confirmed,27/03/2020,Male,20 to 29,Capital and Coast,null,null,null,null,null
+UPDATE,Parker,Confirmed,27/03/2020,Male,20 to 29,Capital and Coast,Yes,United Kingdom,NZ425,22/03/2020,22/03/2020
+FORMER,Glenda,Confirmed,24/03/2020,Female,30 to 39,Wairarapa,Yes,Sydney,QF161,20/03/2020,20/03/2020
+UPDATE,Glenda,Confirmed,24/03/2020,Female,30 to 39,Wairarapa,Yes,Australia,QF161,20/03/2020,20/03/2020
+FORMER,Tori,Confirmed,22/03/2020,Female,20 to 29,Counties Manukau,Yes,Kuala Lumpur,MH0133,19/03/2020,19/03/2020
+UPDATE,Tori,Confirmed,22/03/2020,Female,20 to 29,Counties Manukau,Yes,Malaysia,MH133,19/03/2020,19/03/2020
+FORMER,Jakob,Confirmed,16/03/2020,Male,60 to 69,Auckland,Yes,Colorado,NZ7,10/03/2020,13/03/2020
+UPDATE,Jakob,Confirmed,16/03/2020,Male,60 to 69,Auckland,Yes,United States of America,NZ7,10/03/2020,13/03/2020
+FORMER,Emelia,Confirmed,20/03/2020,Female,30 to 39,Waitemata,Yes,Orlando,AA83,13/03/2020,14/03/2020
+UPDATE,Emelia,Confirmed,20/03/2020,Female,30 to 39,Waitemata,Yes,United States of America,AA83,13/03/2020,14/03/2020
+FORMER,Lucia,Confirmed,24/03/2020,Female,70+,Hawke's Bay,Yes,Majorca,EK448,18/03/2020,19/03/2020
+UPDATE,Lucia,Confirmed,24/03/2020,Female,70+,Hawke's Bay,Yes,Spain,EK448,18/03/2020,19/03/2020
+FORMER,Blaze,Confirmed,20/03/2020,Male,20 to 29,Southern,Yes,Geneva,null,null,18/03/2020
+UPDATE,Blaze,Confirmed,20/03/2020,Male,20 to 29,Southern,Yes,Switzerland,null,null,18/03/2020
+FORMER,Joe,Confirmed,18/03/2020,Male,60 to 69,Southern,Yes,Sydney,null,null,13/03/2020
+UPDATE,Joe,Confirmed,18/03/2020,Male,60 to 69,Southern,Yes,Australia,null,null,13/03/2020
+FORMER,Liliana,Confirmed,24/03/2020,Female,20 to 29,Canterbury,Yes,Dublin,JQ233,20/03/2020,null
+UPDATE,Liliana,Confirmed,24/03/2020,Female,20 to 29,Canterbury,Yes,Ireland,JQ233,20/03/2020,null
+FORMER,Nancye,Confirmed,22/03/2020,Female,50 to 59,Waikato,Yes,Dubai,EK448,15/03/2020,16/03/2020
+UPDATE,Nancye,Confirmed,22/03/2020,Female,50 to 59,Waikato,Yes,United Arab Emirates,EK448,15/03/2020,16/03/2020
+FORMER,Karena,Confirmed,16/03/2020,Female,20 to 29,Waikato,Yes,Sydney,NZ112,8/03/2020,8/03/2020
+UPDATE,Karena,Confirmed,16/03/2020,Female,20 to 29,Waikato,Yes,Australia,NZ112,8/03/2020,8/03/2020
+FORMER,Lachlan,Confirmed,26/03/2020,Male,20 to 29,Canterbury,Yes,null,null,null,18/03/2020
+UPDATE,Lachlan,Confirmed,26/03/2020,Male,20 to 29,Canterbury,Yes,Canada,null,null,18/03/2020
+FORMER,Taylar,Confirmed,27/03/2020,Female,60 to 69,Southern,Yes,"Los Angeles,Miami",NZ675,17/03/2020,17/03/2020
+UPDATE,Taylar,Confirmed,27/03/2020,Female,60 to 69,Southern,Yes,United States of America,NZ675,17/03/2020,17/03/2020
+FORMER,Rosalie,Confirmed,17/03/2020,Female,40 to 49,Canterbury,Yes,London,null,null,16/03/2020
+UPDATE,Rosalie,Confirmed,17/03/2020,Female,40 to 49,Canterbury,Yes,United Kingdom,null,null,16/03/2020
+FORMER,Clint,Confirmed,04/03/2020,Male,40 to 49,Waitemata,Yes,null,NZ283,25/02/2020,26/02/2020
+UPDATE,Clint,Confirmed,04/03/2020,Male,40 to 49,Waitemata,Yes,Singapore,NZ283,25/02/2020,26/02/2020
+FORMER,Rosanna,Confirmed,24/03/2020,Female,20 to 29,Auckland,Yes,Edinburgh,EK448,21/03/2020,22/03/2020
+UPDATE,Rosanna,Confirmed,24/03/2020,Female,20 to 29,Auckland,Yes,Scotland,EK448,21/03/2020,22/03/2020
+FORMER,Nikhil,Confirmed,21/03/2020,Male,50 to 59,Auckland,Yes,London,NZ1,6/03/2020,8/03/2020
+UPDATE,Nikhil,Confirmed,21/03/2020,Male,50 to 59,Auckland,Yes,United Kingdom,NZ1,6/03/2020,8/03/2020
+FORMER,Jax,Confirmed,19/03/2020,Male,40 to 49,Auckland,Yes,null,null,null,null
+UPDATE,Jax,Confirmed,19/03/2020,Male,40 to 49,Auckland,Yes,Singapore,null,null,null
+FORMER,Lochie,Confirmed,22/03/2020,Male,60 to 69,Auckland,Yes,Delhi,null,13/03/2020,13/03/2020
+UPDATE,Lochie,Confirmed,22/03/2020,Male,60 to 69,Auckland,Yes,India,null,13/03/2020,13/03/2020
+FORMER,Jarrad,Confirmed,23/03/2020,Male,50 to 59,Capital and Coast,Yes,New York,NZ409,19/03/2020,20/03/2020
+UPDATE,Jarrad,Confirmed,23/03/2020,Male,50 to 59,Capital and Coast,Yes,United States of America,NZ409,19/03/2020,20/03/2020
+FORMER,Claud,Confirmed,27/03/2020,Male,40 to 49,Auckland,null,null,null,null,null
+UPDATE,Claud,Confirmed,27/03/2020,Male,40 to 49,Auckland,No,null,null,null,null
+FORMER,Vincent,Confirmed,22/03/2020,Male,50 to 59,Auckland,Yes,Los Angeles,NZ1,13/03/2020,15/03/2020
+UPDATE,Vincent,Confirmed,22/03/2020,Male,50 to 59,Auckland,Yes,United States of America,NZ1,13/03/2020,15/03/2020
+FORMER,Saul,Confirmed,27/03/2020,Male,60 to 69,Hutt Valley,Yes,null,NZ441,20/03/2020,19/03/2020
+UPDATE,Saul,Confirmed,27/03/2020,Male,60 to 69,Hutt Valley,Yes,Singapore,NZ441,20/03/2020,19/03/2020
+FORMER,Maria,Confirmed,26/03/2020,Female,30 to 39,Canterbury,Yes,Sydney,QF139,14/03/2020,15/03/2020
+UPDATE,Maria,Confirmed,26/03/2020,Female,30 to 39,Canterbury,Yes,Australia,QF139,14/03/2020,15/03/2020
+FORMER,Glynis,Confirmed,25/03/2020,Female,20 to 29,Lakes,Yes,Dubai,NZ8155,19/03/2020,19/03/2020
+UPDATE,Glynis,Confirmed,25/03/2020,Female,20 to 29,Lakes,Yes,United Arab Emirates,NZ8155,19/03/2020,19/03/2020
+FORMER,Claude,Confirmed,25/03/2020,Male,40 to 49,Waitemata,null,null,null,null,null
+UPDATE,Claude,Confirmed,25/03/2020,Male,40 to 49,Waitemata,No,null,null,null,null
+FORMER,Lawrence,Confirmed,26/03/2020,Male,50 to 59,Waikato,Yes,Sydney,VA145,18/03/2020,18/03/2020
+UPDATE,Lawrence,Confirmed,26/03/2020,Male,50 to 59,Waikato,Yes,Australia,VA145,18/03/2020,18/03/2020
+FORMER,Kirk,Confirmed,22/03/2020,Male,40 to 49,Capital and Coast,Yes,"Aspen,Colorado",NZ421,16/03/2020,16/03/2020
+UPDATE,Kirk,Confirmed,22/03/2020,Male,40 to 49,Capital and Coast,Yes,United States of America,NZ421,16/03/2020,16/03/2020
+FORMER,Douglas,Confirmed,17/03/2020,Male,40 to 49,Southern,Yes,Frankfurt,null,null,8/03/2020
+UPDATE,Douglas,Confirmed,17/03/2020,Male,40 to 49,Southern,Yes,Germany,null,null,8/03/2020
+FORMER,Monty,Confirmed,23/03/2020,Male,20 to 29,Auckland,Yes,null,null,null,22/03/2020
+UPDATE,Monty,Confirmed,23/03/2020,Male,20 to 29,Auckland,Yes,Singapore,null,null,22/03/2020
+FORMER,Aylah,Confirmed,24/03/2020,Female,20 to 29,Canterbury,Yes,London,EK0412,20/03/2020,20/03/2020
+UPDATE,Aylah,Confirmed,24/03/2020,Female,20 to 29,Canterbury,Yes,United Kingdom,EK412,20/03/2020,20/03/2020
+FORMER,Bronson,Confirmed,23/03/2020,Male,60 to 69,Capital and Coast,Yes,New York,NZ409,19/03/2020,19/03/2020
+UPDATE,Bronson,Confirmed,23/03/2020,Male,60 to 69,Capital and Coast,Yes,United States of America,NZ409,19/03/2020,19/03/2020
+FORMER,Reneé,Confirmed,22/03/2020,Female,40 to 49,Waitemata,Yes,Los Angeles,null,14/03/2020,16/03/2020
+UPDATE,Reneé,Confirmed,22/03/2020,Female,40 to 49,Waitemata,Yes,United States of America,null,14/03/2020,16/03/2020
+FORMER,Krystal,Confirmed,27/03/2020,Female,30 to 39,Waikato,null,null,null,null,null
+UPDATE,Krystal,Confirmed,27/03/2020,Female,30 to 39,Waikato,No,null,null,null,null
+FORMER,Nancy,Confirmed,02/03/2020,Female,30 to 39,Waitemata,Yes,"Northern Region Italy Milan/Bergamo/Como/Lombard",null,null,26/02/2020
+UPDATE,Nancy,Confirmed,02/03/2020,Female,30 to 39,Waitemata,Yes,Italy,null,null,26/02/2020
+FORMER,Honey,Confirmed,21/03/2020,Female,40 to 49,Counties Manukau,Yes,null,null,null,10/03/2020
+UPDATE,Honey,Confirmed,21/03/2020,Female,40 to 49,Counties Manukau,Yes,Zimbabwe,null,null,10/03/2020
+FORMER,Victor,Confirmed,26/03/2020,Male,60 to 69,Waikato,Yes,Dubai,EK448,15/03/2020,16/03/2020
+UPDATE,Victor,Confirmed,26/03/2020,Male,60 to 69,Waikato,Yes,United Arab Emirates,EK448,15/03/2020,16/03/2020
+FORMER,Flora,Probable,25/03/2020,Female,20 to 29,Waikato,Yes,Melbourne,null,null,1/03/2020
+UPDATE,Flora,Probable,25/03/2020,Female,20 to 29,Waikato,Yes,Australia,null,null,1/03/2020
+FORMER,Greig,Confirmed,27/03/2020,Male,20 to 29,Whanganui,Yes,Chicago,NZ6067,22/03/2020,23/03/2020
+UPDATE,Greig,Confirmed,27/03/2020,Male,20 to 29,Whanganui,Yes,United States of America,NZ6067,22/03/2020,23/03/2020
+FORMER,Bodhi,Probable,19/03/2020,Male,70+,Capital and Coast,Yes,null,null,null,null
+UPDATE,Bodhi,Probable,19/03/2020,Male,70+,Capital and Coast,Yes,Australia,null,null,null
+FORMER,Shannen,Confirmed,26/03/2020,Female,20 to 29,Hutt Valley,Yes,Abu Dhabi,NZ457,21/03/2020,21/03/2020
+UPDATE,Shannen,Confirmed,26/03/2020,Female,20 to 29,Hutt Valley,Yes,United Arab Emirates,NZ457,21/03/2020,21/03/2020
+FORMER,Clara,Confirmed,25/03/2020,Female,20 to 29,Waitemata,Yes,null,AirNZ29,20/03/2020,22/03/2020
+UPDATE,Clara,Confirmed,25/03/2020,Female,20 to 29,Waitemata,Yes,United States of America,AirNZ29,20/03/2020,22/03/2020
+FORMER,Christopher,Confirmed,17/03/2020,Male,50 to 59,Auckland,Yes,London,null,null,15/03/2020
+UPDATE,Christopher,Confirmed,17/03/2020,Male,50 to 59,Auckland,Yes,United Kingdom,null,null,15/03/2020
+FORMER,Merilyn,Confirmed,22/03/2020,Female,20 to 29,Canterbury,Yes,Seattle,NZ527,21/03/2020,21/03/2020
+UPDATE,Merilyn,Confirmed,22/03/2020,Female,20 to 29,Canterbury,Yes,United States of America,NZ527,21/03/2020,21/03/2020
+FORMER,Stanley,Confirmed,26/03/2020,Male,70+,Auckland,Yes,Los Angeles,null,null,17/03/2020
+UPDATE,Stanley,Confirmed,26/03/2020,Male,70+,Auckland,Yes,United States of America,null,null,17/03/2020
+FORMER,Cade,Confirmed,23/03/2020,Male,15 to 19,Southern,Yes,null,null,null,19/03/2020
+UPDATE,Cade,Confirmed,23/03/2020,Male,15 to 19,Southern,Yes,England,null,null,19/03/2020
+FORMER,Havana,Confirmed,24/03/2020,Female,50 to 59,Capital and Coast,Yes,"New York,Los Angeles",NZ5,17/03/2020,19/03/2020
+UPDATE,Havana,Confirmed,24/03/2020,Female,50 to 59,Capital and Coast,Yes,United States of America,NZ5,17/03/2020,19/03/2020
+FORMER,Cory,Confirmed,24/03/2020,Male,30 to 39,Auckland,Yes,Dubai,EK448,22/03/2020,23/03/2020
+UPDATE,Cory,Confirmed,24/03/2020,Male,30 to 39,Auckland,Yes,United Arab Emirates,EK448,22/03/2020,23/03/2020
+FORMER,MacKenzie,Confirmed,23/03/2020,Female,20 to 29,Auckland,Yes,British Columbia,NZ23,19/03/2020,20/03/2020
+UPDATE,MacKenzie,Confirmed,23/03/2020,Female,20 to 29,Auckland,Yes,Canada,NZ23,19/03/2020,20/03/2020
+FORMER,Pania,Probable,26/03/2020,Female,60 to 69,Waitemata,Yes,Bali,null,null,15/03/2020
+UPDATE,Pania,Probable,26/03/2020,Female,60 to 69,Waitemata,Yes,Indonesia,null,null,15/03/2020
+FORMER,Bryony,Probable,21/03/2020,Female,60 to 69,Waitemata,No,null,null,null,null
+UPDATE,Bryony,Confirmed,21/03/2020,Female,60 to 69,Waitemata,No,null,null,null,null
+FORMER,Miriama,Confirmed,19/03/2020,Female,60 to 69,Waikato,Yes,Paris,EK450,16/03/2020,17/03/2020
+UPDATE,Miriama,Confirmed,19/03/2020,Female,60 to 69,Waikato,Yes,France,EK450,16/03/2020,17/03/2020
+FORMER,Samara,Confirmed,19/03/2020,Female,70+,Waikato,Yes,Paris,EK450,16/03/2020,17/03/2020
+UPDATE,Samara,Confirmed,19/03/2020,Female,70+,Waikato,Yes,France,EK450,16/03/2020,17/03/2020
+FORMER,Monique,Confirmed,24/03/2020,Female,20 to 29,Canterbury,Yes,london,EK412,19/03/2020,20/03/2020
+UPDATE,Monique,Confirmed,24/03/2020,Female,20 to 29,Canterbury,Yes,United Kingdom,EK412,19/03/2020,20/03/2020
+FORMER,Cayden,Confirmed,26/03/2020,Male,70+,Hawke's Bay,null,null,null,null,null
+UPDATE,Cayden,Confirmed,26/03/2020,Male,70+,Hawke's Bay,No,null,null,null,null
+FORMER,Darian,Probable,22/03/2020,Male,50 to 59,Counties Manukau,Yes,Doha,QR920,17/03/2020,18/03/2020
+UPDATE,Darian,Confirmed,22/03/2020,Male,50 to 59,Counties Manukau,Yes,Qatar,QR920,17/03/2020,18/03/2020
+FORMER,Cormac,Confirmed,25/03/2020,Male,30 to 39,Capital and Coast,Yes,null,NZ433,21/03/2020,21/03/2020
+UPDATE,Cormac,Confirmed,25/03/2020,Male,30 to 39,Capital and Coast,Yes,United Arab Emirates,NZ433,21/03/2020,21/03/2020
+FORMER,Renée,Confirmed,26/03/2020,Female,50 to 59,Counties Manukau,Yes,Houston,null,null,22/03/2020
+UPDATE,Renée,Confirmed,26/03/2020,Female,50 to 59,Counties Manukau,Yes,United States of America,null,null,22/03/2020
+FORMER,Zac,Confirmed,25/03/2020,Male,70+,Auckland,Yes,San Diego,LA801,19/03/2020,20/03/2020
+UPDATE,Zac,Confirmed,25/03/2020,Male,70+,Auckland,Yes,Argentina,LA801,19/03/2020,20/03/2020
+FORMER,Ciara,Confirmed,24/03/2020,Female,20 to 29,Counties Manukau,Yes,Dubai,EK448,16/03/2020,17/03/2020
+UPDATE,Ciara,Confirmed,24/03/2020,Female,20 to 29,Counties Manukau,Yes,United Arab Emirates,EK448,16/03/2020,17/03/2020
+FORMER,Tate,Confirmed,22/03/2020,Male,60 to 69,Auckland,Yes,Dubai,null,null,9/03/2020
+UPDATE,Tate,Confirmed,22/03/2020,Male,60 to 69,Auckland,Yes,Qatar,null,null,9/03/2020
+FORMER,Earle,Confirmed,24/03/2020,Male,30 to 39,Auckland,Yes,California,null,null,17/03/2020
+UPDATE,Earle,Confirmed,24/03/2020,Male,30 to 39,Auckland,Yes,United States of America,null,null,17/03/2020
+FORMER,Ash,Confirmed,25/03/2020,Male,<1,Waitemata,null,null,null,null,null
+UPDATE,Ash,Confirmed,25/03/2020,Male,<1,Waitemata,No,null,null,null,null
+FORMER,Charlene,Confirmed,25/03/2020,Female,20 to 29,Auckland,Yes,London,EK448,13/03/2020,15/03/2020
+UPDATE,Charlene,Confirmed,25/03/2020,Female,20 to 29,Auckland,Yes,United Kingdom,EK448,13/03/2020,15/03/2020
+FORMER,Jenna,Confirmed,20/03/2020,Female,50 to 59,Canterbury,Yes,New York,NZ523,17/03/2020,17/03/2020
+UPDATE,Jenna,Confirmed,20/03/2020,Female,50 to 59,Canterbury,Yes,United States of America,NZ523,17/03/2020,17/03/2020
+FORMER,Josef,Confirmed,25/03/2020,Male,70+,Bay of Plenty,Yes,Colorado,NZ7,20/03/2020,23/03/2020
+UPDATE,Josef,Confirmed,25/03/2020,Male,70+,Bay of Plenty,Yes,United States of America,NZ7,20/03/2020,23/03/2020
+FORMER,Jaiden,Confirmed,25/03/2020,Male,30 to 39,Auckland,Yes,Houston,NZ29,15/03/2020,17/03/2020
+UPDATE,Jaiden,Confirmed,25/03/2020,Male,30 to 39,Auckland,Yes,United States of America,NZ29,15/03/2020,17/03/2020
+FORMER,Zayn,Confirmed,19/03/2020,Male,50 to 59,Hutt Valley,Yes,San Francisco,NZ5823,13/03/2020,5/03/2020
+UPDATE,Zayn,Confirmed,19/03/2020,Male,50 to 59,Hutt Valley,Yes,United States of America,NZ5823,13/03/2020,5/03/2020
+FORMER,Misty,Confirmed,26/03/2020,Female,20 to 29,Waikato,Yes,Los Angeles,null,null,25/03/2020
+UPDATE,Misty,Confirmed,26/03/2020,Female,20 to 29,Waikato,Yes,United States of America,null,null,25/03/2020
+FORMER,Addison,Confirmed,26/03/2020,Female,1 to 4,Canterbury,Yes,Sydney,null,null,15/03/2020
+UPDATE,Addison,Confirmed,26/03/2020,Female,1 to 4,Canterbury,Yes,Australia,null,null,15/03/2020
+FORMER,Johanna,Confirmed,16/03/2020,Female,40 to 49,Taranaki,Yes,Cairo,NZ8041,9/03/2020,9/03/2020
+UPDATE,Johanna,Confirmed,16/03/2020,Female,40 to 49,Taranaki,Yes,Egypt,NZ8041,9/03/2020,9/03/2020
+FORMER,Polly,Confirmed,27/03/2020,Female,40 to 49,Counties Manukau,Yes,Los Angeles,null,null,19/03/2020
+UPDATE,Polly,Confirmed,27/03/2020,Female,40 to 49,Counties Manukau,Yes,United States of America,null,null,19/03/2020
+FORMER,Chevy,Confirmed,14/03/2020,Male,60 to 69,Capital and Coast,Yes,null,NZ838,13/03/2020,13/03/2020
+UPDATE,Chevy,Confirmed,14/03/2020,Male,60 to 69,Capital and Coast,Yes,Australia,NZ838,13/03/2020,13/03/2020
+FORMER,Clementine,Confirmed,24/03/2020,Female,30 to 39,Waitemata,Yes,null,null,null,23/03/2020
+UPDATE,Clementine,Confirmed,24/03/2020,Female,30 to 39,Waitemata,Yes,New Zealand,null,null,23/03/2020
+FORMER,Byron,Confirmed,21/03/2020,Male,20 to 29,Canterbury,Yes,null,EY4689,18/03/2020,18/03/2020
+UPDATE,Byron,Confirmed,21/03/2020,Male,20 to 29,Canterbury,Yes,Switzerland,EY4689,18/03/2020,18/03/2020
+FORMER,Nathanael,Confirmed,25/03/2020,Male,20 to 29,Southern,Yes,null,null,null,20/03/2020
+UPDATE,Nathanael,Confirmed,25/03/2020,Male,20 to 29,Southern,Yes,Germany,null,null,20/03/2020
+FORMER,Harlyn,Confirmed,25/03/2020,Male,20 to 29,Southern,Yes,Frankfurt,NZ625,21/03/2020,19/03/2020
+UPDATE,Harlyn,Confirmed,25/03/2020,Male,20 to 29,Southern,Yes,Germany,NZ625,21/03/2020,19/03/2020
+FORMER,Lynnette,Confirmed,22/03/2020,Female,20 to 29,Canterbury,Yes,null,SQ297,17/03/2020,18/03/2020
+UPDATE,Lynnette,Confirmed,22/03/2020,Female,20 to 29,Canterbury,Yes,Singapore,SQ297,17/03/2020,18/03/2020
+FORMER,Joy,Confirmed,23/03/2020,Female,20 to 29,Canterbury,Yes,London,Emirates-CHCH,11/03/2020,null
+UPDATE,Joy,Confirmed,23/03/2020,Female,20 to 29,Canterbury,Yes,United Kingdom,null,11/03/2020,null
+FORMER,Bevin,Confirmed,27/03/2020,Male,60 to 69,Canterbury,Yes,"Adelaide,Melbourne",VA97,23/03/2020,23/03/2020
+UPDATE,Bevin,Confirmed,27/03/2020,Male,60 to 69,Canterbury,Yes,Australia,VA0097,23/03/2020,23/03/2020
+FORMER,Shea,Confirmed,25/03/2020,Male,60 to 69,Waikato,Yes,London,EK448,18/03/2020,19/03/2020
+UPDATE,Shea,Confirmed,25/03/2020,Male,60 to 69,Waikato,Yes,United Kingdom,EK448,18/03/2020,19/03/2020
+FORMER,Otto,Confirmed,25/03/2020,Male,20 to 29,Waikato,Yes,Doha,EL342,11/03/2020,13/03/2020
+UPDATE,Otto,Confirmed,25/03/2020,Male,20 to 29,Waikato,Yes,Qatar,EL342,11/03/2020,13/03/2020
+FORMER,Frazer,Confirmed,26/03/2020,Male,60 to 69,Lakes,Yes,Preston,CX2190,23/03/2020,25/03/2020
+UPDATE,Frazer,Confirmed,26/03/2020,Male,60 to 69,Lakes,Yes,England,CX2190,23/03/2020,25/03/2020
+FORMER,Sarah,Confirmed,23/03/2020,Female,70+,Capital and Coast,Yes,Sydney,null,18/03/2020,18/03/2020
+UPDATE,Sarah,Confirmed,23/03/2020,Female,70+,Capital and Coast,Yes,Australia,null,18/03/2020,18/03/2020
+FORMER,Adalyn,Confirmed,26/03/2020,Female,20 to 29,Capital and Coast,Yes,null,null,null,19/03/2020
+UPDATE,Adalyn,Confirmed,26/03/2020,Female,20 to 29,Capital and Coast,Yes,New Zealand,null,null,19/03/2020
+FORMER,Wesley,Confirmed,23/03/2020,Male,60 to 69,South Canterbury,Yes,London,null,null,null
+UPDATE,Wesley,Confirmed,23/03/2020,Male,60 to 69,South Canterbury,Yes,England,null,null,null
+FORMER,Archie,Confirmed,23/03/2020,Male,50 to 59,Capital and Coast,Yes,Los Angeles,NZ413,19/03/2020,19/03/2020
+UPDATE,Archie,Confirmed,23/03/2020,Male,50 to 59,Capital and Coast,Yes,United States of America,NZ413,19/03/2020,19/03/2020
+FORMER,Aurora,Confirmed,22/03/2020,Female,70+,Nelson Marlborough,Yes,Sydney,NZ5071,20/03/2020,19/03/2020
+UPDATE,Aurora,Confirmed,22/03/2020,Female,70+,Nelson Marlborough,Yes,Australia,NZ5071,20/03/2020,19/03/2020
+FORMER,Mya,Confirmed,26/03/2020,Female,70+,Southern,Yes,Los Angeles,NZ619,21/03/2020,21/03/2020
+UPDATE,Mya,Confirmed,26/03/2020,Female,70+,Southern,Yes,United States of America,NZ619,21/03/2020,21/03/2020
+FORMER,Samantha,Confirmed,19/03/2020,Female,30 to 39,Capital and Coast,Yes,London,NZ443,null,13/03/2020
+UPDATE,Samantha,Confirmed,19/03/2020,Female,30 to 39,Capital and Coast,Yes,United Kingdom,NZ443,null,13/03/2020
+FORMER,Aden,Confirmed,22/03/2020,Male,50 to 59,Nelson Marlborough,Yes,Sydney,NZ8205,18/03/2020,18/03/2020
+UPDATE,Aden,Confirmed,22/03/2020,Male,50 to 59,Nelson Marlborough,Yes,Australia,NZ8205,18/03/2020,18/03/2020
+FORMER,Rosanne,Confirmed,27/03/2020,Female,20 to 29,Southern,Yes,London,EK5121,20/03/2020,21/03/2020
+UPDATE,Rosanne,Confirmed,27/03/2020,Female,20 to 29,Southern,Yes,United Kingdom,EK5121,20/03/2020,21/03/2020
+FORMER,Loretta,Confirmed,19/03/2020,Female,30 to 39,Southern,Yes,Southampton,null,null,17/03/2020
+UPDATE,Loretta,Confirmed,19/03/2020,Female,30 to 39,Southern,Yes,England,null,null,17/03/2020
+FORMER,Titan,Confirmed,21/03/2020,Male,30 to 39,Bay of Plenty,Yes,Los Angeles,null,null,17/03/2020
+UPDATE,Titan,Confirmed,21/03/2020,Male,30 to 39,Bay of Plenty,Yes,United States of America,null,null,17/03/2020
+FORMER,Reeve,Confirmed,25/03/2020,Male,20 to 29,Capital and Coast,Yes,null,NZ411,24/03/2020,24/03/2020
+UPDATE,Reeve,Confirmed,25/03/2020,Male,20 to 29,Capital and Coast,Yes,New Zealand,NZ411,24/03/2020,24/03/2020
+FORMER,Callum,Confirmed,16/03/2020,Male,40 to 49,Taranaki,Yes,Auckland,NZ8035,15/03/2020,15/03/2020
+UPDATE,Callum,Confirmed,16/03/2020,Male,40 to 49,Taranaki,Yes,New Zealand,NZ8035,15/03/2020,15/03/2020
+FORMER,Soren,Confirmed,24/03/2020,Male,30 to 39,Capital and Coast,Yes,Dubai,null,null,18/03/2020
+UPDATE,Soren,Confirmed,24/03/2020,Male,30 to 39,Capital and Coast,Yes,United Arab Emirates,null,null,18/03/2020
+FORMER,Alexia,Confirmed,26/03/2020,Female,60 to 69,Counties Manukau,Yes,Doha,null,null,17/03/2020
+UPDATE,Alexia,Confirmed,26/03/2020,Female,60 to 69,Counties Manukau,Yes,United Arab Emirates,null,null,17/03/2020
+FORMER,Romeo,Confirmed,22/03/2020,Male,40 to 49,Counties Manukau,Yes,Los Angeles,AA3,16/03/2020,18/03/2020
+UPDATE,Romeo,Confirmed,22/03/2020,Male,40 to 49,Counties Manukau,Yes,United States of America,AA3,16/03/2020,18/03/2020
+FORMER,Frank,Confirmed,23/03/2020,Male,30 to 39,Nelson Marlborough,Yes,Sydney,NZ8205,18/03/2020,18/03/2020
+UPDATE,Frank,Confirmed,23/03/2020,Male,30 to 39,Nelson Marlborough,Yes,Australia,NZ8205,18/03/2020,18/03/2020
+FORMER,Izaiah,Confirmed,24/03/2020,Male,50 to 59,Canterbury,Yes,null,null,null,13/03/2020
+UPDATE,Izaiah,Confirmed,24/03/2020,Male,50 to 59,Canterbury,Yes,Viet Nam,null,null,13/03/2020
+FORMER,Shayla,Confirmed,27/03/2020,Female,30 to 39,Waikato,null,null,null,null,null
+UPDATE,Shayla,Confirmed,27/03/2020,Female,30 to 39,Waikato,No,null,null,null,null
+FORMER,Latham,Confirmed,24/03/2020,Male,20 to 29,Capital and Coast,Yes,Sydney,QF161,21/03/2020,21/03/2020
+UPDATE,Latham,Confirmed,24/03/2020,Male,20 to 29,Capital and Coast,Yes,Australia,QF161,21/03/2020,21/03/2020
+FORMER,Faith,Confirmed,25/03/2020,Female,20 to 29,Taranaki,Yes,Doha,null,null,19/03/2020
+UPDATE,Faith,Confirmed,25/03/2020,Female,20 to 29,Taranaki,Yes,United Arab Emirates,null,null,19/03/2020
+FORMER,Orlando,Confirmed,26/03/2020,Male,60 to 69,Waikato,Yes,null,null,null,19/03/2020
+UPDATE,Orlando,Confirmed,26/03/2020,Male,60 to 69,Waikato,Yes,United Kingdom,null,null,19/03/2020
+FORMER,Allen,Confirmed,25/03/2020,Male,30 to 39,Nelson Marlborough,Yes,Sydney,null,null,18/03/2020
+UPDATE,Allen,Confirmed,25/03/2020,Male,30 to 39,Nelson Marlborough,Yes,Australia,null,null,18/03/2020
+FORMER,Weston,Confirmed,25/03/2020,Male,60 to 69,Northland,Yes,Los Angeles,NZ1,23/03/2020,24/03/2020
+UPDATE,Weston,Confirmed,25/03/2020,Male,60 to 69,Northland,Yes,United States of America,NZ1,23/03/2020,24/03/2020
+FORMER,Izayah,Confirmed,24/03/2020,Male,50 to 59,Capital and Coast,Yes,New York/Houston,NZ0407,20/03/2020,20/03/2020
+UPDATE,Izayah,Confirmed,24/03/2020,Male,50 to 59,Capital and Coast,Yes,United States of America,NZ407,20/03/2020,20/03/2020
+FORMER,Karlene,Confirmed,26/03/2020,Female,50 to 59,Hutt Valley,Yes,Bali,NZ409,19/03/2020,19/03/2020
+UPDATE,Karlene,Confirmed,26/03/2020,Female,50 to 59,Hutt Valley,Yes,Indonesia,NZ409,19/03/2020,19/03/2020
+FORMER,Nicole,Probable,19/03/2020,Female,50 to 59,Auckland,Yes,London,null,null,17/03/2020
+UPDATE,Nicole,Probable,19/03/2020,Female,50 to 59,Auckland,Yes,United Kingdom,null,null,17/03/2020
+FORMER,Lucille,Confirmed,28/03/2020,Female,30 to 39,Southern,null,null,null,null,null
+UPDATE,Lucille,Confirmed,28/03/2020,Female,30 to 39,Southern,Yes,United Kingdom,NZ671,19/03/2020,19/03/2020
+FORMER,Tevita,Confirmed,24/03/2020,Male,20 to 29,Waitemata,Yes,Dubai,null,null,21/03/2020
+UPDATE,Tevita,Confirmed,24/03/2020,Male,20 to 29,Waitemata,Yes,Qatar,null,null,21/03/2020
+FORMER,Xavier,Confirmed,27/03/2020,Male,50 to 59,Waikato,null,null,null,null,null
+UPDATE,Xavier,Confirmed,27/03/2020,Male,50 to 59,Waikato,No,null,null,null,null
+FORMER,Mollie,Confirmed,21/03/2020,Female,40 to 49,MidCentral,Yes,null,NZ842,19/03/2020,19/03/2020
+UPDATE,Mollie,Confirmed,21/03/2020,Female,40 to 49,MidCentral,Yes,Australia,NZ842,19/03/2020,19/03/2020
+FORMER,Duane,Confirmed,22/03/2020,Male,20 to 29,Waitemata,Yes,"Denver,Colorado",QF143,18/03/2020,18/03/2020
+UPDATE,Duane,Confirmed,22/03/2020,Male,20 to 29,Waitemata,Yes,United States of America,QF143,18/03/2020,18/03/2020
+FORMER,Chrystal,Probable,26/03/2020,Female,50 to 59,Capital and Coast,Yes,New York,NZ409,19/03/2020,19/03/2020
+UPDATE,Chrystal,Probable,26/03/2020,Female,50 to 59,Capital and Coast,Yes,United States of America,NZ409,19/03/2020,19/03/2020
+FORMER,Bentley,Confirmed,21/03/2020,Male,50 to 59,Taranaki,Yes,Bangkok,NZ8041,16/03/2020,16/03/2020
+UPDATE,Bentley,Confirmed,21/03/2020,Male,50 to 59,Taranaki,Yes,Thailand,NZ8041,16/03/2020,16/03/2020
+FORMER,Darius,Confirmed,16/03/2020,Male,30 to 39,Capital and Coast,Yes,Colorado,AA83,14/03/2020,14/03/2020
+UPDATE,Darius,Confirmed,16/03/2020,Male,30 to 39,Capital and Coast,Yes,United States of America,AA83,14/03/2020,14/03/2020
+FORMER,Simone,Confirmed,24/03/2020,Female,20 to 29,Southern,Yes,London,EK006,21/03/2020,23/03/2020
+UPDATE,Simone,Confirmed,24/03/2020,Female,20 to 29,Southern,Yes,United Kingdom,EK6,21/03/2020,23/03/2020
+FORMER,Aiyana,Confirmed,26/03/2020,Female,20 to 29,Waitemata,Yes,Los Angeles,NZ5,22/03/2020,24/03/2020
+UPDATE,Aiyana,Confirmed,26/03/2020,Female,20 to 29,Waitemata,Yes,United States of America,NZ5,22/03/2020,24/03/2020
+FORMER,Caryl,Confirmed,25/03/2020,Female,20 to 29,Capital and Coast,Yes,Sydney,EK5047,21/03/2020,21/03/2020
+UPDATE,Caryl,Confirmed,25/03/2020,Female,20 to 29,Capital and Coast,Yes,Australia,EK5047,21/03/2020,21/03/2020
+FORMER,Piper,Confirmed,23/03/2020,Female,60 to 69,Waikato,Yes,Paris,EK0448,16/03/2020,16/03/2020
+UPDATE,Piper,Confirmed,23/03/2020,Female,60 to 69,Waikato,Yes,France,EK448,16/03/2020,16/03/2020
+FORMER,Ewan,Confirmed,23/03/2020,Male,50 to 59,Nelson Marlborough,Yes,Sydney,null,null,19/03/2020
+UPDATE,Ewan,Confirmed,23/03/2020,Male,50 to 59,Nelson Marlborough,Yes,Australia,null,null,19/03/2020
+FORMER,Miles,Confirmed,25/03/2020,Male,70+,Hawke's Bay,Yes,Phnom Penh,NZ5019,16/03/2020,16/03/2020
+UPDATE,Miles,Confirmed,25/03/2020,Male,70+,Hawke's Bay,Yes,Cambodia,NZ5019,16/03/2020,16/03/2020
+FORMER,Chanel,Confirmed,24/03/2020,Female,20 to 29,Waitemata,Yes,Los Angeles,NZ8,17/03/2020,19/03/2020
+UPDATE,Chanel,Confirmed,24/03/2020,Female,20 to 29,Waitemata,Yes,United States of America,NZ8,17/03/2020,19/03/2020
+FORMER,Reno,Confirmed,26/03/2020,Male,70+,Southern,Yes,Geneva,JQ295,16/03/2020,16/03/2020
+UPDATE,Reno,Confirmed,26/03/2020,Male,70+,Southern,Yes,Switzerland,JQ295,16/03/2020,16/03/2020
+FORMER,Edmund,Confirmed,26/03/2020,Male,40 to 49,Waikato,Yes,Bangkok,TG491,18/03/2020,18/03/2020
+UPDATE,Edmund,Confirmed,26/03/2020,Male,40 to 49,Waikato,Yes,Thailand,TG491,18/03/2020,18/03/2020
+FORMER,Malakai,Confirmed,27/03/2020,Male,20 to 29,Whanganui,Yes,Chicago,NZ6707,22/03/2020,23/03/2020
+UPDATE,Malakai,Confirmed,27/03/2020,Male,20 to 29,Whanganui,Yes,United States of America,NZ6707,22/03/2020,23/03/2020
+FORMER,Shaun,Confirmed,19/03/2020,Male,30 to 39,Hawke's Bay,Yes,null,QR920,16/03/2020,17/03/2020
+UPDATE,Shaun,Confirmed,19/03/2020,Male,30 to 39,Hawke's Bay,Yes,Qatar,QR920,16/03/2020,17/03/2020
+FORMER,Kathrine,Confirmed,24/03/2020,Female,50 to 59,Canterbury,Yes,San Francisco,NZ7,19/03/2020,19/03/2020
+UPDATE,Kathrine,Confirmed,24/03/2020,Female,50 to 59,Canterbury,Yes,United States of America,NZ7,19/03/2020,19/03/2020
+FORMER,Fatima,Confirmed,22/03/2020,Female,15 to 19,Counties Manukau,Yes,Dubai,EK448,19/03/2020,20/03/2020
+UPDATE,Fatima,Confirmed,22/03/2020,Female,15 to 19,Counties Manukau,Yes,United Arab Emirates,EK448,19/03/2020,20/03/2020
+FORMER,Errol,Confirmed,23/03/2020,Male,70+,Capital and Coast,Yes,Sydney,null,18/03/2020,18/03/2020
+UPDATE,Errol,Confirmed,23/03/2020,Male,70+,Capital and Coast,Yes,Australia,null,18/03/2020,18/03/2020
+FORMER,Davina,Confirmed,25/03/2020,Female,30 to 39,Southern,Yes,Dubai,NZ677,19/03/2020,19/03/2020
+UPDATE,Davina,Confirmed,25/03/2020,Female,30 to 39,Southern,Yes,United Arab Emirates,NZ677,19/03/2020,19/03/2020
+FORMER,Tyron,Confirmed,26/03/2020,Male,50 to 59,Hawke's Bay,Yes,Sydney,NZ5027,20/03/2020,20/03/2020
+UPDATE,Tyron,Confirmed,26/03/2020,Male,50 to 59,Hawke's Bay,Yes,Australia,NZ5027,20/03/2020,20/03/2020
+FORMER,Tristan,Probable,22/03/2020,Male,50 to 59,Waikato,Yes,Dubai,BEKA76,15/03/2020,16/03/2020
+UPDATE,Tristan,Probable,22/03/2020,Male,50 to 59,Waikato,Yes,United Arab Emirates,BEKA76,15/03/2020,16/03/2020
+FORMER,Gwendoline,Confirmed,25/03/2020,Female,20 to 29,Canterbury,Yes,Sydney,EK412,24/03/2020,24/03/2020
+UPDATE,Gwendoline,Confirmed,25/03/2020,Female,20 to 29,Canterbury,Yes,Australia,EK412,24/03/2020,24/03/2020
+FORMER,Cuthbert,Confirmed,23/03/2020,Male,50 to 59,Waikato,Yes,"Phuket,Bangkok",null,21/03/2020,22/03/2020
+UPDATE,Cuthbert,Confirmed,23/03/2020,Male,50 to 59,Waikato,Yes,Thailand,null,21/03/2020,22/03/2020
+FORMER,Braxton,Confirmed,25/03/2020,null,50 to 59,MidCentral,Yes,Los Angeles,NZ5107,18/03/2020,18/03/2020
+UPDATE,Braxton,Confirmed,25/03/2020,null,50 to 59,MidCentral,Yes,United States of America,NZ5107,18/03/2020,18/03/2020
+FORMER,Fabian,Confirmed,17/03/2020,Male,60 to 69,Waitemata,Yes,"Okanagan,Vancouver",null,null,12/03/2020
+UPDATE,Fabian,Confirmed,17/03/2020,Male,60 to 69,Waitemata,Yes,Canada,null,null,12/03/2020
+FORMER,Trisha,Confirmed,23/03/2020,Female,30 to 39,Lakes,Yes,null,EK448,22/03/2020,23/03/2020
+UPDATE,Trisha,Confirmed,23/03/2020,Female,30 to 39,Lakes,Yes,United Arab Emirates,EK448,22/03/2020,23/03/2020
+FORMER,Steven,Confirmed,23/03/2020,Male,40 to 49,Hutt Valley,Yes,Sydney,VA171,13/03/2020,13/03/2020
+UPDATE,Steven,Confirmed,23/03/2020,Male,40 to 49,Hutt Valley,Yes,Australia,VA171,13/03/2020,13/03/2020
+FORMER,Kael,Confirmed,26/03/2020,Male,20 to 29,West Coast,Yes,Sydney,null,null,12/03/2020
+UPDATE,Kael,Confirmed,26/03/2020,Male,20 to 29,West Coast,Yes,Australia,null,null,12/03/2020
+FORMER,Kai,Confirmed,20/03/2020,Male,20 to 29,Canterbury,Yes,London,SQ297,17/03/2020,18/03/2020
+UPDATE,Kai,Confirmed,20/03/2020,Male,20 to 29,Canterbury,Yes,United Kingdom,SQ297,17/03/2020,18/03/2020
+FORMER,Astrid,Confirmed,26/03/2020,Female,20 to 29,Bay of Plenty,Yes,null,null,null,24/03/2020
+UPDATE,Astrid,Confirmed,26/03/2020,Female,20 to 29,Bay of Plenty,Yes,null,EK68,23/03/2020,24/03/2020
+FORMER,Alastair,Confirmed,18/03/2020,Male,50 to 59,Capital and Coast,Yes,Dubai,QF161,14/03/2020,14/03/2020
+UPDATE,Alastair,Confirmed,18/03/2020,Male,50 to 59,Capital and Coast,Yes,United Arab Emirates,QF161,14/03/2020,14/03/2020
+FORMER,Tasha,Confirmed,26/03/2020,Female,60 to 69,Hawke's Bay,Yes,Sydney,NZ5027,20/03/2020,20/03/2020
+UPDATE,Tasha,Confirmed,26/03/2020,Female,60 to 69,Hawke's Bay,Yes,Australia,NZ5027,20/03/2020,20/03/2020
+FORMER,Lucan,Confirmed,24/03/2020,Male,60 to 69,Waitemata,Yes,Buenos Aires,null,null,17/03/2020
+UPDATE,Lucan,Confirmed,24/03/2020,Male,60 to 69,Waitemata,Yes,Argentina,null,null,17/03/2020
+FORMER,Tomas,Confirmed,25/03/2020,Male,30 to 39,Waikato,Yes,Doha,null,null,19/03/2020
+UPDATE,Tomas,Confirmed,25/03/2020,Male,30 to 39,Waikato,Yes,United Arab Emirates,null,null,19/03/2020
+FORMER,Boaz,Confirmed,04/03/2020,Male,40 to 49,Counties Manukau,Yes,null,null,null,23/02/2020
+UPDATE,Boaz,Confirmed,04/03/2020,Male,40 to 49,Counties Manukau,Yes,Iran,null,null,23/02/2020
+FORMER,Cash,Confirmed,21/03/2020,Male,60 to 69,Waikato,Yes,Hawai'i,null,null,15/03/2020
+UPDATE,Cash,Confirmed,21/03/2020,Male,60 to 69,Waikato,Yes,United States of America,null,null,15/03/2020
+FORMER,Bridget,Confirmed,13/03/2020,Female,30 to 39,Southern,Yes,Christchurch,null,null,10/03/2020
+UPDATE,Bridget,Confirmed,13/03/2020,Female,30 to 39,Southern,Yes,New Zealand,null,null,10/03/2020
+FORMER,Chantelle,Probable,27/03/2020,Female,50 to 59,Auckland,null,null,null,null,null
+UPDATE,Chantelle,Probable,27/03/2020,Female,50 to 59,Auckland,No,null,null,null,null
+FORMER,Barnaby,Confirmed,24/03/2020,Male,30 to 39,Southern,Yes,Tirol,JQ285,19/03/2020,19/03/2020
+UPDATE,Barnaby,Confirmed,24/03/2020,Male,30 to 39,Southern,Yes,Austria,JQ285,19/03/2020,19/03/2020
+FORMER,Rihari,Confirmed,24/03/2020,Male,50 to 59,Auckland,Yes,San Diego,AA83,19/03/2020,19/03/2020
+UPDATE,Rihari,Confirmed,24/03/2020,Male,50 to 59,Auckland,Yes,United States of America,AA83,19/03/2020,19/03/2020
+FORMER,Sharyn,Confirmed,15/03/2020,Female,40 to 49,Waitemata,Yes,null,null,null,8/03/2020
+UPDATE,Sharyn,Confirmed,15/03/2020,Female,40 to 49,Waitemata,Yes,Portugal,null,null,8/03/2020
+FORMER,Wilbur,Confirmed,25/03/2020,Male,50 to 59,Lakes,Yes,null,null,null,14/03/2020
+UPDATE,Wilbur,Confirmed,25/03/2020,Male,50 to 59,Lakes,Yes,Singapore,null,null,14/03/2020
+FORMER,Shelley,Confirmed,24/03/2020,Female,20 to 29,MidCentral,Yes,Brisbane,JQ278,14/03/2020,6/03/2020
+UPDATE,Shelley,Confirmed,24/03/2020,Female,20 to 29,MidCentral,Yes,Australia,JQ278,14/03/2020,6/03/2020
+FORMER,Kristen,Confirmed,23/03/2020,Female,30 to 39,Counties Manukau,Yes,Sydney,null,null,17/03/2020
+UPDATE,Kristen,Confirmed,23/03/2020,Female,30 to 39,Counties Manukau,Yes,Australia,null,null,17/03/2020
+FORMER,Marlon,Confirmed,26/03/2020,Male,70+,Taranaki,Yes,null,SQ285,24/03/2020,24/03/2020
+UPDATE,Marlon,Confirmed,26/03/2020,Male,70+,Taranaki,Yes,Singapore,SQ285,24/03/2020,24/03/2020
+FORMER,Kaleb,Confirmed,17/03/2020,Male,40 to 49,Capital and Coast,Yes,London,SQ247,13/03/2020,14/03/2020
+UPDATE,Kaleb,Confirmed,17/03/2020,Male,40 to 49,Capital and Coast,Yes,United Kingdom,SQ247,13/03/2020,14/03/2020
+FORMER,Iziah,Confirmed,23/03/2020,Male,50 to 59,Canterbury,Yes,null,SQ297,19/03/2020,20/03/2020
+UPDATE,Iziah,Confirmed,23/03/2020,Male,50 to 59,Canterbury,Yes,Singapore,SQ297,19/03/2020,20/03/2020
+FORMER,Siaosi,Confirmed,25/03/2020,Male,60 to 69,Counties Manukau,Yes,Dubai,EK448,18/03/2020,19/03/2020
+UPDATE,Siaosi,Confirmed,25/03/2020,Male,60 to 69,Counties Manukau,Yes,Qatar,EK448,18/03/2020,19/03/2020
+FORMER,Tommy,Confirmed,24/03/2020,Male,40 to 49,Capital and Coast,Yes,New York,WL241,20/03/2020,20/03/2020
+UPDATE,Tommy,Confirmed,24/03/2020,Male,40 to 49,Capital and Coast,Yes,United States of America,WL241,20/03/2020,20/03/2020
+FORMER,Josie,Confirmed,27/03/2020,Female,50 to 59,MidCentral,Yes,Los Angeles,null,null,12/03/2020
+UPDATE,Josie,Confirmed,27/03/2020,Female,50 to 59,MidCentral,Yes,United States of America,null,null,12/03/2020
+FORMER,Wikitoria,Confirmed,27/03/2020,Female,20 to 29,Hawke's Bay,Yes,London,NZ5005,22/03/2020,22/03/2020
+UPDATE,Wikitoria,Confirmed,27/03/2020,Female,20 to 29,Hawke's Bay,Yes,England,NZ5005,22/03/2020,22/03/2020
+FORMER,Colby,Confirmed,19/03/2020,Male,60 to 69,Capital and Coast,Yes,London,QF161,15/03/2020,15/03/2020
+UPDATE,Colby,Confirmed,19/03/2020,Male,60 to 69,Capital and Coast,Yes,United Kingdom,QF161,15/03/2020,15/03/2020
+FORMER,Caiden,Confirmed,24/03/2020,Male,20 to 29,Lakes,Yes,Doha,null,null,23/03/2020
+UPDATE,Caiden,Confirmed,24/03/2020,Male,20 to 29,Lakes,Yes,null,QR920,22/03/2020,23/03/2020
+FORMER,Larry,Confirmed,25/03/2020,Male,50 to 59,Waikato,Yes,null,null,null,7/03/2020
+UPDATE,Larry,Confirmed,25/03/2020,Male,50 to 59,Waikato,Yes,Philippines,null,null,7/03/2020
+FORMER,Valmai,Confirmed,20/03/2020,Female,20 to 29,Nelson Marlborough,Yes,Houston,NZ5065,16/03/2020,16/03/2020
+UPDATE,Valmai,Confirmed,20/03/2020,Female,20 to 29,Nelson Marlborough,Yes,United States of America,NZ5065,16/03/2020,16/03/2020
+FORMER,Georgie,Confirmed,25/03/2020,Female,60 to 69,Waitemata,Yes,Buenos Aires,null,null,17/03/2020
+UPDATE,Georgie,Confirmed,25/03/2020,Female,60 to 69,Waitemata,Yes,Argentina,null,null,17/03/2020
+FORMER,Bruce,Confirmed,18/03/2020,Male,50 to 59,Canterbury,Yes,Los Angeles,NZ535,15/03/2020,14/03/2020
+UPDATE,Bruce,Confirmed,18/03/2020,Male,50 to 59,Canterbury,Yes,United States of America,NZ535,15/03/2020,14/03/2020
+FORMER,Angelo,Confirmed,24/03/2020,Male,70+,Hawke's Bay,Yes,Majorca,EK448,18/03/2020,19/03/2020
+UPDATE,Angelo,Confirmed,24/03/2020,Male,70+,Hawke's Bay,Yes,Spain,EK448,18/03/2020,19/03/2020
+FORMER,Phyllis,Confirmed,24/03/2020,Female,60 to 69,Capital and Coast,Yes,"New York,Atlanta,Houston",NZ0407,20/03/2020,20/03/2020
+UPDATE,Phyllis,Confirmed,24/03/2020,Female,60 to 69,Capital and Coast,Yes,United States of America,NZ407,20/03/2020,20/03/2020
+FORMER,Kieran,Confirmed,26/03/2020,Male,50 to 59,Waitemata,Yes,null,null,null,19/03/2020
+UPDATE,Kieran,Confirmed,26/03/2020,Male,50 to 59,Waitemata,Yes,United States of America,null,null,19/03/2020
+FORMER,Judah,Confirmed,26/03/2020,Male,40 to 49,Capital and Coast,Yes,Sydney,QF161,24/03/2020,24/03/2020
+UPDATE,Judah,Confirmed,26/03/2020,Male,40 to 49,Capital and Coast,Yes,Australia,QF161,24/03/2020,24/03/2020
+FORMER,Angus,Confirmed,17/03/2020,Male,40 to 49,Auckland,Yes,null,QF13,15/03/2020,15/03/2020
+UPDATE,Angus,Confirmed,17/03/2020,Male,40 to 49,Auckland,Yes,Singapore,QF13,15/03/2020,15/03/2020
+FORMER,Roman,Confirmed,22/03/2020,Male,70+,Nelson Marlborough,Yes,Sydney,NZ5071,20/03/2020,19/03/2020
+UPDATE,Roman,Confirmed,22/03/2020,Male,70+,Nelson Marlborough,Yes,Australia,NZ5071,20/03/2020,19/03/2020
+FORMER,Joan,Probable,27/03/2020,Female,30 to 39,Canterbury,Yes,London,EK412,18/03/2020,19/03/2020
+UPDATE,Joan,Probable,27/03/2020,Female,30 to 39,Canterbury,Yes,United Kingdom,EK412,18/03/2020,19/03/2020
+FORMER,Sybil,Confirmed,21/03/2020,Female,30 to 39,Wairarapa,Yes,London,NZ411,17/03/2020,17/03/2020
+UPDATE,Sybil,Confirmed,21/03/2020,Female,30 to 39,Wairarapa,Yes,United Kingdom,NZ411,17/03/2020,17/03/2020
+FORMER,Vance,Confirmed,16/03/2020,Male,70+,Capital and Coast,Yes,Colorado,AA83,14/03/2020,14/03/2020
+UPDATE,Vance,Confirmed,16/03/2020,Male,70+,Capital and Coast,Yes,United States of America,AA83,14/03/2020,14/03/2020
+FORMER,Archer,Confirmed,26/03/2020,Male,30 to 39,Canterbury,Yes,Tokyo,null,null,19/03/2020
+UPDATE,Archer,Confirmed,26/03/2020,Male,30 to 39,Canterbury,Yes,Japan,null,null,19/03/2020
+FORMER,Taika,Confirmed,25/03/2020,Male,30 to 39,Waitemata,Yes,null,EK448,16/03/2020,17/03/2020
+UPDATE,Taika,Confirmed,25/03/2020,Male,30 to 39,Waitemata,Yes,Switzerland,EK448,16/03/2020,17/03/2020
+FORMER,Winifred,Confirmed,26/02/2020,Female,60 to 69,Auckland,Yes,Bali,EK450,25/02/2020,26/02/2020
+UPDATE,Winifred,Confirmed,26/02/2020,Female,60 to 69,Auckland,Yes,Indonesia,EK450,25/02/2020,26/02/2020
+FORMER,Jamal,Confirmed,24/03/2020,Male,60 to 69,Nelson Marlborough,Yes,Los Angeles,NZ5065,16/03/2020,16/03/2020
+UPDATE,Jamal,Confirmed,24/03/2020,Male,60 to 69,Nelson Marlborough,Yes,United States of America,NZ5065,16/03/2020,16/03/2020
+FORMER,Andre,Confirmed,12/03/2020,Male,60 to 69,Counties Manukau,Yes,New Jersey,null,null,6/03/2020
+UPDATE,Andre,Confirmed,12/03/2020,Male,60 to 69,Counties Manukau,Yes,United States of America,null,null,6/03/2020
+FORMER,Jaqueline,Confirmed,22/03/2020,Female,20 to 29,Capital and Coast,Yes,null,JQ253,19/03/2020,19/03/2020
+UPDATE,Jaqueline,Confirmed,22/03/2020,Female,20 to 29,Capital and Coast,Yes,United Kingdom,JQ253,19/03/2020,19/03/2020
+FORMER,Stephen,Confirmed,22/03/2020,Male,20 to 29,Auckland,Yes,Doha,QR920,21/03/2020,22/03/2020
+UPDATE,Stephen,Confirmed,22/03/2020,Male,20 to 29,Auckland,Yes,Qatar,QR920,21/03/2020,22/03/2020
+FORMER,Libby,Confirmed,26/03/2020,Female,40 to 49,Hutt Valley,Yes,Dubai,EK0448,20/03/2020,21/03/2020
+UPDATE,Libby,Confirmed,26/03/2020,Female,40 to 49,Hutt Valley,Yes,United Arab Emirates,EK448,20/03/2020,21/03/2020
+FORMER,Reid,Confirmed,25/03/2020,Male,40 to 49,Auckland,Yes,null,null,null,15/03/2020
+UPDATE,Reid,Confirmed,25/03/2020,Male,40 to 49,Auckland,Yes,United States of America,NZ1,13/03/2020,15/03/2020
+FORMER,Jake,Confirmed,27/03/2020,Male,30 to 39,Counties Manukau,null,null,null,null,null
+UPDATE,Jake,Confirmed,27/03/2020,Male,30 to 39,Counties Manukau,No,null,null,null,null
+FORMER,Molly,Confirmed,26/03/2020,Female,30 to 39,Canterbury,Yes,Sydney,EK412,19/03/2020,20/03/2020
+UPDATE,Molly,Confirmed,26/03/2020,Female,30 to 39,Canterbury,Yes,Australia,EK412,19/03/2020,20/03/2020
+FORMER,Chelsea,Confirmed,21/03/2020,Female,60 to 69,Waikato,Yes,null,null,null,17/03/2020
+UPDATE,Chelsea,Confirmed,21/03/2020,Female,60 to 69,Waikato,Yes,Middle East,null,null,17/03/2020
+FORMER,Winston,Confirmed,25/03/2020,Male,50 to 59,Waitemata,Yes,Bali,null,null,15/03/2020
+UPDATE,Winston,Confirmed,25/03/2020,Male,50 to 59,Waitemata,Yes,Indonesia,null,null,15/03/2020
+FORMER,Ross,Confirmed,26/03/2020,Male,20 to 29,Canterbury,Yes,Orlando,UA917,19/03/2020,20/03/2020
+UPDATE,Ross,Confirmed,26/03/2020,Male,20 to 29,Canterbury,Yes,United States of America,UA917,19/03/2020,20/03/2020
+FORMER,Hector,Confirmed,27/03/2020,Male,30 to 39,Southern,Yes,"Orlando,New York,Los Angeles",NZ639,23/03/2020,22/03/2020
+UPDATE,Hector,Confirmed,27/03/2020,Male,30 to 39,Southern,Yes,United States of America,NZ639,23/03/2020,22/03/2020
+FORMER,Fanny,Confirmed,20/03/2020,Female,60 to 69,Waikato,Yes,null,SQ285,14/03/2020,15/03/2020
+UPDATE,Fanny,Confirmed,20/03/2020,Female,60 to 69,Waikato,Yes,Singapore,SQ285,14/03/2020,15/03/2020
+FORMER,Ruben,Confirmed,22/03/2020,Male,40 to 49,Counties Manukau,Yes,null,EK448,15/03/2020,16/03/2020
+UPDATE,Ruben,Confirmed,22/03/2020,Male,40 to 49,Counties Manukau,Yes,Belgium,EK448,15/03/2020,16/03/2020
+FORMER,Dayne,Probable,05/03/2020,Male,70+,Counties Manukau,Yes,Doha,QR0920,22/02/2020,23/02/2020
+UPDATE,Dayne,Probable,05/03/2020,Male,70+,Counties Manukau,Yes,Qatar,QR920,22/02/2020,23/02/2020
+FORMER,Samuel,Confirmed,20/03/2020,Male,50 to 59,Lakes,Yes,Dubai,EK448,10/03/2020,12/03/2020
+UPDATE,Samuel,Confirmed,20/03/2020,Male,50 to 59,Lakes,Yes,United Arab Emirates,EK448,10/03/2020,12/03/2020
+FORMER,Kiana,Confirmed,26/03/2020,Female,60 to 69,Canterbury,Yes,null,NZ884,18/03/2020,18/03/2020
+UPDATE,Kiana,Confirmed,26/03/2020,Female,60 to 69,Canterbury,Yes,Egypt,NZ884,18/03/2020,18/03/2020
+FORMER,Joanna,Confirmed,24/03/2020,Female,15 to 19,Waitemata,Yes,Houston,NZ29,null,18/03/2020
+UPDATE,Joanna,Confirmed,24/03/2020,Female,15 to 19,Waitemata,Yes,United States of America,NZ29,null,18/03/2020
+FORMER,Ursula,Confirmed,22/03/2020,Female,20 to 29,Southern,Yes,New York,null,19/03/2020,19/03/2020
+UPDATE,Ursula,Confirmed,22/03/2020,Female,20 to 29,Southern,Yes,United States of America,null,19/03/2020,19/03/2020
+FORMER,Emily,Confirmed,23/03/2020,Female,15 to 19,Auckland,Yes,Sydney,null,null,21/03/2020
+UPDATE,Emily,Confirmed,23/03/2020,Female,15 to 19,Auckland,Yes,Australia,null,null,21/03/2020
+FORMER,Nicolette,Confirmed,25/03/2020,Female,20 to 29,Northland,Yes,Dubai,EK488,19/03/2020,null
+UPDATE,Nicolette,Confirmed,25/03/2020,Female,20 to 29,Northland,Yes,United Arab Emirates,EK488,19/03/2020,null
+FORMER,Averil,Confirmed,23/03/2020,Female,50 to 59,Capital and Coast,Yes,New York,NZ409,19/03/2020,19/03/2020
+UPDATE,Averil,Confirmed,23/03/2020,Female,50 to 59,Capital and Coast,Yes,United States of America,NZ409,19/03/2020,19/03/2020
+FORMER,Ellen,Confirmed,25/03/2020,Female,20 to 29,Lakes,Yes,Zurich,QR920,null,24/03/2020
+UPDATE,Ellen,Confirmed,25/03/2020,Female,20 to 29,Lakes,Yes,Switzerland,QR920,null,24/03/2020
+FORMER,Sapphire,Confirmed,24/03/2020,Female,20 to 29,Canterbury,Yes,Hautesaivre,QF1033,20/03/2020,20/03/2020
+UPDATE,Sapphire,Confirmed,24/03/2020,Female,20 to 29,Canterbury,Yes,France,QF1033,20/03/2020,20/03/2020
+FORMER,Kymani,Confirmed,27/03/2020,Male,40 to 49,Auckland,null,null,null,null,null
+UPDATE,Kymani,Confirmed,27/03/2020,Male,40 to 49,Auckland,Yes,United States of America,null,null,20/03/2020
+FORMER,Ramon,Probable,27/03/2020,Male,30 to 39,Canterbury,Yes,London,EK412,18/03/2020,19/03/2020
+UPDATE,Ramon,Probable,27/03/2020,Male,30 to 39,Canterbury,Yes,United Kingdom,EK412,18/03/2020,19/03/2020
+FORMER,Tamsin,Confirmed,25/03/2020,Female,20 to 29,Auckland,Yes,null,null,null,18/03/2020
+UPDATE,Tamsin,Confirmed,25/03/2020,Female,20 to 29,Auckland,Yes,Singapore,null,null,18/03/2020
+FORMER,Jermaine,Probable,21/03/2020,Male,20 to 29,Taranaki,Yes,Dubai,NZ8041,18/03/2020,18/03/2020
+UPDATE,Jermaine,Probable,21/03/2020,Male,20 to 29,Taranaki,Yes,United Arab Emirates,NZ8041,18/03/2020,18/03/2020
+FORMER,Tawera,Confirmed,27/03/2020,Male,20 to 29,Auckland,Yes,null,null,null,21/03/2020
+UPDATE,Tawera,Confirmed,27/03/2020,Male,20 to 29,Auckland,Yes,Netherlands,null,null,21/03/2020
+FORMER,Corrina,Confirmed,22/03/2020,Female,50 to 59,Counties Manukau,Yes,"Malaga,Madrid",QR920,17/03/2020,18/03/2020
+UPDATE,Corrina,Confirmed,22/03/2020,Female,50 to 59,Counties Manukau,Yes,Spain,QR920,17/03/2020,18/03/2020
+FORMER,Neale,Confirmed,21/03/2020,Male,60 to 69,Nelson Marlborough,Yes,Perth,null,null,8/03/2020
+UPDATE,Neale,Confirmed,21/03/2020,Male,60 to 69,Nelson Marlborough,Yes,Australia,null,null,8/03/2020
+FORMER,Rome,Confirmed,27/03/2020,Male,60 to 69,Waikato,null,null,null,null,null
+UPDATE,Rome,Confirmed,27/03/2020,Male,60 to 69,Waikato,No,null,null,null,null
+FORMER,Te Ao,Confirmed,26/03/2020,Female,15 to 19,Waikato,Yes,Sun Peak,NZ23,20/03/2020,22/03/2020
+UPDATE,Te Ao,Confirmed,26/03/2020,Female,15 to 19,Waikato,Yes,Canada,NZ23,20/03/2020,22/03/2020
+FORMER,Kiley,Confirmed,22/03/2020,Male,20 to 29,Nelson Marlborough,Yes,Meribel,NZ8321,20/03/2020,20/03/2020
+UPDATE,Kiley,Confirmed,22/03/2020,Male,20 to 29,Nelson Marlborough,Yes,Switzerland,NZ8321,20/03/2020,20/03/2020
+FORMER,Zach,Confirmed,26/03/2020,Male,40 to 49,Waitemata,Yes,Sydney,QF143,18/03/2020,18/03/2020
+UPDATE,Zach,Confirmed,26/03/2020,Male,40 to 49,Waitemata,Yes,Australia,QF143,18/03/2020,18/03/2020
+FORMER,Norton,Confirmed,25/03/2020,Male,70+,Waitemata,Yes,California,NZ5,17/03/2020,19/03/2020
+UPDATE,Norton,Confirmed,25/03/2020,Male,70+,Waitemata,Yes,United States of America,NZ5,17/03/2020,19/03/2020
+FORMER,Diamond,Confirmed,17/03/2020,Female,30 to 39,Counties Manukau,Yes,Colorado,null,null,13/03/2020
+UPDATE,Diamond,Confirmed,17/03/2020,Female,30 to 39,Counties Manukau,Yes,United States of America,null,null,13/03/2020
+FORMER,Goldie,Confirmed,25/03/2020,Female,60 to 69,Hawke's Bay,Yes,Phnom Penh,NZ5019,16/03/2020,16/03/2020
+UPDATE,Goldie,Confirmed,25/03/2020,Female,60 to 69,Hawke's Bay,Yes,Cambodia,NZ5019,16/03/2020,16/03/2020
+FORMER,Leonardo,Confirmed,24/03/2020,Male,30 to 39,Capital and Coast,Yes,Melbourne,null,null,21/03/2020
+UPDATE,Leonardo,Confirmed,24/03/2020,Male,30 to 39,Capital and Coast,Yes,Australia,null,null,21/03/2020
+FORMER,Helena,Probable,05/03/2020,Female,70+,Waitemata,Yes,San Francisco,null,null,25/02/2020
+UPDATE,Helena,Probable,05/03/2020,Female,70+,Waitemata,Yes,United States of America,null,null,25/02/2020
+FORMER,Sylvia,Confirmed,22/03/2020,Female,60 to 69,Canterbury,Yes,null,null,null,18/03/2020
+UPDATE,Sylvia,Confirmed,22/03/2020,Female,60 to 69,Canterbury,Yes,Egypt,null,null,18/03/2020
+FORMER,Kelli,Confirmed,24/03/2020,Female,50 to 59,Capital and Coast,Yes,New York,NZ241,20/03/2020,20/03/2020
+UPDATE,Kelli,Confirmed,24/03/2020,Female,50 to 59,Capital and Coast,Yes,United States of America,NZ241,20/03/2020,20/03/2020
+FORMER,Marcus,Confirmed,21/03/2020,Male,20 to 29,Auckland,Yes,Dubai,EK52,15/03/2020,17/03/2020
+UPDATE,Marcus,Confirmed,21/03/2020,Male,20 to 29,Auckland,Yes,Qatar,EK52,15/03/2020,17/03/2020
+FORMER,Jemima,Confirmed,19/03/2020,Female,20 to 29,MidCentral,Yes,Doha,NZ5107,16/03/2020,16/03/2020
+UPDATE,Jemima,Confirmed,19/03/2020,Female,20 to 29,MidCentral,Yes,Qatar,NZ5107,16/03/2020,16/03/2020
+FORMER,Ivy,Confirmed,25/03/2020,Female,60 to 69,Bay of Plenty,Yes,Sydney,NZ102,null,17/03/2020
+UPDATE,Ivy,Confirmed,25/03/2020,Female,60 to 69,Bay of Plenty,Yes,Australia,NZ102,null,17/03/2020
+FORMER,Mohammad,Confirmed,18/03/2020,Male,40 to 49,Southern,Yes,Gold Coast,null,null,10/03/2020
+UPDATE,Mohammad,Confirmed,18/03/2020,Male,40 to 49,Southern,Yes,Australia,null,null,10/03/2020
+FORMER,Reta,Confirmed,26/03/2020,Female,60 to 69,Southern,Yes,null,null,null,22/03/2020
+UPDATE,Reta,Confirmed,26/03/2020,Female,60 to 69,Southern,Yes,Argentina,null,null,22/03/2020
+FORMER,Asha,Confirmed,27/03/2020,Female,20 to 29,South Canterbury,Yes,Auckland,OA4326,19/03/2020,20/03/2020
+UPDATE,Asha,Confirmed,27/03/2020,Female,20 to 29,South Canterbury,Yes,null,OA4326,19/03/2020,20/03/2020
+FORMER,Phillip,Confirmed,17/03/2020,Male,60 to 69,Waitemata,Yes,Los Angeles,UA559,11/03/2020,13/03/2020
+UPDATE,Phillip,Confirmed,17/03/2020,Male,60 to 69,Waitemata,Yes,United States of America,UA559,11/03/2020,13/03/2020
+FORMER,Nicholas,Confirmed,26/03/2020,Male,50 to 59,Waitemata,Yes,null,null,20/03/2020,19/03/2020
+UPDATE,Nicholas,Confirmed,26/03/2020,Male,50 to 59,Waitemata,Yes,United States of America,null,20/03/2020,19/03/2020
+FORMER,Harmony,Confirmed,26/03/2020,Female,70+,Waikato,Yes,null,PR218,null,6/03/2020
+UPDATE,Harmony,Confirmed,26/03/2020,Female,70+,Waikato,Yes,Philippines,PR218,null,6/03/2020
+FORMER,Zeta,Confirmed,25/03/2020,Female,20 to 29,Auckland,Yes,Dubai,null,null,20/03/2020
+UPDATE,Zeta,Confirmed,25/03/2020,Female,20 to 29,Auckland,Yes,United Arab Emirates,null,null,20/03/2020
+FORMER,Paul,Confirmed,21/03/2020,Male,20 to 29,Wairarapa,Yes,null,NZ429,12/03/2020,12/03/2020
+UPDATE,Paul,Confirmed,21/03/2020,Male,20 to 29,Wairarapa,Yes,France,NZ429,12/03/2020,12/03/2020
+FORMER,Dayle,Confirmed,19/03/2020,Male,50 to 59,Hutt Valley,Yes,Sydney,EK5047,14/03/2020,14/03/2020
+UPDATE,Dayle,Confirmed,19/03/2020,Male,50 to 59,Hutt Valley,Yes,Australia,EK5047,14/03/2020,14/03/2020
+FORMER,Lorna,Confirmed,26/03/2020,Female,30 to 39,Auckland,Yes,Dublin,null,null,16/03/2020
+UPDATE,Lorna,Confirmed,26/03/2020,Female,30 to 39,Auckland,Yes,Ireland,null,null,16/03/2020
+FORMER,Harlen,Confirmed,24/03/2020,Male,40 to 49,Waitemata,Yes,Los Angeles,AA83,19/03/2020,21/03/2020
+UPDATE,Harlen,Confirmed,24/03/2020,Male,40 to 49,Waitemata,Yes,United States of America,AA83,19/03/2020,21/03/2020
+FORMER,Katie,Confirmed,24/03/2020,Female,20 to 29,Waikato,Yes,Bali,null,null,23/03/2020
+UPDATE,Katie,Confirmed,24/03/2020,Female,20 to 29,Waikato,Yes,Indonesia,null,null,23/03/2020
+FORMER,Quinton,Confirmed,24/03/2020,Male,60 to 69,Southern,Yes,London,null,null,16/03/2020
+UPDATE,Quinton,Confirmed,24/03/2020,Male,60 to 69,Southern,Yes,United Kingdom,null,null,16/03/2020
+FORMER,Gael,Probable,27/03/2020,Female,60 to 69,MidCentral,No,null,null,null,null
+UPDATE,Gael,Confirmed,27/03/2020,Female,60 to 69,MidCentral,No,null,null,null,null
+FORMER,Axel,Confirmed,25/03/2020,Male,40 to 49,Waikato,Yes,Dubai,null,null,19/03/2020
+UPDATE,Axel,Confirmed,25/03/2020,Male,40 to 49,Waikato,Yes,United Arab Emirates,null,null,19/03/2020
+FORMER,Erica,Confirmed,27/03/2020,Female,20 to 29,Bay of Plenty,Yes,Dubai,NZ8141,23/03/2020,23/03/2020
+UPDATE,Erica,Confirmed,27/03/2020,Female,20 to 29,Bay of Plenty,Yes,United Arab Emirates,NZ8141,23/03/2020,23/03/2020
+FORMER,Evangeline,Confirmed,19/03/2020,Female,40 to 49,Waitemata,Yes,Doha,QR920,14/03/2020,15/03/2020
+UPDATE,Evangeline,Confirmed,19/03/2020,Female,40 to 49,Waitemata,Yes,Qatar,QR920,14/03/2020,15/03/2020
+FORMER,Milly,Confirmed,27/03/2020,Female,15 to 19,Taranaki,Yes,Dubai,null,null,20/03/2020
+UPDATE,Milly,Confirmed,27/03/2020,Female,15 to 19,Taranaki,Yes,United Arab Emirates,null,null,20/03/2020
+FORMER,Cara,Confirmed,22/03/2020,Female,40 to 49,Auckland,Yes,Los Angeles,NZ1,15/03/2020,15/03/2020
+UPDATE,Cara,Confirmed,22/03/2020,Female,40 to 49,Auckland,Yes,United States of America,NZ1,15/03/2020,15/03/2020
+FORMER,Maddie,Confirmed,24/03/2020,Female,1 to 4,Canterbury,Yes,Jakarta,null,null,null
+UPDATE,Maddie,Confirmed,24/03/2020,Female,1 to 4,Canterbury,Yes,Indonesia,null,null,null
+FORMER,Nita,Confirmed,26/03/2020,Female,20 to 29,Northland,Yes,Dubai,EK448,null,24/03/2020
+UPDATE,Nita,Confirmed,26/03/2020,Female,20 to 29,Northland,Yes,Saudi Arabia,EK448,null,24/03/2020
+FORMER,Honor,Confirmed,22/03/2020,Female,30 to 39,Auckland,Yes,null,EK448,19/03/2020,null
+UPDATE,Honor,Confirmed,22/03/2020,Female,30 to 39,Auckland,Yes,United Kingdom,EK448,19/03/2020,null

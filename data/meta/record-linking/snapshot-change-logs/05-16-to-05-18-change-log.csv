@@ -1,0 +1,2 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+INSERT,Clive,Confirmed,15/05/2020,Male,1 to 4,Canterbury,No,null,null,null,null

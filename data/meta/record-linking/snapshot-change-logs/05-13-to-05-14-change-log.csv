@@ -1,0 +1,21 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+FORMER,Leilani,Confirmed,22/03/2020,Female,20 to 29,Waitematā,Yes,United Arab Emirates,EK448,19/03/2020,19/03/2020
+UPDATE,Leilani,Confirmed,22/03/2020,Female,20 to 29,Waitematā,Yes,United Arab Emirates,EK448,18/03/2020,19/03/2020
+FORMER,Amyra,Confirmed,10/05/2020,Female,30 to 39,Auckland,No,null,null,null,null
+UPDATE,Amyra,Confirmed,10/05/2020,Female,30 to 39,Waitematā,No,null,null,null,null
+FORMER,Kaiya,Confirmed,24/03/2020,Female,20 to 29,Auckland,Yes,United States of America,null,null,23/03/2020
+UPDATE,Kaiya,Confirmed,24/03/2020,Female,20 to 29,Auckland,Yes,United States of America,UA917,21/03/2020,23/03/2020
+FORMER,Clementine,Confirmed,24/03/2020,Female,30 to 39,Waitematā,Yes,New Zealand,EK448,21/03/2020,23/03/2020
+UPDATE,Clementine,Confirmed,24/03/2020,Female,30 to 39,Waitematā,Yes,United Arab Emirates,EK448,21/03/2020,23/03/2020
+FORMER,Duane,Confirmed,22/03/2020,Male,20 to 29,Waitematā,Yes,United States of America,QF143,18/03/2020,18/03/2020
+UPDATE,Duane,Confirmed,22/03/2020,Male,20 to 29,Waitematā,Yes,Australia,QF143,18/03/2020,18/03/2020
+FORMER,Garry,Confirmed,20/03/2020,Male,70+,Waitematā,No,null,null,null,null
+UPDATE,Garry,Confirmed,20/03/2020,Male,70+,Waitematā,No,null,NZ615,11/03/2020,null
+FORMER,Emily,Confirmed,23/03/2020,Female,15 to 19,Auckland,Yes,Australia,QF141,19/03/2020,21/03/2020
+UPDATE,Emily,Confirmed,23/03/2020,Female,15 to 19,Auckland,Yes,Australia,QF0143,19/03/2020,21/03/2020
+FORMER,Shane,Confirmed,28/03/2020,Male,40 to 49,Waitematā,Yes,United Kingdom,null,null,15/03/2020
+UPDATE,Shane,Confirmed,28/03/2020,Male,40 to 49,Waitematā,Yes,null,null,null,15/03/2020
+FORMER,Monty,Confirmed,23/03/2020,Male,20 to 29,Auckland,Yes,Singapore,SQ863,21/03/2020,22/03/2020
+UPDATE,Monty,Confirmed,23/03/2020,Male,20 to 29,Auckland,Yes,Singapore,SQ258,21/03/2020,22/03/2020
+FORMER,Reneé,Confirmed,22/03/2020,Female,40 to 49,Waitematā,Yes,United States of America,null,14/03/2020,16/03/2020
+UPDATE,Reneé,Confirmed,22/03/2020,Female,40 to 49,Waitematā,Yes,United States of America,NZ5,14/03/2020,16/03/2020

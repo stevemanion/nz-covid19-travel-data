@@ -1,0 +1,24 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+INSERT,Cherry,Probable,25/04/2020,Female,40 to 49,Waitematā,No,null,null,null,null
+INSERT,Alaina,Confirmed,26/04/2020,Female,30 to 39,Waitematā,No,null,null,null,null
+INSERT,Chloe,Probable,25/04/2020,Female,50 to 59,Waitematā,No,null,null,null,null
+INSERT,Maya,Probable,24/04/2020,Female,10 to 14,Counties Manukau,No,null,null,null,null
+INSERT,Juliette,Probable,26/04/2020,Female,50 to 59,Taranaki,No,null,null,null,null
+DELETE,Fredrick,Probable,23/04/2020,Male,20 to 29,Waikato,No,null,null,null,null
+DELETE,Kirsten,Probable,21/04/2020,Female,30 to 39,Waikato,null,null,null,null,null
+DELETE,Cathrine,Probable,16/04/2020,Female,20 to 29,Waikato,No,null,null,null,null
+DELETE,Shayna,Probable,23/04/2020,Female,20 to 29,Waikato,No,null,null,null,null
+DELETE,Huxley,Probable,25/04/2020,Male,20 to 29,Waikato,null,null,null,null,null
+DELETE,Pippa,Probable,09/04/2020,Female,40 to 49,Waikato,No,null,null,null,null
+FORMER,Coralie,Confirmed,05/04/2020,Female,40 to 49,Waitematā,No,null,null,null,null
+UPDATE,Coralie,Confirmed,05/04/2020,Female,40 to 49,Counties Manukau,No,null,null,null,null
+FORMER,Ariya,Probable,31/03/2020,Female,70+,Bay of Plenty,null,null,NZ674,17/03/2020,null
+UPDATE,Ariya,Probable,31/03/2020,Female,70+,Bay of Plenty,No,null,NZ674,17/03/2020,null
+FORMER,Terrence,Confirmed,01/04/2020,Male,70+,Auckland,Yes,United Kingdom,QR920,19/03/2020,24/03/2020
+UPDATE,Terrence,Confirmed,01/04/2020,Male,70+,Auckland,Yes,Qatar,QR920,19/03/2020,20/03/2020
+FORMER,Carter,Probable,21/04/2020,Male,40 to 49,Counties Manukau,null,null,null,null,null
+UPDATE,Carter,Probable,21/04/2020,Male,40 to 49,Counties Manukau,No,null,null,null,null
+FORMER,Brylee,Confirmed,25/04/2020,Female,50 to 59,Taranaki,Yes,France,NZ,15/03/2020,15/03/2020
+UPDATE,Brylee,Confirmed,25/04/2020,Female,50 to 59,Taranaki,Yes,France,null,15/03/2020,15/03/2020
+FORMER,Teressa,Probable,09/04/2020,Female,1 to 4,Bay of Plenty,null,null,null,null,null
+UPDATE,Teressa,Probable,09/04/2020,Female,1 to 4,Bay of Plenty,No,null,null,null,null

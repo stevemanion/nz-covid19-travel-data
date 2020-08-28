@@ -1,0 +1,5 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+INSERT,Jenifer,Confirmed,09/05/2020,Female,20 to 29,Counties Manukau,Yes,United States of America,null,null,25/04/2020
+INSERT,Kiwa,Confirmed,27/04/2020,Male,30 to 39,Waitematā,No,null,null,null,null
+FORMER,Corrina,Confirmed,22/03/2020,Female,50 to 59,Counties Manukau,Yes,Spain,QR920,17/03/2020,18/03/2020
+UPDATE,Corrina,Confirmed,22/03/2020,Female,50 to 59,Counties Manukau,Yes,Qatar,QR920,17/03/2020,18/03/2020

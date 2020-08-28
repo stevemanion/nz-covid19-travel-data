@@ -1,0 +1,33 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+INSERT,Sheryll,Probable,01/05/2020,Female,50 to 59,Auckland,No,null,null,null,null
+INSERT,Zahara,Confirmed,01/05/2020,Female,70+,Waitematā,null,null,null,null,null
+INSERT,Lilly,Confirmed,30/04/2020,Female,40 to 49,Waikato,No,null,null,null,null
+INSERT,Shelby,Probable,01/05/2020,Female,20 to 29,Auckland,No,null,null,null,null
+INSERT,Jacqui,Probable,25/04/2020,Female,30 to 39,Waitematā,No,null,null,null,null
+INSERT,Alexandria,Confirmed,01/05/2020,Female,20 to 29,Canterbury,No,null,null,null,null
+INSERT,Cian,Probable,01/05/2020,Male,30 to 39,Waitematā,No,null,null,null,null
+DELETE,Britney,Confirmed,30/03/2020,Female,40 to 49,Waikato,No,null,null,null,null
+FORMER,Ana,Confirmed,01/04/2020,Female,40 to 49,Auckland,Yes,Canada,null,null,25/03/2020
+UPDATE,Ana,Confirmed,01/04/2020,Female,40 to 49,Auckland,Yes,Canada,AC51,23/03/2020,25/03/2020
+FORMER,Micah,Confirmed,06/04/2020,Male,70+,Canterbury,No,null,null,null,null
+UPDATE,Micah,Confirmed,06/04/2020,Male,70+,Canterbury,No,null,NZ527,23/03/2020,null
+FORMER,Travis,Confirmed,01/05/2020,Male,60 to 69,Auckland,null,null,null,null,null
+UPDATE,Travis,Confirmed,01/05/2020,Male,60 to 69,Auckland,No,null,null,null,null
+FORMER,Koa,Confirmed,07/04/2020,Male,20 to 29,Waitematā,Yes,Indonesia,null,null,23/03/2020
+UPDATE,Koa,Confirmed,07/04/2020,Male,20 to 29,Waitematā,Yes,Indonesia,EK450,23/03/2020,23/03/2020
+FORMER,Sandra,Confirmed,29/04/2020,Female,30 to 39,Nelson Marlborough,Yes,Cook Islands,null,null,26/03/2020
+UPDATE,Sandra,Confirmed,29/04/2020,Female,30 to 39,Nelson Marlborough,Yes,Cook Islands,NZ5957,null,26/03/2020
+FORMER,Russell,Confirmed,09/04/2020,Male,40 to 49,Capital and Coast,Yes,Qatar,NZ19K,3/03/2020,31/03/2020
+UPDATE,Russell,Confirmed,09/04/2020,Male,40 to 49,Capital and Coast,Yes,Qatar,NZ19K,null,31/03/2020
+FORMER,Harlen,Confirmed,24/03/2020,Male,40 to 49,Waitematā,Yes,United States of America,AA83,19/03/2020,21/03/2020
+UPDATE,Harlen,Confirmed,24/03/2020,Male,40 to 49,Auckland,Yes,United States of America,AA83,19/03/2020,21/03/2020
+FORMER,Philip,Confirmed,03/04/2020,Male,60 to 69,Northland,null,null,null,null,null
+UPDATE,Philip,Confirmed,03/04/2020,Male,60 to 69,Northland,No,null,null,null,null
+FORMER,Sariah,Confirmed,03/04/2020,Female,40 to 49,Counties Manukau,Yes,United States of America,null,null,8/03/2020
+UPDATE,Sariah,Confirmed,03/04/2020,Female,40 to 49,Counties Manukau,No,null,null,null,null
+FORMER,Gia,Confirmed,01/04/2020,Female,20 to 29,Waitematā,Yes,Australia,QF143,17/03/2020,17/04/2020
+UPDATE,Gia,Confirmed,01/04/2020,Female,20 to 29,Waitematā,Yes,Australia,QF143,null,17/04/2020
+FORMER,Ewan,Confirmed,23/03/2020,Male,50 to 59,Nelson Marlborough,Yes,Australia,PILOT?,null,19/03/2020
+UPDATE,Ewan,Confirmed,23/03/2020,Male,50 to 59,Nelson Marlborough,Yes,Australia,null,null,19/03/2020
+FORMER,Isla-Rose,Confirmed,29/03/2020,Female,20 to 29,Canterbury,Yes,France,EK00412,15/03/2020,16/03/2020
+UPDATE,Isla-Rose,Confirmed,28/03/2020,Female,20 to 29,Canterbury,Yes,France,EK00412,15/03/2020,16/03/2020

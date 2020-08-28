@@ -1,0 +1,7 @@
+log,nameId,status,reportDate,gender,ageGroup,dhb,overseas,lastCountry,flightNumber,departureDate,arrivalDate
+INSERT,Zane,Confirmed,24/04/2020,Male,10 to 14,Waitematā,No,null,null,null,null
+INSERT,Katarina,Confirmed,24/04/2020,Female,10 to 14,Waitematā,No,null,null,null,null
+FORMER,Zahara,Confirmed,01/05/2020,Female,70+,Waitematā,null,null,null,null,null
+UPDATE,Zahara,Confirmed,01/05/2020,Female,70+,Waitematā,No,null,null,null,null
+FORMER,Carter,Probable,21/04/2020,Male,40 to 49,Counties Manukau,No,null,null,null,null
+UPDATE,Carter,Probable,21/04/2020,Male,40 to 49,Counties Manukau,Yes,Fiji,null,null,20/03/2020
